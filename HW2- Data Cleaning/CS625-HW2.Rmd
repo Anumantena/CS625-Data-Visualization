@@ -1,0 +1,256 @@
+---
+title: "CS625-HW2"
+author: "Anuradha Mantena"
+date: "9/19/2020"
+output: rmarkdown::github_document
+---
+
+
+###### Data Source: 
+The petnames.csv data set has around 1784 observations with 7 columns and it is a mix between categorical and numeric values. Here is the link to the Data Set: https://github.com/jgolbeck/petnames
+
+#### Part 1 : Data Cleaning
+
+
+###### Step 1 : Load file and Create Project
+
+When you open the Open refine, Click on "Create Project", then "choose files". Select file from your computer i.e petsname.csv, then click on "Next". Then click on Create Project.
+
+###### Step 2 : Cleaning up "What kind of pet is this" column 
+
+First check how many different number of choices in the column. Here there are total 69 variety kinds of pets.The data in this column is a mixture of entries with uppercase, some with lowercase letters,some are irrelevant, few are blanks, few values with spelling mistakes etc..
+
+
+![myimage](report_files/figure-gfm/total_petkind_choices.png)
+The data contains variants of the names for pet kind. To fix this, use Edit cells->Cluster and edit --> select the relevant ones --> Merge selected & Close.
+
+![myimage](report_files/figure-gfm/cluster_edit_petkind.png)
+
+There is a row with multiple entries like Dog, dog, dog , cat with four different Names,age band and breed. Flag that particular row and choose to split into multiple cells (as shown in below fig). Apart from the cell that we clicked, three new other cells will create. Manually add the values accordingly in their respective columns.
+
+![myimage](report_files/figure-gfm/multicells_split.png)
+There is a total of two blanks in this column, first blank is an empty row we can delete the entire row. Another blank has values in other columns and so is replaced the blank cell with "Unknown" value using below GREL expression.
+
+```
+	if(value==null,'Unknown',value)
+```
+
+Using the below GREL expression, the "other-(kind of pet's name)" category is replaced with their respective kind of pet name.
+
+```
+value.replace("Other-guinea pig","Guinea pig").replace("Others bees", "Bees").replace("Others snake", "Snake")
+```
+
+Few entries are not actual pet kind names, they are a mix of breeds names, and types of pets. For example, pitbull is one of the dog breed names (referred from https://dogtime.com/dog-breeds/american-pit-bull-terrier) Hence the name "pitbull" doesn't fall in the category of pet kind name, So I have edited this row manually and marked "pitbull" under "Dog" Category. 
+
+
+Same with "Phoebe", it is a type of a bird (referred from https://en.wikipedia.org/wiki/Phoebe_(bird)) So I merged this value under" bird" type. 
+
+Also Beta fish is a type of fish. Hence it is replaced with "Fish" Category. Same for golden fish and Indoor Golden fish values these are also different types of fish.
+
+![myimage](report_files/figure-gfm/goldfish_before.png)
+In the above image we could see that few pet's breeds are blank and NA for "goldfish" category. I have changed all the above "what kind of pet" values into "Fish" and "Goldfish" as their pet's breed as shown in below fig.
+
+![myimage](report_files/figure-gfm/goldfish_after.png)
+
+Chinchilla, Gerbil, Hamster and chinchilla breed these are all comes under Rodents family. I combined all these entries manually and named as "Rodents". (referred from  https://www.gerbilwelfare.com/gerbil-and-chinchilla-differences/#)
+
+Leopard Gecko and Gecko animals belong to the "Lizard" family. (referred from https://en.wikipedia.org/wiki/Gecko) I considered them into the "Lizard" type and replaced them with the "Leopard gecko" and "gecko" as their breed.
+
+Below values are irrelevant to the pet kind name so I manually changed them into "Others" by clicking on Facet --> Text-Facet --> edit. 
+
+1. Roomba
+2. server
+3. Robot
+4. Card Board Poster
+5. Virus
+
+
+
+Below are the few values with spelling mistakes which are corrected manually by clicking on Facet --> Text-Facet --> edit. 
+
+1. Dlg - Dog
+2. Sog - Dog
+3. Ca  - Cat
+4. Doggo - Dog
+
+* As katze is a German name for a cat so I have merged this  value into the "Cat" kind.
+
+Note : There were a total 69 different choices of pet kinds in the column, after we cleaned the data now there are 27 kinds of pets.
+
+###### Step 3 : Cleaning up "Pet's Full Name" and "Pet's everyday Name" column 
+
+The column "Pet's Full Name" has a total of 1479 different values also the column "Pet's everyday Name" has a total of 1328 choices.
+
+
+As mentioned in step 2, while cleaning the "what kind of pet's name" column, few rows have multiple values that were split into multi cells, and few extra cells are created. Taking those cells into consideration now we have 1486 different values in the "what kind of pet's name" column and 1330 different values in the "Pet's everyday Name" column.
+
+There are a total of 5 & 10 blank values in these columns. Using the below GREL expression, all blanks are replaced with "Unknown" values.
+
+
+```r
+	if(value==null,'Unknown',value)
+```
+
+Note: Both these columns contain different pet names and their everyday names. Names could be of anything and it is hard to clean these two columns, I feel like this column does not have any impact on the results . Hence I only replaced the blanks values with "Unknown".
+
+###### Step 4 : Cleaning up "Pet's Age" column 
+
+There is a total of 204 different age groups in this column. This column contains not only numeric but also categorical values like in weeks, months, years, dead, not sure, unknown, and blanks. I wanted to calculate the age in years. Hence I am converting all weeks and months into years.
+
+First, replace all the approximate symbols (~) using below GREL expression.
+
+
+```r
+value.replace("~", "").replace(" ","")
+```
+Using Cluster & edit cells I have changed the values of " deceased,Deceased - Dead", "Not sure to Unknown".
+
+![myimage](report_files/figure-gfm/petsage_cluster.png)
+
+Converting months to a year :
+
+A year has 12 months hence the time in years is equal to the months divided by 12.0. (If we use /12- month values changes to 0, hence I used 12.0 to get float values)  Below GREL expression is used to replace "months" and "month" then divided by 12.
+
+```r
+toNumber(value.replace("months", "").replace("month","").replace(" ",""))/12.0
+```
+
+![myimage](report_files/figure-gfm/months_to_years.png)
+
+Converting weeks to a year :
+Every year has 53 weeks, I wanted to convert all the week's values into years by dividing with 53.
+
+```r
+toNumber(value.replace("weeks", "").replace("week","").replace(" ",""))/53.0
+```
+
+There are few values with years and yrs, replacing yrs/year with space
+
+```r
+value.replace("yrs", "").replace("year","")
+```
+
+
+
+
+
+
+
+
+
+###### Step 5 : Cleaning up "Pet's Breed column 
+
+There are a total of 784 choices in this column. In this, 262 choices are blank. All the blanks are replaced by "Unknown" using the below GREL expression :
+
+```
+	if(value==null,'Unknown',value)
+```
+The data contains variants of the names for pet kind. To fix this, use Edit cells->Cluster and edit. We could see the 87 choices of clusters, select the relevant ones which you want to merge --> Merge selected & Close. Below are a few clusters which I used to merge
+
+![myimage](report_files/figure-gfm/breeds_ss1.png)
+
+Few cells have irrelevant which are not related to the pet's breed at all. I have replaced the below values with "Unknown" manually.
+
+* Replaced 8 years
+* Who knows
+* None
+* A mess
+* Rescue
+
+Note: A mutt, mongrel, or mixed-breed dog is a dog that does not belong to one officially recognized breed. (referred from https://en.wikipedia.org/wiki/Mongrel)
+
+Many cells contain mutt, mongrel, mix, and crossbreed values, so I have used Edit cells --> Cluster and Edit --> changed to "Mixed". Few of these breed values won't appear in a cluster, we have to replace manually.
+
+I have replaced all the "mix" values into a "Mixed" breed using below GREL expression.
+
+```r
+if(value.contains("mix"),replace(value,value,'Mixed'),value)
+```
+Few cells have a color name along with the breed name I  have replaced these with the breed name. Below are the few values that i change by using cluster and edit and a few by manually.
+* Chocolate Labrador, Chocolate lab - Labrador Retriever
+
+* Yellow lab, Yellow Labrador Retriever, Black Labrador, Black lab -  Labrador Retriever
+
+* Orange tabby, ginger - Tabby
+
+* Yellow tabby long hair - Tabby
+
+* Golden Fish(common), (Tiny) - Golden fish
+
+* High Yellow Leopard gecko - Leopard Gecko
+
+Note: 
+
+* Pibble is one of the pit bull breeds (referred from http://pamperedpetsinc.com/theres-a-new-breed-in-town-and-its-called-the-pibble/). Hence I have changed "Pibble" to "pit bull".
+
+* The Dachshund also called Doxin Dog or Doxen/Doxie so I replaced manually "Doxin" to "Dachshund".
+
+
+We have total 784 choices as we cleaned the data now we have 353 choices of data. 
+
+
+
+#### Part 2 : Answering the questions
+
+1.   How many types (kinds) of pets are there?
+
+Ans: To see how many types of pets, click on the column "what kind of pet is this" choose Facet --> Text Facet. On the left side top, we can see the total number of different choices in that column. Here we have a total of 27 different kinds of pets are thereafter the data cleaned.
+![myimage](report_files/figure-gfm/Q1.png)
+
+2.   How many dogs?
+
+Ans: To check how many dogs we have in the sheet, click Facet --> Text Facet. On the left top side, we can see the total number of different choices in that column. Next to choices, there is sort by option--> click on the count. There are a total of 1130 dogs.
+![myimage](report_files/figure-gfm/Q2.png)
+
+3.   How many breeds of dogs?
+
+Ans: Click on the column "what kind of pet is this" choose Facet --> Text Facet. On the left side top, we can see the total number of different choices in that column. Click on the Dog option. Now go to the column "Pet's breed", apply Facet-->Text Facet. On our left side panel, we can see there are a total of 224 breeds of dogs.
+
+![myimage](report_files/figure-gfm/Q3.png)
+
+4.   What's the most popular dog breed?
+
+Ans: Click on the column "what kind of pet is this" choose Facet --> Text Facet. On the left side top, we can see the total number of different choices in that column. Click on the Dog option. Now go to the column "Pet's breed", apply Facet-->Text Facet --> Click on count option next to choices. We could see the top count in decreasing order here we have a high number of mixed-breed dogs with a count of 257, followed by Golden Retriever with a count of 169.
+
+![myimage](report_files/figure-gfm/Q4.png)
+
+5.   What's the age range of the dogs?
+
+Ans: Click on the column "what kind of pet is this" choose Facet --> Text Facet. On the left side top, we can see the total number of different choices in that column. Click on the Dog option. Now go to the column 
+"pets age" choose Facet --> Text Facet. On the left side, we can see the minimum and maximum age values. As I have converted all the age range into years, the minimum age range of dogs is 0.1 year - 22 years of maximum age.
+
+![myimage](report_files/figure-gfm/Q5.png)
+
+6.    What's the age range of the guinea pigs?
+
+Ans:  Click on the column "what kind of pet is this" choose Facet --> Text Facet. On the left side top, we can see the total number of different choices in that column. Click on the "Guinea Pig" option. Now go to the column "pets age" choose Facet --> Text Facet. The minimum age range of guinea pigs is 1 year and a maximum of 5 years.
+
+![myimage](report_files/figure-gfm/Q6.png)
+
+7.   What is the oldest pet?
+
+Ans: To know what is the oldest pet, Click on pet's age --> Facet --> Text Facet --> sort by count. We can see all the ages click on the maximum age value. Bruce Springsteen is the oldest **Cat** among the pets with the age of 24 years.
+
+![myimage](report_files/figure-gfm/Q7.png)
+
+8.   Which are more popular, betta fish or goldfish? How many of each?
+
+Ans: To find this out, Go to the column "what kind of pet is this" choose Facet --> Text Facet and then click on "Fish" type. Now go to the pet's breed column and click on the Facet --> Text Facet --> click on the count. Betta fish is more popular than goldfish. Betta fish has a count of 11 and goldfish are of 4.
+
+![myimage](report_files/figure-gfm/Q8.png)
+
+
+9.   What's the most popular everyday name for a cat?
+
+Ans:  Go to the column "what kind of pet is this" choose Facet --> Text Facet and then click on "Cat" type. Now go to the "pet's everyday name" column and click on the Facet --> Text Facet --> click on the count. **Kitty** is the most popular everyday name for a cat with a count of 6.
+
+![myimage](report_files/figure-gfm/Q9.png)
+
+10.  What's the most popular full name for a dog?
+
+Ans: Go to the column "what kind of pet is this" choose Facet --> Text Facet and then click on "Dog" type. Now go to the "pet's everyday name" column and click on the Facet --> Text Facet --> click on the count. **Maggie** and **Sadie** are the two most popular full names for a dog with a count of 7.
+ 
+![myimage](report_files/figure-gfm/Q10.png)
+
+

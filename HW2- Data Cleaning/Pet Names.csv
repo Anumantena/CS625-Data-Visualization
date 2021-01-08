@@ -1,0 +1,1785 @@
+Timestamp,"What kind of pet is this (Dog, Cat, Bird, Other)","Pet's Full Name (you don't have to include your last name. Think ""Winston Churchill"" and not ""Winston Churchill MYLASTNAME"")","Pet's everyday name (e.g. ""Church"")",Pet's age,Pet's breed (if applicable)
+7/21/2019 18:03:48,Dog,Widget,Widget,5,Mini dachshund
+7/21/2019 18:03:50,Dog,Stella Bo Bella,Stella,6.5,mutt
+7/21/2019 18:03:57,Cat,Meryl Streep,Merrill,8,
+7/21/2019 18:04:07,Dog,Tilly,Tills,13,Chocolate Labrador
+7/21/2019 18:04:14,Cat,Pumpkin,Pumpkin,12,
+7/21/2019 18:04:26,Dog,Peter Peter Pumpkin Eater,Petey,5ish,Pit bull
+7/21/2019 18:04:29,Cat,Jacques,Jacques,12 years,
+7/21/2019 18:04:30,Dog,Remy,Rem,1,Unknown
+7/21/2019 18:04:35,Dog,Oreo,Oreo,7,Some kind of mix
+7/21/2019 18:04:41,Dog,Ljus  (Swedish word for light),Ljus ,14 weeks ,Golden retriever 
+7/21/2019 18:04:52,Dog,Bambi,Bambs,3,Unknown
+7/21/2019 18:04:54,Cat,Marie Curie,Marie,3 years,
+7/21/2019 18:05:02,Cat,Clarence,Clarence,12,Russian Blue
+7/21/2019 18:05:05,Dog,Layla ‘The Tank’,Layla,3,Pitbull 
+7/21/2019 18:05:13,Cat,Amber,Ambs,10,Tortoiseshell cat
+7/21/2019 18:05:14,Dog,Benny and the Jets,Ben,1,Mastiff/Great Dane
+7/21/2019 18:05:16,Dog,Milo ,Milo,7,Bichon frisee
+7/21/2019 18:05:21,Dog,Mocha,Mocha,3,Pitbull/Terrier mix
+7/21/2019 18:05:22,Dog,Shadow ,Shadow ,15 ½ ,Golden retriever 
+7/21/2019 18:05:22,Cat,Little Bit,Skittles,10,Tabby
+7/21/2019 18:05:25,Dog,Luna,Luna,1,Great Pyrenees 
+7/21/2019 18:05:29,Cat,Garrison,Garrison ,9,Russian Blue
+7/21/2019 18:05:33,Dog,Cody,"Baby, Pookie",13,Black lab/cocker spaniel mix
+7/21/2019 18:05:39,Hamster,Hammy,Ham,1,Russian dwarf hamster
+7/21/2019 18:05:49,Cat,Zoey,Zoey,13,Cat
+7/21/2019 18:05:50,Dog,Oatmeal,Oatmeal,7 months,Golden retriever
+7/21/2019 18:05:51,Dog ,Ginger ,Nugget ,10,Chihuahua 
+7/21/2019 18:05:53,Cat,Lucy,Lucy,4,Russian Blue 
+7/21/2019 18:05:53,Dog,Starbuck Louise,Starbuck,4,Goldendoodle
+7/21/2019 18:05:56,Dog,Mocha Antoinette,Mocha,7,Mutt
+7/21/2019 18:06:05,Sog,Oscar ,Oscar ,10,Shepherd retriever mix
+7/21/2019 18:06:07,Cat,Serena,Mouse Pie,17,Domestic Longhair
+7/21/2019 18:06:08,Cat,Maxine Waters,Maxine,4,
+7/21/2019 18:06:21,Dog,Magnolia Mae,Noli,2.5,Great Pyrenees/Lab
+7/21/2019 18:06:28,Dog,George Cooper,Georgie,2,Golden Retriever
+7/21/2019 18:06:28,Dog,Cayenne,Cayenne,8,German Shepherd
+7/21/2019 18:06:37,Cat,Pip,Pip,11,Tuxedo 
+7/21/2019 18:06:40,Dog,Olive Oil,Olive,2,Australian Shepherd
+7/21/2019 18:06:42,Rabbit,Iggy and Ziggy ,Igs and Zigs,3,Lop and angora
+7/21/2019 18:06:45,Dog,Brook,Brookie,7,Golden Retriever
+7/21/2019 18:06:46,Dog,Sparkie,"Spark, Sparkie, sparkle",4,Mutt
+7/21/2019 18:06:48,Dog,Max,Maxie,16,carin terrier/ kerry blue terrier/ keeshond
+7/21/2019 18:06:49,Pit bull,Howard,Howie,10,American Staffordshire Terrier mix
+7/21/2019 18:06:57,Cat,Samantha Bee,Sam,3,Tuxedo
+7/21/2019 18:07:05,dog,Ella Fitzgerald,Ella,12,Heinz 57
+7/21/2019 18:07:06,Cat,Chanel,Teeny,6.5,
+7/21/2019 18:07:06,Other,Commander Ambrose,The Commander,10 months,Betta Fish
+7/21/2019 18:07:14,Dog,Josephine Bakes,Josie,5,Pitbull/lab mix
+7/21/2019 18:07:19,Dog,Lennie,Lennie,2,Treeing Tennessee Brindle 
+7/21/2019 18:07:31,Cat,Obsidian Jazz Paws,OJP,1,Feral
+7/21/2019 18:07:32,Cat,Scotty ,Scotty ,8,Domestic short hair 
+7/21/2019 18:07:39,Cat,Macallan,Mac,8,
+7/21/2019 18:07:39,Dog,Cody James,Buddy,1.5 years,Golden Retriever
+7/21/2019 18:07:44,Dog,Jake,Jake,2,Golden Retriever/Husky/Shepherd/Jack Russell 
+7/21/2019 18:07:47,Cat,Katie ,Boo,9,Tuxedo moggy
+7/21/2019 18:07:54,Server,damn,it,2 years,Skylake
+7/21/2019 18:08:03,Dog,Gail,Gail,3,Treeing Tennessee Brindle 
+7/21/2019 18:08:14,Other,Bella ,Bella,2,Russian Dwarf Hamster
+7/21/2019 18:08:18,Cat,June Bug,June Bug,5,
+7/21/2019 18:08:28,Dog,Lucky,"Luck, Luckboy, Luck duck","3, we think (he’s a rescue)","Jack a bee (half jack russell, half beagle)"
+7/21/2019 18:08:34,Dog,Darcy,Darcy,3,Working cocker spaniel
+7/21/2019 18:08:38,cat,Neko,"Neko, Cat, Kitten",6,domestic shorthair
+7/21/2019 18:08:47,Cat,Maisy,Maisy,7,
+7/21/2019 18:08:50,Dog,Luke Anakin,Luke,9,Golden Retriever 
+7/21/2019 18:08:52,Dog,Sadie,Sadie Pot Pie,10,mixed
+7/21/2019 18:09:01,Dog,Hazel Nut,Hazel,3,Australian Shepherd
+7/21/2019 18:09:05,Cat,Mongoose,Goosey,23 months,
+7/21/2019 18:09:08,Cat,Flerf,Bab,16,Tortie 
+7/21/2019 18:09:12,Dog,Bourbon,Bourbon,3,Mixed
+7/21/2019 18:09:19,Dog,Riley,Smiley Riley,13,Golden retriever 
+7/21/2019 18:09:19,Cat,Murphy,Murph ,13,Domestic shorthair 
+7/21/2019 18:09:22,Dog,Mr. Nubs,Mr. Nubs,16,Corgi
+7/21/2019 18:09:27,Cat,Mackerel,Mack,23 months,
+7/21/2019 18:09:28,cat,Regis,"Regis (or ""little asshole"")",about 10 months,
+7/21/2019 18:09:34,Cat,Laetynne Marah,Lae lae,7,Siamese
+7/21/2019 18:09:37,Cat,Callie,Callie,15,Domestic shorthair (calico)
+7/21/2019 18:09:42,Dog,Bentley,Bentley boy,3,Australian labradoodle 
+7/21/2019 18:09:42,Cat,Crumb Bun,Bobo,9,Tuxedo garbage cat 
+7/21/2019 18:09:46,Dog,Fenway,Fenway,6,Boston terrier
+7/21/2019 18:09:47,Dog,Benelli ,Name,3,Black lab
+7/21/2019 18:09:50,Turtle,Lenny,Lenny,12,
+7/21/2019 18:09:51,Dog,Washington the Destroyer,Wash,6.5,Chocolate lab
+7/21/2019 18:09:51,Cat,Otto,Otto,16,
+7/21/2019 18:09:52,Dog,Philomenos,"Philo, Phil, phi phi",9,Portuguese Water Dog 
+7/21/2019 18:09:58,Dog,Stampy Wiggles ,Stampy,10,Golden Doodle
+7/21/2019 18:09:58,Dog,Jasmine ,Jaz ,5,Golden Retriever 
+7/21/2019 18:10:00,Dog,Emma,Puppy,1,Chocolate lab
+7/21/2019 18:10:01,Dog,Winston,Wintin,4,Wire-haired mutt
+7/21/2019 18:10:02,Dog,Torchenay Be Cool,Max,13,Beagle
+7/21/2019 18:10:05,Cat,Petunia Marie,Tooney,7,Domestic Shorthair-Tabby
+7/21/2019 18:10:17,Dog,Brutus ,Brutus ,7,Yellow Labrador Retriever
+7/21/2019 18:10:23,Cat,Louis,LouLou,4.5,Black cat
+7/21/2019 18:10:30,Cat,Lilah May,Lilah,12,Domestic Shorthair-Black
+7/21/2019 18:10:31,Dog,Lucu,Puppy,7,Black lab/ blue heeler
+7/21/2019 18:10:32,Dog,Mosephine,Mo,1,Standard poodle
+7/21/2019 18:10:32,Dog,Abegeweit,Abi (Abby),16,Fox terrier mix
+7/21/2019 18:10:34,Dog,Kramer,Kray Kray,12,Golden retriever
+7/21/2019 18:10:38,Bird,Coco Moe,Coco,15,Cockatiel
+7/21/2019 18:10:41,Cat,Apollo,Beeper,1,
+7/21/2019 18:10:51,Dog,Rusty,Wusty,5,Lab golden
+7/21/2019 18:10:51,Dog,Demi,"Dems, demi dog, the queen",6,"Mixed (dachshund, basenji, australian cattle dog, rescue)"
+7/21/2019 18:10:54,Dog,Alfredog,Alfie,11,Mutt - mostly Jack Russell
+7/21/2019 18:10:58,Bunny,Professor Nibblesworth Bunnypants,Nibbles,6,Netherland Dwarf
+7/21/2019 18:10:59,Dog,Shorty Do-Op,Shorty,15,mutt
+7/21/2019 18:11:04,Dog,Penny,Penny,3,Australian Shepherd 
+7/21/2019 18:11:05,Dog,Tuxedo,Tux,18 months,Schnauzer
+7/21/2019 18:11:10,Dog,Sally,Sally,7,Golden retriever
+7/21/2019 18:11:12,Dog,Lola,Lola,6,Mixed Breed
+7/21/2019 18:11:13,Cat,Noodle,Noodle,4,domestic medium haired
+7/21/2019 18:11:16,Dog,Gustav,Goober,10,German Shepherd mix 
+7/21/2019 18:11:20,Hamster,Charlie,Charlie ,1.5,Syrian
+7/21/2019 18:11:25,Dog,Poppy Sue Galushka Clementine,Poppy,4,Treeing Walker Coonhound
+7/21/2019 18:11:34,Dog,Duke,Duke,3,Australian Shepherd 
+7/21/2019 18:11:39,Dog,Millie,Mills,7,Jack Russel Terrier
+7/21/2019 18:11:39,God,Sir Winston of Weston ,"Winston , Winnie",10,Golden retriever
+7/21/2019 18:11:40,Cat,Bucky,Bucks,2,Norwegian Forest cat
+7/21/2019 18:11:50,Dog,Angus OgDog Dogga McDuff,Angus,Deceased at 13,West Highland Terrier
+7/21/2019 18:11:58,Cat,Spot,Spotty Bear,4,Domestic short hair 
+7/21/2019 18:12:01,Cat,Cookie,Cooks,2,Ragdoll
+7/21/2019 18:12:04,Dog,Lady,Doofus,6,chocolate Lab mix
+7/21/2019 18:12:07,Dog,Maggie Peaches,Maggie,13,Bichon Poodle
+7/21/2019 18:12:09,Cat,Amelia,Amelita,2,
+7/21/2019 18:12:13,Dog,Camembert,Cami,5,Bernese Mountain Dog
+7/21/2019 18:12:16,Dog,Shadow,Shadow,3,Saluki
+7/21/2019 18:12:21,dog,archer,archer,3,Golden retreiver 
+7/21/2019 18:12:24,dog,robbie ,robz,1.5,whippet
+7/21/2019 18:12:29,Cat,Noah,Noah,2,
+7/21/2019 18:12:35,Other,Penny,Pen,4,
+7/21/2019 18:12:46,Cat,Lovey Cat,Lovey,18,
+7/21/2019 18:12:52,Dog,Roxy,Roxy,8,Pit bull
+7/21/2019 18:12:54,dog,Ashton Sebastian,Ash,9,pitbull mix
+7/21/2019 18:12:54,Dog,Maximum,Max,10,Puggle
+7/21/2019 18:12:57,Dog,Rosalind Pearl,Rosie,5,Border collie mix
+7/21/2019 18:12:57,bunny,Lena,Lena,8,dwarf rabbit
+7/21/2019 18:12:58,Hamster,Beauxbaton,Beau,2.5 years,Winter white
+7/21/2019 18:13:09,Dog,Chyna,Chyna,16,Little terrier poodle mix
+7/21/2019 18:13:36,Dog,Sadie,Sadie,4,Cockapoo
+7/21/2019 18:13:43,Dog,Flynn,Flynn,11 months,Corgi
+7/21/2019 18:13:44,Cat,Felicity Louise,Flick,4,Domestic short hair
+7/21/2019 18:13:47,Other (fish),James Pond,James,5,Goldfish
+7/21/2019 18:13:55,Cat,Mars,Mars,8,Domestic Shorthair
+7/21/2019 18:14:00,Dog,Loki,Loki,3,
+7/21/2019 18:14:13,Cat,Millie ,Mill,13,Domestic shorthair 
+7/21/2019 18:14:22,Dog,Trixie,Trix,3,"Toy Fox Terrier / Yorkie (""Torkie"")"
+7/21/2019 18:14:43,Dog,Birdy ,Birdy ,4,Pomeranian mix
+7/21/2019 18:14:57,Cat,Charlotte Wallace,Chuck,8,Cat
+7/21/2019 18:15:06,Cat,Thumper Dumper Bumble Butt,Thumper,16ish,Domestic short hair
+7/21/2019 18:15:22,Dog,Vince,Vincie ,11,Yellow lab
+7/21/2019 18:15:41,Dog,Cobert ,Cob ,2,Dalmatian
+7/21/2019 18:15:55,Betta fish,Little Prince,LP,2,Fish
+7/21/2019 18:16:03,Dog,Jack Daniel,Jackie,3,Chocolate lab
+7/21/2019 18:16:06,Dog,Crinkle,Crinkle,7,Mongrel
+7/21/2019 18:16:07,dog,Maisy Lynn Marie,Mimsy,6,beagle mix
+7/21/2019 18:16:07,Dog,Beemer,Beemo,7,Aussie doodle
+7/21/2019 18:16:10,Guinea Pig,Rosencrantz WGP,Rosie,3,
+7/21/2019 18:16:10,Cat,Michelin ,Michelin,14? ,"Cat, he's a cat, we found him on my dad's tire... I think you can guess what brand tires my dad had"
+7/21/2019 18:16:13,Dog,Mac,Mac,5,Boxer/mastiff mix
+7/21/2019 18:16:14,Dog,Maximillion Taxi ,Max,9,Lab mix
+7/21/2019 18:16:17,Dog,Krypto,Dinky,6,Golden Retriever
+7/21/2019 18:16:23,Cat,Piper,Pippin,5,Cat
+7/21/2019 18:16:26,Dog,Bo Jangles,Bo,9-10 mo,Husky/Boxer
+7/21/2019 18:16:27,Cat,Slinkey,Slonk,5,
+7/21/2019 18:16:39,Dog,Brixton,Brixie ,1,Golden Retriever 
+7/21/2019 18:16:43,Dog,Jasper,Jasper,10,Miniature labradoodle
+7/21/2019 18:16:43,Cat,Tabitha,Tabber,8,
+7/21/2019 18:16:59,Dog,Shadow Montgomery,Lovebug,2,Golden Retreiver
+7/21/2019 18:17:03,Fish,Vitale Male the hot tamale who has a cooking show with Mario Batale ,Vitale,1,Beta 
+7/21/2019 18:17:04,Cat,Ramona,Meemo,4,
+7/21/2019 18:17:12,Dog,Scout,Scout,14,Beagle 
+7/21/2019 18:17:18,Cat,Cocoa,"Cokes, Nuts, Cocoa",12,Tuxedo shorthair
+7/21/2019 18:17:19,Cat,Napoleon,Deviled egg,2,
+7/21/2019 18:17:20,Dog,Libby,Libby,12,Golden retriever 
+7/21/2019 18:17:22,Dog,Jasper Tucker Oaf,Jasper,11,Black Lab
+7/21/2019 18:17:25,Cat,Clarissa Fluffnugget,Clary,2,Domestic Long Hair
+7/21/2019 18:17:25,Dog,Tazmanian Devik,Taz,9,Mutt
+7/21/2019 18:17:34,Dog,Iggy Pup,Iggy,4 months ,Miniature double doodle 
+7/21/2019 18:17:37,Dog,Lilly,Lilly,12,Labrador retriever
+7/21/2019 18:17:39,Dog ,Furrdinand ,Furrdie ,10,Pomeranian 
+7/21/2019 18:17:43,Dog,Monster Mayhem,Doodle,8,Dachshund 
+7/21/2019 18:17:47,Dog ,Watson,Watson ,6,Labrador retriever 
+7/21/2019 18:17:47,Dog,Shine,Shine,12,Mix hound
+7/21/2019 18:17:52,Dog,Freeney Schnurpel,Freenster,13,Shih Tzu
+7/21/2019 18:18:04,Dog,Bella Jean,Bella,No longer with us :(,Chihuahua/yorkie mix 
+7/21/2019 18:18:08,Dog,Ratchet,Ratchie,5,Pug/Dachshund 
+7/21/2019 18:18:11,Dog,Clifford,Clifford,4,Clumber spaniel
+7/21/2019 18:18:16,Dog,Goose,Gooby,1,Rat Terrier Mix
+7/21/2019 18:18:24,Cat!,Cricket,"Crickby, Cringus, Don Crickles, etc.",I think he's around 7 or 8,Domestic Longhair
+7/21/2019 18:18:24,Dog,Magnus,Munchkin,7,Carin Terrier 
+7/21/2019 18:18:25,Cat,Baby Kitty,Baby Kitty,7,Kitty cat
+7/21/2019 18:18:25,Dog ,Shiloh’s Dixie Skye,Dixie ,8,Mini schnauzer 
+7/21/2019 18:18:29,Dog,Bootsie,BootsToots,17,Trrrier mixed 
+7/21/2019 18:18:29,Cat,Bowie,Kitty boy ,8 months ,Tuxedo cat
+7/21/2019 18:18:35,Dog,Mindy ,Mindy,10,Black lab 
+7/21/2019 18:18:43,Dog,Spock,Spock,7,Mix
+7/21/2019 18:18:44,Dog,Merlin,Mer-dog,12,Chesapeake bay retriever 
+7/21/2019 18:18:51,dog,Sylvia Plath,Sylvia,3,German Shorthaired Pointer
+7/21/2019 18:18:51,Dog ,Smokey Neyland,Smo ,9,Schnoodle 
+7/21/2019 18:18:51,Dog,Rufus Tee Hilderbrec,Rufus,11,shih tzu
+7/21/2019 18:18:52,Dog,Baillie,B or B-Dog,7,Border collie
+7/21/2019 18:18:53,Dog,Sebastian,Bash,4 months,Maltipoo
+7/21/2019 18:18:57,Cat,Mika Joe,Mika,9 years,Siamese
+7/21/2019 18:19:10,Dog,Tess,Tess,13,Border collie cross
+7/21/2019 18:19:15,Dog,Zorro,Z,8,Long-haired Chihuahua
+7/21/2019 18:19:17,Dog,Deacon ,Deac ,11,Chesapeake bay retriever 
+7/21/2019 18:19:36,Cat,Sir charles chickenhock chaplin the teleporting dot,Charlie,11,
+7/21/2019 18:19:39,Cat,Ally,Al,4,Cat
+7/21/2019 18:19:41,Rabbit,Gandalf,Gandalf,10,Lionhead
+7/21/2019 18:19:41,Cat,Lucas Adam Wilkins,Luke,10,Tabby
+7/21/2019 18:19:54,Dog,Robert Ferguson Mooney,Bobby,6,Golden retriever 
+7/21/2019 18:19:58,Dog,James buchanan barnes,Bucky,2,
+7/21/2019 18:20:04,Dog,Buddy Boy,Buddy,16,Cocker spaniel 
+7/21/2019 18:20:17,Cat,Cleo,Dump,2,Cat
+7/21/2019 18:20:26,Dog,Belle Watling,Belle,2,Maltese
+7/21/2019 18:20:32,Dog,Magladon wagladon,Maggie,1,Old English sheepdog
+7/21/2019 18:20:38,Dog,Bella,Bella,14,
+7/21/2019 18:20:42,Horse,Half pint,Half pint ,6,
+7/21/2019 18:20:43,Cat,Leah Suji Wilkins,The Squeak aka Squeakerfish,10,Tabby
+7/21/2019 18:20:53,Dog,Sophie,Sophie,11,Golden retriever 
+7/21/2019 18:20:56,Cat,Mitsy,Mitsy,4,
+7/21/2019 18:20:57,Dog,Stewart Little,Stewie ,16, Pomeranian 
+7/21/2019 18:21:00,Dog,Sadie,Sadie,11 Months,Golden Retriever
+7/21/2019 18:21:01,Dog,Ashley Wilkes,Ash,11,Yorkie Poodle
+7/21/2019 18:21:03,Cow,Daisy the cow,Daisy,3,
+7/21/2019 18:21:07,Dog,Oliver Jospeh Andrew,Oliver,11-12 (deceased),Golden Mix
+7/21/2019 18:21:15,Dog,Rhett,Rhetters,12,English springer spaniel 
+7/21/2019 18:21:15,Cat,Emma May Wilkins,Emma,4,Tortie
+7/21/2019 18:21:22,Cat,Hashtag Anamara Mainecoon,Hashtag,Six,Maine Coon
+7/21/2019 18:21:22,Fish ,Caroline Gravel,Gravel,2,Betta fish
+7/21/2019 18:21:23,Dog,Lily,Lil,5 years,Golden Retriever
+7/21/2019 18:21:28,Cat,Arthur Fonzarelli,Fonzie ,12,Part Maine coon
+7/21/2019 18:21:30,Cat,Vriska Serket,Vriska,8,Domestic Short Hair
+7/21/2019 18:21:31,Cat ,Fabio ,Fabio,3,
+7/21/2019 18:21:35,Dog,Cookie,CookieMonster,8,Shihtzu
+7/21/2019 18:21:36,Dog,Brutus ,Brutus,10,Great white pyrenees/yellow lab
+7/21/2019 18:21:41,Dog ,Ralph ,Ralph ,4 months ,Golden retriever 
+7/21/2019 18:21:44,Dog,Kurt,Kurtis,2,Black mouth cur 
+7/21/2019 18:21:46,Dog,Lyra Cristina,Lyra,9 mos,Mixed breed
+7/21/2019 18:21:52,Dog,Bailey bear,Bay girl,6,Lab and German shepherd mix
+7/21/2019 18:21:54,Dog,Brooklyn,Brooklyn,Two,Beagle
+7/21/2019 18:21:56,Cat,Isabelle,Izzy,11,Tortoise shell
+7/21/2019 18:21:58,Dog,Champion Craig,Champ,14,Beagle mix 
+7/21/2019 18:21:59,Cat,Kelly,Kelly,She died at age 13 in 2005 :(,
+7/21/2019 18:22:03,Dog,Lennox,Lenny ,4,Shihtzu
+7/21/2019 18:22:11,Dog,Sullivan Otis,Sulley ,10,Catahoula Leopard
+7/21/2019 18:22:11,cat,oreo vanilla cookie ,nene,11,
+7/21/2019 18:22:14,Cat,Chessie ,Chess,12 years,Siamese
+7/21/2019 18:22:18,Dog ,Hank,Hanky panky,1,Black mouth cur 
+7/21/2019 18:22:20,Dog,Allie Nichols,Allie,5,Mutt
+7/21/2019 18:22:22,Dog,Lila,Lila,5,Newfoundland 
+7/21/2019 18:22:26,Cat,Bubbles,Bubs,11 years,Chartreux
+7/21/2019 18:22:28,Dog,Liberty Louise,Libby,9,English Springer Spaniel
+7/21/2019 18:22:29,Cat,Sushi Charrito,Sush,2 years,Tuxedo cat
+7/21/2019 18:22:31,Cat,Mouse,MousePotato,3,
+7/21/2019 18:22:32,Cat,Kate,Katie,19,Tortie/Tortishell
+7/21/2019 18:22:34,Dog,Jimmy,JimmyJamSunshineMan,5,Shihtzu
+7/21/2019 18:22:38,dog,Rocky,Rocko,9,rottweiler
+7/21/2019 18:22:47,Dog,Sheldon Michael ,Shel,7,Westin/min pin
+7/21/2019 18:22:47,Dog,Jackson,Pupper,3,Australian blue cattle dog
+7/21/2019 18:22:51,Cat,Midnight,Keek,19,American Shorthair 
+7/21/2019 18:22:53,Dog,Maxwell Amos,Max,10,Catahoula Leopard 
+7/21/2019 18:22:59,cat,angelina ,whitey,5,
+7/21/2019 18:23:01,Dog,Margaret Lewis,Maggie,11,Mutt
+7/21/2019 18:23:02,Dog,ginger ,Geeper Creeper,10,Golden mix
+7/21/2019 18:23:02,Virus,Johannes venereal Versmear,Venny,2 weeks,
+7/21/2019 18:23:03,Dog,Gator,Tate ,8,Rottweiler/Irish setter
+7/21/2019 18:23:05,Dog,Badger,Badger,12,Dachshund 
+7/21/2019 18:23:05,Dog,Beauregard,Beau,22 yesrs,Golden Retriever
+7/21/2019 18:23:05,Dog,Buffy,Buffy and/or Buffalo,8,Beagle/jack russell/cow ;)
+7/21/2019 18:23:05,dog,duque,duque,1,mixes
+7/21/2019 18:23:06,Dog,Mika,Mika,5,Husky
+7/21/2019 18:23:21,Dog,Scarlett ,Little Girl,8,Boarder Collie
+7/21/2019 18:23:21,Dog,Macy,Macy,11,Golden Retriever Mix
+7/21/2019 18:23:22,Dog,Gromit Walker,Gromit,8,Golden retriever 
+7/21/2019 18:23:22,Cat,Ms. Kitty,Ms. Kitty,16?,
+7/21/2019 18:23:25,Dog,Gracie Lou Freebush ,Gracie,9,Black Lab/Angel 
+7/21/2019 18:23:25,Dog,River,River,14 weeks,Husky
+7/21/2019 18:23:27,Ferret,Leo,LeHOE,1,
+7/21/2019 18:23:40,Dog,Olaf,Olaf,4,Chihuahua
+7/21/2019 18:23:41,Dog,Buttons,Buttons (sometimes with a french accent),2,Beagle
+7/21/2019 18:23:43,Dog ,Stevie James,Steve,9,Maltipoo 
+7/21/2019 18:23:45,Dog,Mila,Crusty,14,Rottweiler Mix
+7/21/2019 18:23:45,Dog,Murphy ,Murph ,5 yesrs,Golden Retriever 
+7/21/2019 18:23:47,cat,tiger,tiggy,5,
+7/21/2019 18:23:47,Cat,Edna Lou,Breadna,5,
+7/21/2019 18:23:47,Cat,Princess Purdy ,Purdy,11,Domestic long hair
+7/21/2019 18:23:56,Cat,Squidward ,Squid,1,Domestic shorthair 
+7/21/2019 18:24:04,Dog,Oscar the Amazing VelcroDog,Oscar,12,Terrier Mix
+7/21/2019 18:24:05,Dog,Poppy,Poppy,4,Shih Tzu
+7/21/2019 18:24:07,cat,daisy dukerson,daisy,5,
+7/21/2019 18:24:13,Cat,Tigger,Tigger,17,Tabby 
+7/21/2019 18:24:22,cat,bubbles,bubby,6,
+7/21/2019 18:24:27,Cat,Prince Charlie ,Charlie,11,Domestic long hair 
+7/21/2019 18:24:36,Dog,Ellie Mae,Ellie,13,Cocker spaniel
+7/21/2019 18:24:37,Dog,Snowy,Snow,11,Shih Tzu
+7/21/2019 18:24:43,Dog,Bruno,Bruno,4,Border Collie
+7/21/2019 18:24:50,Cat,Twitch,Twitch,11,Domestic Shorthair
+7/21/2019 18:24:54,Mona,Mona,Mona,Died at 12 in 2002,Bluetick beagle
+7/21/2019 18:24:59,cat,harley davidson,har mar,9,
+7/21/2019 18:25:07,Cat,Ted Kennedy ,Teddy,1,Domestic shorthair 
+7/21/2019 18:25:16,Dog,Yaz,Yazzy,11,Golden retriever/border collie
+7/21/2019 18:25:24,Dog,Princess Leia Organa,Princess,Dead,Mutt
+7/21/2019 18:25:28,Dog,Oakley ,"Oak, oakey-doke",3,Shih Tzu
+7/21/2019 18:25:37,Dog,Tinkerbell ,Tinky,4,Chihuahua 
+7/21/2019 18:25:38,Cat,Bella,Bella,4,Maine Coon mix 
+7/21/2019 18:25:40,Cat,Fup ,Fup,10,N/a
+7/21/2019 18:25:48,Dog,Beckett,Beckett or Becky,9,Golden retriever 
+7/21/2019 18:25:54,Cat,Fudge,Fubdge,3,Ginger
+7/21/2019 18:25:56,Cat,Lady Luck,Lucky,11,Domestic Shorthair
+7/21/2019 18:26:03,Cat,Moose,Moose,4,Maine Coon mix
+7/21/2019 18:26:17,Dog,Logan,Logan,10,Black lab
+7/21/2019 18:26:19,Dog,Daisy Grace,Daisy,8,Mix
+7/21/2019 18:26:24,Cat,Leela,The Cat,10,Domestic Short Hair
+7/21/2019 18:26:43,Cat,Ellie,Ellie-phant,9,Calico
+7/21/2019 18:26:45,Cat,Her Royal Highness the Princess Blaze,Blaze,9,Domestic Shorthair 
+7/21/2019 18:27:03,Cat,Phillipe Robert Jean Luc Tugboat “Toot! Toot!”,Phillipe,4,Manx cat
+7/21/2019 18:27:12,Cat,Alexander DapperCat,Alex,9,Domestic Shorthair 
+7/21/2019 18:27:21,Dog,Lila Betterhalf ,Lila,13,Greyhound 
+7/21/2019 18:27:24,Cat,Darling,Baby Girl,14,Manx cat
+7/21/2019 18:27:25,Cat,Smokey,Mr Moke,12,British Shorthair
+7/21/2019 18:27:41,Cat,Jezebel ,Jez,14,Himalayan
+7/21/2019 18:27:44,Dog,Tula Jean,Tula,1,
+7/21/2019 18:27:49,Cat ,Edison D. Cat,Eddie,9,Domestic Shorthair 
+7/21/2019 18:27:51,Cat ,Redford,Rasa,12,
+7/21/2019 18:27:55,Dog,Odin,Odin,1,Mix
+7/21/2019 18:27:58,Dog,Annie Piker,Annie,8,Greyhound 
+7/21/2019 18:28:00,Dog,Rusty,Rusty,4,Golden Retriever
+7/21/2019 18:28:06,Cat,Thomas ,“Tom” “Old Man”,18,Domestic Shorthair 
+7/21/2019 18:28:16,Cat,Fleckchen,Monster,7,European Shorthair
+7/21/2019 18:28:19,Dog,Stella Luna,Stella,4,Lab mix
+7/21/2019 18:28:23,Cat,Fay Fuller,Fay,14 weeks,
+7/21/2019 18:28:26,Dog,Pancho Villa,Pacho,12,Pug
+7/21/2019 18:28:34,Dog,Waldo,Waldo,9,Cockapoo
+7/21/2019 18:28:42,,,,,
+7/21/2019 18:28:45,Cat,Luna,Kuschelmaus,8,European Shorthair
+7/21/2019 18:28:48,Dog,Yadier,Yadi,4,Golden Retriever
+7/21/2019 18:29:06,Robot,DJ Roomba ,DJ Roomba ,,
+7/21/2019 18:29:10,Dog,Ruby Gem,Ruby,4,Terrier mix
+7/21/2019 18:29:11,Dog,BuddyGus,Buddy or Boo,20 months,Golden Retriever
+7/21/2019 18:29:13,Dog,Homer ,Homie,5,Springer Spaniel 
+7/21/2019 18:29:15,Dog,Pippie,Pippie or Pippo,2,Pit bull/ Bassett hound mix
+7/21/2019 18:29:19,Dog,Parker,,6,Beagle
+7/21/2019 18:29:20,Dog,Chipper Doodle,Chip,12,Chocolate Lab
+7/21/2019 18:29:21,Dog,Jack,Jack,7,Labrador Retriever
+7/21/2019 18:29:26,Dog,"Xena, Warrior Pinscher ",Xena,14,Miniature Pinscher
+7/21/2019 18:29:35,Dog,Gabby,Gabby,2,Golden Retriever
+7/21/2019 18:29:44,Dog,Rosebud,Rosie,10,Beagle
+7/21/2019 18:29:57,Dog,Cooper,Coopee ,10,YorkiePoo
+7/21/2019 18:30:01,Dog,Shakota,Shakota,12,Siberian Husky
+7/21/2019 18:30:09,Dog,Wilbur,Wilby,7,French/English Bulldog 
+7/21/2019 18:30:11,Dog,Finn T. Dog,Finn,5 months,Weimaraner 
+7/21/2019 18:30:11,Cat,Wilma ,Wilma Jean the Queen ,2,Orange tabby (DSH)
+7/21/2019 18:30:31,Dog,Baylee,"Baylee Boo, Taps",2,
+7/21/2019 18:30:33,Dog,Sprocket,"Bark, sprock, spark","~15 years (would be 17 years today, now deceased, rescue)","Mutt (rescue, some golden retriever, some jack russell, some whippet)"
+7/21/2019 18:30:57,Cat,Peppercorn Ale,Pepper,14,
+7/21/2019 18:31:01,Cat,Stanley,Stan the handsome man ,1,Orange tabby (DSH)
+7/21/2019 18:31:53,Bird,Ahanu ,Ahanu ,13,Caique 
+7/21/2019 18:31:55,Dog,Sophie ,Sophie ,13,Maltese mix
+7/21/2019 18:32:01,Dog,Sasha,Chunk ,1,Lab/shepherd 
+7/21/2019 18:32:28,Bird,Perkins the Parakeer,Perkins,3,Parakeet
+7/21/2019 18:32:57,Dog,Kookie (pronounced cookie) Pants,Noodle,15,Jack Russell terrier
+7/21/2019 18:33:31,Dog,Miss Maisy Cakes,Maisy,1,Rescue Mutt
+7/21/2019 18:33:38,Dog,Han Solo,Solo,3,English Cocker Spaniel
+7/21/2019 18:33:58,Dog,Lillith Anne,Lily,6,Alaskan Husky
+7/21/2019 18:34:03,Dog,Michelangelo,Mikey,11,English cocker spaniel
+7/21/2019 18:34:09,Dog,Freddie Beagle ,Fred or Freddie ,11,Beagle 
+7/21/2019 18:34:18,Dog,Pieper,Pooper,4,
+7/21/2019 18:34:32,Fish,Toilet Mimosa Gillan ,Togimi ,6 months,Betta fish 
+7/21/2019 18:34:40,Dog,Jacob,Jake,6,Alaskan Husky
+7/21/2019 18:34:41,Lizard,Drazil Marie,Drazil ,4,Bearded Dragon Lizard
+7/21/2019 18:35:02,Dog,Titus Augustus,Tidy,9,American Foxhound
+7/21/2019 18:35:06,Dog,,Cirrus,2,Poodle
+7/21/2019 18:35:15,Dog,Shelby,Shelby,14?,Labrador Retriever 
+7/21/2019 18:35:30,Dog,,Nimbus,0.5,Poodle
+7/21/2019 18:35:31,Dog,Finn,Finn,1,Cavalier King Charles Spaniel 
+7/21/2019 18:35:32,Cat,Kitten Kitten Kittycat,Kitty ,14,American Longhair
+7/21/2019 18:35:37,Dog,Tessie Joan (of Arc),Tessie ,7,American Foxhound
+7/21/2019 18:35:38,Dog,Ginger,Ginger,12,Golden Retriever
+7/21/2019 18:35:47,Dog,Sadie,Sadie,6,Golden Retriever 
+7/21/2019 18:35:54,Dog,Flicka,Flicky,12?,Labrador Retriever
+7/21/2019 18:35:57,Dog,Koda Kingslayer,Koda,2,Golden retriever
+7/21/2019 18:35:58,Dog,Flicka,Flicky,12?,Labrador Retriever
+7/21/2019 18:36:13,Dog,Maggie,Ms America ,7,Golden retriever 
+7/21/2019 18:36:16,Dog,Henry (after Dorian Grey),Henry,1,Brittany
+7/21/2019 18:36:26,Dog,Megan,Puppy,10,Mutt
+7/21/2019 18:36:27,Cat,Dante’s InFURno,Dante,7,Maine Coon
+7/21/2019 18:36:40,Cat,Gatsby,Gatsby,10 mos,"Stray, black"
+7/21/2019 18:36:42,Cat,Tyrone,Tyrone,6 mo,
+7/21/2019 18:36:49,Dog,Hopper T. Dog,Hops,6,Golden Retriever
+7/21/2019 18:36:56,dog,Snickers,Snickers,10,beagle mix
+7/21/2019 18:36:58,Cat,Tommy toe,Tommy,3,
+7/21/2019 18:37:04,Cat,Wheels,Wheels,16,
+7/21/2019 18:37:07,Dog,Venkman,Venk,5,Golden Retreiver
+7/21/2019 18:37:07,Cat,Maisie ,Maisie,10 mos,"Stray, black"
+7/21/2019 18:37:21,Dog,Murphy,Murph,"0,5",Cocker spaniel
+7/21/2019 18:37:25,Dog,Maggie,Schmieg,12,Golden Retriever
+7/21/2019 18:37:28,Cat,Lin Meow Miranda,Lin,3,American Shorthair
+7/21/2019 18:37:38,Dog,Jasmine,Jasmine,13,Golden Retriever
+7/21/2019 18:37:53,Dog,Hurley Pearly Sky-Sky,Hurley,7,Shih Tzu
+7/21/2019 18:37:54,Dog,Queso,Queso,14,Golden Retriever
+7/21/2019 18:38:01,Dog,Breezy Anne,Breezy,5,German Shepard
+7/21/2019 18:38:09,Dog,Riley,Riley,7,Golden Retriever 
+7/21/2019 18:38:18,Fish,Fishy Fishy Fishy III,Fishy,9 months,Siamese Fighting Fish (Beta)
+7/21/2019 18:38:24,Dog,Homer J,Homer,10,Basenji Mix
+7/21/2019 18:38:29,Dog,Tucker ,Tucker ,7,Golden Retriever 
+7/21/2019 18:38:58,Cat,Kitty Vegas,Vegas,6,Domestic Longhair
+7/21/2019 18:39:10,Dog,Abby,Abby,3ish,Pit bull/Lab/Beagle/Chihuahua Mix/General mutt
+7/21/2019 18:39:16,Dog ,Cooper Triple Bogey,Coop,9 weeks,Golden Retriever
+7/21/2019 18:39:17,Dog,Shelby,Shelby,1,Blue Tick Coonhound/Mountain Cur
+7/21/2019 18:39:18,Cat,Dr Gaius Baltar,Gusgus,10 years,Russian blue
+7/21/2019 18:39:28,Dog,Oakley Dalton,Oaks,6,
+7/21/2019 18:39:30,Dog,Lucy Lou ,Goose,9,Golden retriever 
+7/21/2019 18:39:33,Car,April,April,14,
+7/21/2019 18:39:34,Cat,Vasquez ,Vasquez ,7 (?-picked up as a stray),Domestic Shorthair-tortoise
+7/21/2019 18:39:35,Dog,Niles Crane,Niles,4,Border Collie
+7/21/2019 18:39:39,Dog,Little Lucky One,Lucky,13,Chihuahua 
+7/21/2019 18:39:40,Dog,Benjamin Sebastian,Benjamin,7,Collie basset hound mix.
+7/21/2019 18:39:46,Dog,Siris Maximus,Sirius,5,Alaskan Husky
+7/21/2019 18:40:00,Dog,Blaze,Blaze,5,Labrador Retriever
+7/21/2019 18:40:07,Dog,Brody ,Brody,11,Yorkshire terrier mix
+7/21/2019 18:40:17,Cat,Ripley,Chubby Chubs,4,Domestic shorthair
+7/21/2019 18:40:26,Dog,Director of Chaos,D.O.C.,4,Boxer
+7/21/2019 18:40:37,Cat,Josh Joshua Joshylin,Josh,6,Tuxedo cat
+7/21/2019 18:40:41,Cat,Lisa,Lisa,Died in 2008 at 12,
+7/21/2019 18:40:56,Dog,Cody,Codes,11,Golden Retriever
+7/21/2019 18:40:58,Cat,Nepeta ,Nepeta,2,Short haired
+7/21/2019 18:41:13,Dog,Emma ,Rotta,6,Mittelspitz
+7/21/2019 18:41:14,Cat,Leeloo Dallas Multipass,Leeloo,9,LaPerm
+7/21/2019 18:41:16,Dog,Isabella Grace,Bella,7,Maltese
+7/21/2019 18:41:19,Dog,Cookie Boogie,Boogie,3,
+7/21/2019 18:41:21,Cat ,Cataria,Tarie,2,
+7/21/2019 18:41:23,Dog,Salina,Salina,2,Hound mix
+7/21/2019 18:41:34,Dog,Theodore James,Theo,5,Maltese
+7/21/2019 18:41:41,Dog,Ofelia,Ofie Lofie,15,Norwich Terrier
+7/21/2019 18:41:44,Dog,Hermie,Hermie,3-4 years,Chocolate Lab/Pit Mix
+7/21/2019 18:42:03,Leopard Gecko,Turtle,Turtle,5,
+7/21/2019 18:42:14,Dog,Jackson Baines Hardin,"Jackson, Jack",14,Shepherd mix (rescue)
+7/21/2019 18:42:22,Cat,Tali'zorah vas Normandy,Tali,9,LaPerm
+7/21/2019 18:42:24,Dog,Rudy,Rudy,12,Black Lab
+7/21/2019 18:42:37,Guinea pig,Teddy,Teddy,3,
+7/21/2019 18:42:41,Dog,Chuchi,Baby Chu,9,Toy Poodle
+7/21/2019 18:42:50,Dog,Belle Silver,Bobo,3,Brittany
+7/21/2019 18:42:51,Goldfish,Fish,Swish,7,
+7/21/2019 18:43:00,Phoebe,Phoebe Buffay,Phoeb,4-5 years,Staffordshire Terrier 
+7/21/2019 18:43:03,Dog ,Precious Presley ,Presley ,1,Lab mix 
+7/21/2019 18:43:20,Cat,Boots,Fuckoff,10,Black cat with white feet
+7/21/2019 18:43:20,Dog,Sarah Jessica Parker,Parker,8,Beagle
+7/21/2019 18:43:49,Dog ,Princess Leah ,Leah,8,Miniature schnauzer 
+7/21/2019 18:43:53,Cat,Zeus,Zeus,2,
+7/21/2019 18:44:10,Dog,Mr Duke of Carol Stream,Boo-Boo,10,Labrador Retriever
+7/21/2019 18:44:28,Dog ,Bruno Mars ,Bruno ,4,Shihtzu
+7/21/2019 18:44:35,Cat,Persephone,Persey,2,
+7/21/2019 18:44:36,Dog,Reggie,Reg,8,Border collie
+7/21/2019 18:44:47,Cat,Momo,Momo,9,Domestic short hair
+7/21/2019 18:44:48,Dog,Twixie,Gooben,2,A mess
+7/21/2019 18:44:51,Dog,Kody,Kode,10,Golden retriever
+7/21/2019 18:44:57,Dog,Maverick Clinton ,Maverick ,10,Labrador retriever
+7/21/2019 18:45:02,Cat,Abbey Road,Abbey,3,Long-hair domestic
+7/21/2019 18:45:16,Cat,Naga,Naga,6,Domestic short hair
+7/21/2019 18:45:16,Dog,Sven,Bean,5,German Shepherd
+7/21/2019 18:45:21,Dog,Lola,Lola,11,Poodle mix 
+7/21/2019 18:45:31,Dog,Sophie ,Sophie,2 years ,Rottweiler 
+7/21/2019 18:45:32,Cat,Stinky Pete,Pete and/or Stinky,18,Just a regular cat
+7/21/2019 18:45:39,Cat,Gozer,Gozey,12,Black cat
+7/21/2019 18:45:40,Dog,Lily Potter,Lil,2,German Shepherd 
+7/21/2019 18:45:52,Dog,Dougie McFly,Dougie,11,Cairn Terrier 
+7/21/2019 18:45:57,Dog,RileyRoo,Riley,2,Mutt
+7/21/2019 18:46:04,Dog,Dobby,Boober ,4,Pembroke welsh corgi
+7/21/2019 18:46:11,Cat,Sir Edward Julius Robert Kittybutt III,Eddie,16,Tiger cat
+7/21/2019 18:46:37,Indoor goldfish,Chu-chu,Chu-chu,I think they were 11 when they passed ,Ranchu
+7/21/2019 18:47:07,Dog,Lando,Lando,5,Bernese Mountain Dog
+7/21/2019 18:47:17,Dog,Tucker Paul,Tuck Tuck,6,Pitbull 
+7/21/2019 18:47:56,Dog,Schnitzel Von Krumm,Ninnel,11,Miniature dachshund 
+7/21/2019 18:48:10,Dog,Wrigley,Wriglry pigley,13,Beagle
+7/21/2019 18:48:39,Dog,Wally,Wal,4 months,Golden Retriever 
+7/21/2019 18:48:56,Dog ,Snickers,Doodle ,11,Beagle 
+7/21/2019 18:49:14,Dog,Charlie,Charlie,9,Cockapoo
+7/21/2019 18:49:16,Dog,Pepper,Pep,9.5 months,Cocker Spaniel
+7/21/2019 18:49:16,Dog,Brownie,Brownie ,13,Beagle
+7/21/2019 18:49:31,Cat,Maow,Kitkat,14,
+7/21/2019 18:49:35,Dog,Echo,Beck,3,Corgi mix 
+7/21/2019 18:49:52,Dog,Banky,Banky,10,Basset hound
+7/21/2019 18:49:56,Dog,Koda,Koda,6,Chihuahua
+7/21/2019 18:50:10,Dog,Clifford,Cliff,6,Labrador Mix
+7/21/2019 18:50:12,Dog ,Coco,Coco Bear,7,Morkie (Maltese/Yorkie)
+7/21/2019 18:50:16,Dog ,Charlie ,Charlie,8,Pitbull
+7/21/2019 18:50:21,Dog,Mojo,Moj,5,Chiweenie
+7/21/2019 18:50:27,Horse,Wizarding Wonder,Wizwo,12,Shire x TB
+7/21/2019 18:50:40,Dog,Hank,Hank,2?,Boxer mix 
+7/21/2019 18:51:01,Horse,Thunderhawk,Thunder,21,Spanish mustang 
+7/21/2019 18:51:12,Dog,Sebastian ,Fritz,15,Italian greyhound and jack russell 
+7/21/2019 18:51:23,Horse ,Cielo,Piglet ,4,
+7/21/2019 18:51:38,Cat,Bebop Vincent,Beebs,5,Domestic short hair
+7/21/2019 18:51:49,Horse,Thalia,Thalia,4,
+7/21/2019 18:52:09,Horse,Morganna la Fey,Morganna,15,
+7/21/2019 18:52:12,Cat,Maja,Maja,14,Grey
+7/21/2019 18:52:13,Dog,Hank,Hanky,2,Yellow lab
+7/21/2019 18:52:28,Dog,Ella,Ells Bells,14.5,Cocker Spaniel
+7/21/2019 18:52:30,Dog,Frappuccino,Frappie,7,Labradoodle
+7/21/2019 18:52:36,Horse,Texas Pony Smoke,Monster,2,
+7/21/2019 18:52:41,Dog,Gracie,Grace,12,Shitz zu
+7/21/2019 18:52:53,Horse,Khan,Khan,3,Spanish mustang 
+7/21/2019 18:52:57,Dog,Phoebe,Phoebe,2,Goldendoodle 
+7/21/2019 18:53:04,Dog,Uma Strawn McGuire,Uma,4,Golden mix 
+7/21/2019 18:53:06,Dog,Buster,Boop squared,13ish,Terrierist
+7/21/2019 18:53:11,Horse,Reno,Reno,?,
+7/21/2019 18:53:19,Cat,Sketchy Missouri,Sketchy,12,Tortoiseshell
+7/21/2019 18:53:22,Dog,Eva Marie,Eva,3,Chihuahua 
+7/21/2019 18:53:27,Horse,Boogieman,Boogie,5,
+7/21/2019 18:53:30,Dog,Mia Hamm,Mia,11,Golden Retriever
+7/21/2019 18:53:34,Cat,Charlie,Charile,18,Tabby
+7/21/2019 18:53:38,dlg,alia atreides,allie,5,mutt
+7/21/2019 18:53:51,Horse,Legacy,Legacy,15,
+7/21/2019 18:54:20,Horse,Mambo no. 5,Mambo,2,Spanish mustang 
+7/21/2019 18:54:32,Cat,Zoey,Zoe,4,
+7/21/2019 18:54:32,dog,lexie,lex,10months,golden retriever 
+7/21/2019 18:54:37,Horse,Mato Ma’hu’i,Mato,2,
+7/21/2019 18:54:44,Dog,Bernard,Bernard ,5,Boxer
+7/21/2019 18:55:05,Horse ,Starflower’s Jezebel,Jezebel,4,Spanish mustang 
+7/21/2019 18:55:09,Cat,Jenna Nicole Rhea Lopez Horn,Jenna Jenna,8,
+7/21/2019 18:55:10,dog,Myles - his roman name is Squirtacus Mylonius,Myles,10,cockapoo
+7/21/2019 18:55:22,Horse,Diamond Lily,Lily,7,
+7/21/2019 18:55:29,Dog,Millie,Millie,9.5,Shepherd mix 
+7/21/2019 18:55:37,Horse,Gypsy Rose Lee,Gypsy,6,
+7/21/2019 18:55:39,Fish,Butters,Butters,1 week,Goldfish 
+7/21/2019 18:55:43,Dog,Bodhi,Bo,6,Golden Retriever
+7/21/2019 18:55:55,Dog,Mooch,Mooch,9,Terrier mix
+7/21/2019 18:55:56,Dog,Piper,Pipes,4,Woodle (wheaton terrier/poodle)
+7/21/2019 18:56:06,Cat,Ramona,Ramona,12,
+7/21/2019 18:56:07,Dog,Charles,Charlie,10,Corgi
+7/21/2019 18:56:17,Horse,Morning Glory,Glory,,
+7/21/2019 18:56:19,Dog,Willow,Willow,3,Sheepadoodle
+7/21/2019 18:56:29,Horse,Morning Mist,misty ,,
+7/21/2019 18:56:29,Dog,Glamis Schedule K1,Kona,5,Golden Retriever
+7/21/2019 18:56:50,Dog,Bandit Raye,Bandi,12,Farm dog
+7/21/2019 18:56:51,Horse,Syndicated Copper,Copper,,
+7/21/2019 18:57:02,cat,Cleo,Cleo,13,DSH
+7/21/2019 18:57:07,Cat,Sebastian Ninja Nutjob,Sebastian,11,Domestic Shorthair
+7/21/2019 18:57:28,Dog,Anderson,Andy,12,Lab mix rescue 
+7/21/2019 18:58:08,Dog,Mars Harambe,Pickle,3,Catahoula mix (maybe? Don’t really know)
+7/21/2019 18:58:08,Roomba,"Butler, You Glorious Vacuuming Bastard",Butler ,1,iRobot 
+7/21/2019 18:58:15,Dog,Claudio Atlas Wolfric,Claudio ,8,Dachshund 
+7/21/2019 18:58:32,Rabbit,Flufy,Flufy,10,Lionhead
+7/21/2019 18:58:43,Dog,Lawson H Dog,Hogan,16,Briard
+7/21/2019 18:58:49,Cat,Smudge the Second,Deuce,4,Himalayan 
+7/21/2019 19:00:08,Dig,Tucker,"Tucker, dude, bud ",1,Bully mix
+7/21/2019 19:00:39,Cat,Echo,Echo,18,
+7/21/2019 19:00:49,Dog,Ames,Ames,5,Husky
+7/21/2019 19:01:03,Dog,Franc,Franc,4 months,Mastiff cross
+7/21/2019 19:01:09,Cat,Winnie,Winnie,4 months ,
+7/21/2019 19:01:31,Cat,Tiggy,,4 months ,
+7/21/2019 19:02:05,Dog,Oliver Jackson ,Oliver/Baby/Little Man,5 1/2 years,Morkie
+7/21/2019 19:02:07,Dog,Dolly Doodle Dogger,Dolly,6,Labradoodle 
+7/21/2019 19:02:14,Cat,Ann Perkins ,Ann ,0.5,Mixed
+7/21/2019 19:02:32,Dog,Cassie,Cassie,5,Mix
+7/21/2019 19:02:36,Cat,Kisa Marie,Kisa,6,
+7/21/2019 19:02:46,Dog,Logan,Logan brogran,Two,Rhodesian Ridgeback 
+7/21/2019 19:02:46,Dog,Basil,Basil,7,Lab/German Shepard mix
+7/21/2019 19:02:53,Dog,Marble,Marble,5,Plott/Coonhound mix
+7/21/2019 19:03:05,Dog,Hollie,Hollie,14,Westie
+7/21/2019 19:03:15,Dog,Cash Money,Cashie,2,Labrador Retriever
+7/21/2019 19:03:29,Dog,Seamus,Shamie Bameee,11,Rhodesian Ridgeback 
+7/21/2019 19:03:40,Cat,William Robert,Billy,3,
+7/21/2019 19:03:50,Dog,Nash,Nash,2,Labrador Retriever
+7/21/2019 19:03:53,Cat,Spoons,Spoons,3,Calico
+7/21/2019 19:03:58,Cat,Arizona,Arizona,7,Domestic shorthair/orange tabby
+7/21/2019 19:04:11,Dog,Sian Ben Ryan,Sian or Sisi,14,Westie
+7/21/2019 19:04:22,Dog,Bear 2,Bear,7.5,Retriever Mix
+7/21/2019 19:04:23,Cat,Banjo,Banj,3,DSH
+7/21/2019 19:04:38,Chinchilla (Other),Fossedini Heraldo Macduff,Fosse,10,
+7/21/2019 19:04:44,Cat,Princess Melanie,Melanie,5,Domestic Longhair
+7/21/2019 19:04:55,Cat,Tiffany Marie,Tiffany,13,DSH
+7/21/2019 19:05:01,Dog,Charles Barrath McIntyre,Barry,6,Bassett Hound
+7/21/2019 19:05:33,Dog,Margeurite Larioux Gonzales,Maggie,6,Chihuahua-Lab
+7/21/2019 19:05:38,Dog,Rusty,Rusty,2,Fox red lab
+7/21/2019 19:05:51,Dog,Starfire,Star,15,Maltese poodle
+7/21/2019 19:05:52,Dog,Nova,Nova,2-3,"Mixed breed (pomeranian, papillon, chihuahua, cavalier)"
+7/21/2019 19:05:53,Dog,Dinty,The Dint,5ish,Terrier mix
+7/21/2019 19:06:27,Cat,Hamilton,Hammy Bits,3,
+7/21/2019 19:06:28,Dog,Kadie Jo,Kadie Jo,6,Labrador retriever
+7/21/2019 19:06:41,Cat,Incandenza,Ink,3ish,
+7/21/2019 19:06:44,Cat,Fitzgerald,Fitz,8,Domestic shorthair
+7/21/2019 19:07:21,Cat,Zelda,Zelda,8,Domestic shorthair
+7/21/2019 19:07:26,Dog ,Daisy Duke,Daisy ,4,Siberian husky/Brittany spaniel cross
+7/21/2019 19:08:00,Guinea pig,Stewie,Stewie,2,
+7/21/2019 19:08:23,Dog,Sunny Sunday Sky,Sunny,15.5 years,Beagle
+7/21/2019 19:08:33,Guinea pig,Francisco,Cisco,2,
+7/21/2019 19:08:36,Horse,Dream On Chip,Diva,15,Appaloosa
+7/21/2019 19:08:54,Dog,Bailey,Bailey ,3,Border Collie Mix
+7/21/2019 19:09:11,Horse,Tundra,Tundra,12,"Mixed breed (Appaloosa, paint, Tennessee walker)"
+7/21/2019 19:09:49,Dog,Bosco Spaghettio,Bosco,9,Border Collie mix 
+7/21/2019 19:09:51,Cat,Agnes Marie,Aggie turd,2,
+7/21/2019 19:10:04,Dog,Tansei,Duffus,7,Shiba Inu
+7/21/2019 19:10:28,Cat,Edith,Eduf Monster,1,
+7/21/2019 19:10:39,Cat,Mini,Mimi,13,Tuxedo 
+7/21/2019 19:11:02,cat,Theodore ,Ted,4,persian
+7/21/2019 19:11:28,Dog,Molly,Molly,16,Golden retriever 
+7/21/2019 19:11:29,dog,Duke Dukington,Duka,3,chihuahua mix
+7/21/2019 19:11:58,Cat,Oliver Newton,Ollie,4,Maine Coon
+7/21/2019 19:12:21,Dog,Prince Phillip the 2nd,"Phillip, Daddy-o",12,West Highland White Terrier
+7/21/2019 19:12:29,Cat,Starla,Starla,4,Domestic shorthair 
+7/21/2019 19:13:28,Dog,Petey,Petey poopoo head,11,West highland white terrier
+7/21/2019 19:13:57,Dog,President Nixon ,Nixy ,8,Mixed breed (looks very hound-y)
+7/21/2019 19:14:02,Dog ,Daisy Doodle Fat Kid with Butt Spots,Daisy ,4,Hound x
+7/21/2019 19:14:07,Dog,Benry of Willowbrook,Benry,8,Golden Retriever 
+7/21/2019 19:14:44,Dog,Qoda,Qoda,"2,5",Golden retriever
+7/21/2019 19:15:16,Dog,Ziggy Starsog,Zig,1.5,Hound x
+7/21/2019 19:15:17,Dog,Samuel Labrador,Sam,13,Labrador
+7/21/2019 19:16:15,Hamster,Princess Consuela Banana Hammock,Banana,Deceased ,
+7/21/2019 19:17:41,Dog,Bentley Boy,Bentley,13,Shi-tzu/Bichon 
+7/21/2019 19:17:43,Dog,Taco Belle ,Taco,So so old,Taco
+7/21/2019 19:17:43,Dog,Pluto,Pluto,Deceased,Golden Retriever 
+7/21/2019 19:18:09,Hamster,Scooter Computer,Scooter,2,
+7/21/2019 19:18:55,Dog,Toby,Toby,6,Beagle mix
+7/21/2019 19:19:07,Dog,Harlee ,Harlee,3,Anatolian Shepherd
+7/21/2019 19:20:34,Dog,Nessa,Nessa,1,Golden Retriever
+7/21/2019 19:21:18,Dog,Biscuit Bandit ,Bandit,3,Labrador 
+7/21/2019 19:21:25,cat,Sophie,Fuzzbutt,2,
+7/21/2019 19:21:30,Dog ,The Real Slim Sadie ,Sadie ,1.5,Golden Retriever
+7/21/2019 19:21:30,Dog ,Quincy Sugarplum,Quincy ,3,Golden Retriever 
+7/21/2019 19:21:52,Dog,Skipper Doo,Skip,4,Yorkie 
+7/21/2019 19:21:59,Dog,Sam Ruffalo,Sam,6,Golden Retriever/Lab Mix
+7/21/2019 19:22:05,Dog ,Brutus Buckeye,Brutus ,Just passed away at age 11,Golden retriever 
+7/21/2019 19:22:49,dog :))))),crespo ,crespo or baby 😂,12,shihtzu and mixed 
+7/21/2019 19:22:58,Dog,Rossignol,Rozzie,Dead :(,Siberian husky
+7/21/2019 19:23:28,Hamster,Peaches,Peaches,3,
+7/21/2019 19:23:55,Dog,Pepper,Pepper,4,Mix
+7/21/2019 19:24:04,Dog,Amaya,Maya,6,Siberian Husky
+7/21/2019 19:24:22,Cat,Eloise ,Ellie,10,
+7/21/2019 19:24:47,Cat,Olive,Ollie,4,
+7/21/2019 19:25:04,Cat,Kiki Buntain,Kiki,18ish,Mutt
+7/21/2019 19:25:15,Dog,Tiger ,Tiger,12,
+7/21/2019 19:25:27,Dog,Bonnie,Bonnie,8,Westie
+7/21/2019 19:26:21,Dog,abby,abby,11,cavalier King Charles spaniel
+7/21/2019 19:26:36,Gecko,Gomez,Gomie,10,High yellow leopard gecko
+7/21/2019 19:26:49,Dog,Cooper,Coop,7,Labrador 
+7/21/2019 19:27:37,Dog,Chase,Chase,3,Husky mix
+7/21/2019 19:27:38,Hamster,Steve Hammond,Steve,4 months ,Russian Campbell
+7/21/2019 19:27:52,Dog,Riley Jenkins,Riley,18 months,Golden Retriever
+7/21/2019 19:27:52,Dog,Montgomery T Dog ,"Monty, monkey, monkeyrunk, ",2,Dalmatian labrador Cross 
+7/21/2019 19:28:36,Dog,Nana Roo,Nana,5,German Shepherd 
+7/21/2019 19:28:52,Cat,Ella Grey,Ella,7,
+7/21/2019 19:29:31,Dog,Callie ,Cal Gal (the golden),3,Golden  retriever!
+7/21/2019 19:29:31,Dog,Rocco Norbert,Rocco,10,Golden Retriever / Chow
+7/21/2019 19:29:34,Dog,Jack,Jack,3,Terrier something or other
+7/21/2019 19:29:52,Dog,Ted,Ted,6 months,Welsh Terrier
+7/21/2019 19:29:52,Snake,Desiree,Desiree,11,Rosy boa
+7/21/2019 19:30:01,Dog,Jaida Lynn,Jaida,12,Black lab / terrier
+7/21/2019 19:30:16,Snake,Gaia,Gaia,10,Dumeril’s boa
+7/21/2019 19:30:39,Dog,Daisy Lulu,Daisy,9,Toy poodle
+7/21/2019 19:30:58,Cat,Phillip,Phillip,16+,Yellow buddy tabby?
+7/21/2019 19:31:00,Cat,Sunni,Sunni,10,Birman
+7/21/2019 19:31:27,Cat,Nymeria,Nym,5,DMH
+7/21/2019 19:31:40,Cat,Scarlett,Scar,about 8 or 9,n/a
+7/21/2019 19:31:51,Cat,Ink,Ink,6mo,DMH
+7/21/2019 19:32:07,Cat,Drew,Drewbeans,7,
+7/21/2019 19:32:21,Dog,Titus ,Titus ,7,Lab 
+7/21/2019 19:32:35,Cat,Midna,Midna,8,Dsh
+7/21/2019 19:32:40,Dog,Cookie Asparagus ,Cookie,11,Chihuahua Jack Russell Terrier
+7/21/2019 19:32:42,Dog,Tessa Leigh,Tessa,11,Labradoodle (mom is yellow lab dad is poodle)
+7/21/2019 19:32:49,Dog,Ali,Ali,5,Greyhound
+7/21/2019 19:32:56,Dog,Daisy,Daisy/Dandelion,4,Lab mix 
+7/21/2019 19:33:02,Dog,Lucky ,Luck luck ,5,Lab
+7/21/2019 19:33:14,Cat,Rex,Rex,7,Maine coon
+7/21/2019 19:33:23,Dog,Harper Jean,Harper Jean,1.5,German Shepard mix
+7/21/2019 19:33:26,Cat,Maverick,Maverick,2,
+7/21/2019 19:33:27,Hermit crab,Rork,Rork,2,
+7/21/2019 19:33:41,Cat,Tina Fay,Tina,6,
+7/21/2019 19:33:44,Cat,Sophie,Sophie,4,Dsh
+7/21/2019 19:33:49,Puppy,Max-well,Max,Six,Golden  retriever  
+7/21/2019 19:33:53,Dog,Mica,Mica,6,Lab mix
+7/21/2019 19:34:12,Cat,Patches,Patches ,10,Tuxedo cat
+7/21/2019 19:34:13,Cat,Asch,Asch,4,Dsh
+7/21/2019 19:35:11,Other,Yuri,Yuri,1,Rat
+7/21/2019 19:35:36,Other,Ravio,Ravio,1,Rat
+7/21/2019 19:35:43,Dog,Sylvester Balboa,Sly,6,Golden Retriever 
+7/21/2019 19:35:56,Dog,Mia Roo ,Mia,11,Australian Sheppard 
+7/21/2019 19:36:12,Other,Melody,Melody,1,Winter white hamster
+7/21/2019 19:36:15,Dog,Casper Tiberus,Casp,4,Mixed
+7/21/2019 19:36:16,Dog,Chummy,Chumbles,5,Labradoodle
+7/21/2019 19:36:33,Dog,Luna Bean ,Luna,7,Italian greyhound x chihuahua
+7/21/2019 19:36:40,Other,Brown Gerbil,Brown Gerb,2,Gerbil
+7/21/2019 19:36:52,Cat,Gabby Comacho,Cho Cho,16,Domestic Shorthair
+7/21/2019 19:37:04,Other,White Gerbil,White Gerb,2,Gerbil
+7/21/2019 19:37:07,Dog,Sofie Tooter Scooter ,Sofie,7,Chihuahua
+7/21/2019 19:37:17,Dog,Mojo,Mojo,5,Labradoodle
+7/21/2019 19:37:27,Dog,Grace ,Grace,1 year,Mix
+7/21/2019 19:37:34,Cat,Misha ,Misha ,8,Tabby 
+7/21/2019 19:37:43,Dog,Frankie,Frankie,1,Mix
+7/21/2019 19:37:45,Other,Dollar dollar bills y'all,Bill,2,Guinea Pig
+7/21/2019 19:37:53,Dog,Osa,Osa,9,Akita husky mix 
+7/21/2019 19:37:58,Dog,Dixie,Dixie,12 or 13,Pitbull mix
+7/21/2019 19:38:15,Cat,Barnabas ,Bucky ,11 months ,Mix 
+7/21/2019 19:38:15,Dog,Nina,Nina,7,West highland terrier
+7/21/2019 19:38:28,Cat,Bitsy,Bitsy,15,Domestic shorthair
+7/21/2019 19:39:10,Dog,Rachel,Rachel ,8,Schnauzer 
+7/21/2019 19:40:12,Dog,Piper,Piper,9,Labrador retriever (chocolate)
+7/21/2019 19:40:14,Dog,Bella,Belly,10,Yorkie
+7/21/2019 19:40:20,Dog,Queen Khaleesi,Queenie,12,Mountain Dog mix
+7/21/2019 19:40:38,Cat,Pumpkin,Pumpkin,6,
+7/21/2019 19:40:55,Dog,Bridget ,"Bridgy, Pookie bridge ",15,Mutt
+7/21/2019 19:40:59,Dog ,Bodacious ,Bodie,14,Labrador retriever (black)
+7/21/2019 19:41:22,Dog,Mama Rose,Rosie ,7,Pit bull 
+7/21/2019 19:41:25,Dog,Augustus,Gus,Almost 8 ,Golden retriever 
+7/21/2019 19:41:36,Cat,Sunshine,Sunshine,7,Tiger stripe (orange)
+7/21/2019 19:42:53,Dog,Tater,Tater,3 months,Labrador & great pieraneese
+7/21/2019 19:42:55,Cat,Millicent ,Millie,6,
+7/21/2019 19:43:11,Hedgehog,Gustavus Ericius Hedgehog of the North,Gus,1.5 years,
+7/21/2019 19:43:16,Dog,Beverly Ann,Beverlana,13,Golden Retriever 
+7/21/2019 19:43:41,dog,Cora Smalls,Cora,~3,havanese?
+7/21/2019 19:43:41,Dog,Jasper,Jasper,16,dalmation/beagle
+7/21/2019 19:43:41,Cat,Dust,Dust,1,
+7/21/2019 19:43:50,Dog,Caleb, caliber ,1.5,Blue Tick Coon Hound
+7/21/2019 19:44:11,Dog,Tonka,"Tonks, Tonkers, Sir Tail",8,Newfoundland 
+7/21/2019 19:44:29,Bird,Spike,Spiker-doodle,13,Cockatiel 
+7/21/2019 19:44:40,Cat,Ash,Ashy boy ,9,
+7/21/2019 19:44:53,Cat,Blossom ,Moose,6 years old,British long hair 
+7/21/2019 19:44:53,Cat,Violet ,Violet ,14,Shorthair 
+7/21/2019 19:45:10,Cat,Thor ,Thor,4,
+7/21/2019 19:45:14,Dog,Hank ,Baby,2,Boxer
+7/21/2019 19:45:27,Dog,Brandy,Puddin,5,Lab/pitbull mix
+7/21/2019 19:45:43,Cat,Lily ,Lillibutt,11,Shorthair 
+7/21/2019 19:45:55,Dog,Sir Squeaksalot the Second,Twoie,9,Chinese Crested Powder Ouff
+7/21/2019 19:46:29,Cat,Buddy,Buddy Boi,4,Shorthair 
+7/21/2019 19:48:11,Dog,Colby Jack,Jack,5,German Shepherd 
+7/21/2019 19:48:15,Dog,Cooper,Coop,6 weeks (is coming home in 2 weeks!),Labradoodle 
+7/21/2019 19:48:27,Dog,Murphy ,Murph,1,Goldendoodle
+7/21/2019 19:49:36,dog,phineas,,7,irish soft-coated wheaten terrier
+7/21/2019 19:49:40,Dog,Peach,Peach,2,Mixed
+7/21/2019 19:49:55,dog,moose alexander,moose,8 months,maltipoo
+7/21/2019 19:50:15,cat,eliza goose,eliza,2,grey
+7/21/2019 19:50:19,Guinea pig,Nibbles,Nibsey,5,Short hair
+7/21/2019 19:50:35,Cat,Chichi,Chichi,9,Tabby
+7/21/2019 19:50:48,cat,isabella,izzy,4,
+7/21/2019 19:50:57,Dog,Ruby,Ruebs,6,Rhodesian ridgeback
+7/21/2019 19:51:44,Dog,Ruby,Ruby,4,Labrador retriever
+7/21/2019 19:52:21,Dog,Min Ottende Bold,Otte,9,Black Labrador
+7/21/2019 19:53:19,Dog,Min fine Nimina Beana,Mina,6,Yellow Labrador 
+7/21/2019 19:53:31,Dog,Lucy ,Lu,3,Great Pyrenees 
+7/21/2019 19:53:32,cat,Belvedere,Biff,16ish,shorthair mackerel tabby
+7/21/2019 19:53:51,cat,heaven,kitty,8,tortoise shell
+7/21/2019 19:54:23,dog,lucy lu,luey,4,basset hound 
+7/21/2019 19:54:58,Dog,Katniss Underfoot,Katniss,9,Pit bull ish
+7/21/2019 19:56:27,Dog,Sadie,Sayd,13,Border Collie
+7/21/2019 19:56:30,Dog,Coco  Chanel mademoiselle ,Coco,5,Golden retriever 
+7/21/2019 19:56:48,Dog,Maggie,Mags,8,Border Collie
+7/21/2019 19:58:07,Dog,Gunner baker,Gunner ,12,Lab
+7/21/2019 19:58:37,Rabbit,Lady Sybil,Lady,1.75 years,Holland Lop
+7/21/2019 19:58:45,Cat,Ashley Williams,Ash,8 years,Maine Coon
+7/21/2019 19:58:49,Dog,April in Paris ,Paris ,6,Golden retriever 
+7/21/2019 19:58:56,Bunny,Colby,,3,
+7/21/2019 19:59:01,Cat,Mister,Mister,2,American Shorthair
+7/21/2019 19:59:19,Cat,Goku,Tutu,2 years,
+7/21/2019 19:59:39,Other,Miles,Miles,5,Goldfish
+7/21/2019 19:59:43,Cat,Fuzzball,Fuzzybutt,10,American shorthair 
+7/21/2019 19:59:55,Dog,Felix,Felix,2,
+7/21/2019 20:00:18,Cat,Benjamin,Ben,14,
+7/21/2019 20:00:01,Dog,Woodruff,Woody,10,Saint Bernard/Cocker Spaniel
+7/21/2019 20:00:31,Cat,Tibby,Tib or Monster ,3,Unknown 
+7/21/2019 20:01:12,Dog,Kitty take your gloves off,Reba ,8,Golden retriever 
+7/21/2019 20:02:13,Cat,Honey,Honey,7,Tabby
+7/21/2019 20:02:25,Dog,Mulligan,Mull,12,Golden
+7/21/2019 20:02:32,Dog,Loki,Loki aka goof ball ,8 months ,Golden retriever 
+7/21/2019 20:03:26,Dog,Okemo,Okemo,8,Australian Cattle Dog
+7/21/2019 20:03:29,Dog,Beau ,Beau,1 1/2,Golden Retriever mix 
+7/21/2019 20:04:24,Cat,Lucy ,Lucy,6,
+7/21/2019 20:04:33,Dog,Zack attack,Zack,10,Golden retriever
+7/21/2019 20:05:02,Dog,Kendall,Kendall,4,Hound lab mix
+7/21/2019 20:05:13,Dog,Bailey,Bailey,1,Lab/pointer
+7/21/2019 20:05:26,Dog,Ranger,Ranger,11,German Shepherd/Husky
+7/21/2019 20:05:28,Dog,Dan,Dan,12,Basenjji mix
+7/21/2019 20:05:32,Dog,Sir Maximillion of Binghamton,Max,10,Golden Retriever
+7/21/2019 20:05:35,Dog,Freya,Freya,3,Pointer/sharpei
+7/21/2019 20:05:57,Dog,Jackson,Jax,14,Golden mix 
+7/21/2019 20:06:09,Dog,Kurama,Kdog,3,
+7/21/2019 20:06:13,Dog,Luchik,Luchik or Luci,5,White German Shepherd-Husky
+7/21/2019 20:06:24,dog,Pippi Hyde,Pippi,11,cocker spaniel
+7/21/2019 20:06:35,Cat,Scarlet,Purrincess Kitty,13,Domestic shorthair
+7/21/2019 20:06:50,Dog,Pearly,Pearl,5.5,Husky mix
+7/21/2019 20:07:02,Cat,Sebastian,Monkey,12,Domestic shorthair 
+7/21/2019 20:07:18,Dog,Walter,Walty,Six,Spaniel Mix
+7/21/2019 20:07:22,Cat,Reeses Pieces,Reesie,2,Domestic Short Hair
+7/21/2019 20:07:49,Dog,Buddy of Bailey's Irish Cream,Buddy,11,Black Lab
+7/21/2019 20:08:05,Dog,Belle,Belle,15,Golden retriever
+7/21/2019 20:08:06,Cat,Sushi Roll,Sushi,1.5,American Bobtail
+7/21/2019 20:08:26,Dog,Zoe Marie,Zoe,6,German shepherd mix
+7/21/2019 20:08:48,Dog,Wilson,Wilson,4,Lab mix
+7/21/2019 20:09:27,Cat,Mochi,Mochi,1.5,American Bobtail
+7/21/2019 20:09:30,Dog,Reesie ,Reesie,14,Yorkshire Terrior
+7/21/2019 20:09:48,Cat,Sasuke,Sasuke ,6,Mixed 
+7/21/2019 20:09:52,Cat,Sasuke,Sasuke ,6,Mixed 
+7/21/2019 20:10:08,Dog,Bocephus Ray,Bo,6,German shepherd mix
+7/21/2019 20:10:18,Dog,Gunner,Gunny,5,Yellow Lab
+7/21/2019 20:10:24,Dog,Stella,Stella,12,Daschund mix
+7/21/2019 20:10:25,Dog,Bailey's Irish Cream,Bailey,13 (crossed rainbow bridge 2016),"""Black Golden Retriever"" (GR/choc lab)"
+7/21/2019 20:10:28,Cat,Abigail,Abby,8 years ,Siamese 
+7/21/2019 20:10:54,Dog,Poppy,Pops,16,Jack Russell 
+7/21/2019 20:11:13,Dog,Nina,Beans,12 1/2,Flat Coated Retriever 
+7/21/2019 20:12:20,Cat,Boris,Boris,3,Spinx
+7/21/2019 20:12:21,Cat,Smoochey ,Moo moo cow/ moochey ,18 years ,Domestic short hair 
+7/21/2019 20:13:16,Cat,Toast Malone,Toast ,5,
+7/21/2019 20:13:34,Cat,Hex,Hex,8,
+7/21/2019 20:14:01,Cat,Smudge of Grey,Smudge,7,
+7/21/2019 20:14:02,Dog,Charlotte,Char,4,Beagle/Jack Russel
+7/21/2019 20:14:02,Dog,Ms. Cuddles,Cuddles,13.75,"""Chiffon"" (Shih Tzu/Brussels Griffon)"
+7/21/2019 20:14:29,Dog,Wayne Rooney,Roo,13,Border Collie
+7/21/2019 20:14:34,Dog,Snack,Snack,2,Rottweiler/cocker spaniel mix
+7/21/2019 20:14:46,Cat,Skipper,Skips,16,
+7/21/2019 20:14:51,Cat,Nacho Bell Grande,"Bean, nacho, ",1,Yes
+7/21/2019 20:15:54,Dog,Hazel,"Zelly, ZZ, Hayzelly",3,Golden Retriever
+7/21/2019 20:15:57,Dog,Luna Calamity Barnes,Luna,~9,Mutt
+7/21/2019 20:16:19,Dog,Hiro Barnes,Hiro,5,Mutt
+7/21/2019 20:16:33,Dog,Ramsey,Ramsey,4 months,Labrador
+7/21/2019 20:16:33,Dog,Stella Diane,Stella,6,Havanese type mix 
+7/21/2019 20:16:55,Dog,Trigger ,Trig,4,Labrador Retriever
+7/21/2019 20:17:22,Cat,Noodle,Noodle,3,Calico/domestic shorthair
+7/21/2019 20:18:31,Dog,Héloïse,Héloïse ,9-11 (est.),Papillon mix
+7/21/2019 20:19:47,Dog,Scout McGee,Scout,12,Spitz
+7/21/2019 20:20:22,Dog,Milo,Milo,2,Golden retriever
+7/21/2019 20:20:34,Dog,Kolbie,Kolbie,10,Beagle
+7/21/2019 20:20:52,Dog,Rhyannon's Princess Nikita,Nikki,10.5,Siberian Husky
+7/21/2019 20:20:54,Cat,Scram,Scrammies,2,Domestic medium hair
+7/21/2019 20:21:13,Cat,Darwin,Cat,7,
+7/21/2019 20:21:17,Cat,Leo,Leo,16,
+7/21/2019 20:21:27,Cat,Kanga,Kanga,4,Calico/Tabby
+7/21/2019 20:21:37,Rabbit,Winona,Winnie,2,
+7/21/2019 20:22:00,Cat,Bugaloo Bonzai,Bug,7,
+7/21/2019 20:22:18,Dog,Malcolm P. Dog,Malcolm,17,Mix/mutt/disaster
+7/21/2019 20:23:14,Dog,Maxwell T. Bone,Max (Alias: BrownDog),11,Chocolate Lab
+7/21/2019 20:24:24,Cat,Patches,Patch,8,
+7/21/2019 20:24:32,Dog,Indy,Indy,8,Poodle/beagle
+7/21/2019 20:24:39,Dog,Cody Fluffball,Cody ,11,Golden retriever 
+7/21/2019 20:24:59,Dog,Fudge,Fudgie ,6,Pug/beagle mix
+7/21/2019 20:25:32,Dog,Mia,Mia,13,Golden retriever 
+7/21/2019 20:26:25,Cat,Louie,Louie,4,
+7/21/2019 20:26:42,Cat,Mitzi Junebug Kandinsky,Mitzi,8,
+7/21/2019 20:27:06,Dog ,Megan Gabriela Ortega,Moo,11,Boxer
+7/21/2019 20:27:09,Cat,Bernie,Bernie (Bernard if naughty),2,Domestic long hair
+7/21/2019 20:27:12,Dog,Bel,Bel,7,Cocker spaniel
+7/21/2019 20:27:23,Dog,Artie,Artie Party,14,Golden Retriever
+7/21/2019 20:27:35,Dog ,Snickers,Snickers,9,beagle/german shepherd mix
+7/21/2019 20:27:38,Cat,Hazel ,Hazel,4,Domestic short hair
+7/21/2019 20:27:46,Dog,Blue,Blue,7,Blue heeler mix
+7/21/2019 20:28:14,Dog,Wally,WaWa,2,Golden retriever mix
+7/21/2019 20:28:28,Dog,Copper,Copper,10,Chihuahua mix
+7/21/2019 20:29:14,Kitten,Harold,Harry,6 weeks,Cat
+7/21/2019 20:29:28,Lizard,Birdie,Baby liz,7,
+7/21/2019 20:30:52,Cat,Sir Jonathan Pooh Cat,Jonathan,10,Persian 
+7/21/2019 20:31:32,Dog,Juliet,Jules,2,Pit bull
+7/21/2019 20:31:53,Cat,Scout,Scout,9,Tabby
+7/21/2019 20:32:07,Dog,Dasher,Dash,8,Spanador
+7/21/2019 20:32:18,Dog,Grace,Gracie,5,Labrador Retriever
+7/21/2019 20:32:35,Dog,Ruby,Ruby,12,Mutt
+7/21/2019 20:32:36,Bird,Nugget,Nugget,2,Ringneck Dove
+7/21/2019 20:32:50,Dog,Levi,Lee,6,Australian Shepherd
+7/21/2019 20:33:34,Dog,Elle Loki Bean,Bellie,1,Boxer mix
+7/21/2019 20:34:20,Dog,Dorthea Dix,Doge,5,Golden Retriever
+7/21/2019 20:34:21,Dog,Layla Bo Peep,Layla,4 months,Puggle
+7/21/2019 20:34:39,Dog,Rocky ,Rocky ,12,Beagle mutt 
+7/21/2019 20:35:10,Dog,Tillith,Tilly/TillBear,8,Hound mix 
+7/21/2019 20:36:01,Dog,Rollo,Rollo,3.5,Yellow lab
+7/21/2019 20:37:12,Dog,Nisku,Nisku,2,G-shep mix
+7/21/2019 20:37:25,cat,Cat,Cat,8,domestic long hair
+7/21/2019 20:37:45,cat,peaches,peaches,5,persian
+7/21/2019 20:37:54,Dog,Sadie Jo,Sadie or Tato,5,Yellow Labrador retriever 
+7/21/2019 20:38:06,dog,lady,lady,9,bernese mountain dog 
+7/21/2019 20:38:20,Dog,Sammy Q,Sam,10 years,Golden retriever mix
+7/21/2019 20:38:34,Cat,Cookie,Cookaroo ,9,Siamese Mix
+7/21/2019 20:39:01,Cat,Pepper,Bebs ,4,Tabby Mix
+7/21/2019 20:39:59,cat,ipod,ipod,12,
+7/21/2019 20:40:28,cat,hank the cowcat,hank,12,
+7/21/2019 20:40:56,Dog,Oliver Phish,Oliver,2,Pit bull mix
+7/21/2019 20:41:12,dog,Cleopatra ,cleo,6,Italian mastiff
+7/21/2019 20:41:18,Dog,Birdie,Birdir,1,Labradoodle
+7/21/2019 20:41:58,Dog,Murphy,Murph,7 mo,Golden Retriever
+7/21/2019 20:42:36,Dog,Ryder,Ryder,14,Yellow lab mix
+7/21/2019 20:42:55,Dog,Talani Snowmageddon ,Milo,4.5 mos,Golden Retriever
+7/21/2019 20:42:57,Dog,Winnie the Blue,Winnie,11 months,Pit bull 
+7/21/2019 20:43:32,Dog,Scarlett,Scarlett,3 months,King Charles Cavalier Spaniel
+7/21/2019 20:43:35,Dog,Gus,Gus,11 years,Golden Retriever 
+7/21/2019 20:43:20,Dog,Dixie Marie,Dixie,8,St. Bernard
+7/21/2019 20:43:40,Dog,Heidi,Heidi,2,St. Bernard
+7/21/2019 20:44:00,Dog,Phin,Phin,2,St. Bernard 
+7/21/2019 20:44:19,Dog,Jager,Jager,12 years,Labrador Retriever 
+7/21/2019 20:45:09,Dog,Brown Bear,Bear,7,
+7/21/2019 20:45:48,Dog,Lucy,Lucy,4,Golden Retriever 
+7/21/2019 20:46:36,Dog,Kahlua ,Chicky-chix,10monthd,Mutt
+7/21/2019 20:46:46,Cat,Epinephrine,Epi,9,Mix
+7/21/2019 20:47:04,Dog,Baylei,Stinky,1 year,Silver lab
+7/21/2019 20:47:20,Dog,Baylei,Stinky,1 year,Silver lab
+7/21/2019 20:47:21,Cat,That Cat,T.C.,9,Mix
+7/21/2019 20:48:03,Dog,Rocky,Rocky,5,Pit bull/lab mix
+7/21/2019 20:48:04,Bird ,Buddy Ryan ,Buddy ,12,
+7/21/2019 20:48:26,Dog,Abigail,Abby,4,Pit bull
+7/21/2019 20:48:36,Dog,Kira ,Kira/Squishy ,15,Beagle
+7/21/2019 20:48:40,Dog,Sammy,Sam sam,6,Golden retriever lab mix
+7/21/2019 20:49:40,Dog,Piper Marie,Piper,4,Newfoundland mix
+7/21/2019 20:50:02,Dog,Charlene ,Charlie,12,Lab Mix
+7/21/2019 20:52:02,Dog,Thor Mighty God of Thunder,Thor,9,  dachshund mix 
+7/21/2019 20:52:26,Dog,Cody Anne,Cody,2 years,Golden retriever
+7/21/2019 20:52:39,Cat,Caesar ,Jeff-jeff,9,Unknown 
+7/21/2019 20:52:50,Dog,Tessa,Tessa,11,German Shepherd Dog
+7/21/2019 20:53:32,Cat,Theia,"Kitty, booger butt, fluffybutt",11,Domestic long haired 
+7/21/2019 20:53:52,Cat,Minerva Mcgonagall ,Minna,5,Tabby 
+7/21/2019 20:55:21,Dog,Lily,Lily,10,Shepherd chow mix
+7/21/2019 20:55:28,Dog,Butters,Butters,9,Shepherd Mix
+7/21/2019 20:55:56,Dog,Marigold,Marigold,8,Heinz 57 mutt
+7/21/2019 20:55:56,Dog,Prince Romeo,Romey,8,Miniature Pinscher
+7/21/2019 20:56:24,Cat,Teacher’s Pet,Teeps,2,
+7/21/2019 20:56:42,Cat,Wimpy,Wimpy,2,
+7/21/2019 20:56:54,Cat,Lucy,Lucy,2,
+7/21/2019 20:58:04,Dog,"Snickers the First, Head Woofer",Snickers,6,Yorkiepoo
+7/21/2019 20:58:54,Dog,Lucky,Lucky,3,Lab/blue heeler/mixed breed
+7/21/2019 20:59:08,Dog,Ares,Ares,8,Olde English Bulldog
+7/21/2019 20:59:37,Cat,Skylar ,"Sweet boii, my beautiful baby boy",3,
+7/21/2019 20:59:41,Dog ,Maximillian ,Max,13,Golden retriever 
+7/21/2019 20:59:43,Dog,Rogue,Rogue,6,Border collie/weimerheimer/mixed breed
+7/21/2019 21:00:34,Cat,Sweety,Sweety,Unknown ,Domestic longhair 
+7/21/2019 21:00:57,Cat,Benny,Ben,4 years ,Domestic shorthair 
+7/21/2019 21:00:58,Dog,Ace,,1,American Hairless Terrier 
+7/21/2019 21:01:22,Dog,Ava,,4,American Hairless Terrier
+7/21/2019 21:01:47,Dog,Winnifred,Winnie,6,Shitzu/poodle mix
+7/21/2019 21:02:36,Dog,Mika ,Mika,8,Pitbull & Lab mix
+7/21/2019 21:03:22,Dog,Charlie Elizabeth Begonias ,Charlie ,5,Labradoodle 
+7/21/2019 21:04:15,Dog,Jack Ass,"Jack, Jackie",5,Border Collie Australian shepherd mix 
+7/21/2019 21:05:02,Cat,Bean,Cat,7,
+7/21/2019 21:05:33,cat,Skipps,Skipper,1,
+7/21/2019 21:06:08,Cat,Carly Q Cat,Carl,5,
+7/21/2019 21:06:45,Dog,Dan,Digger,13,pug
+7/21/2019 21:07:24,Dog,Koko,Koko,4,French Bulldog
+7/21/2019 21:07:42,Dog,Archibald,Archie,2,Golden retriever 
+7/21/2019 21:07:48,Dog,Sassie,Sassie,19,Poodle
+7/21/2019 21:08:10,Dog,Zoe,Zoe,12,Shitzu-Poodle
+7/21/2019 21:09:23,Dog,Bobo,Bobes ,10,Mutt
+7/21/2019 21:09:52,Cat,Sofi,Sofi May Bofi,2,Calico
+7/21/2019 21:11:03,Dog,Isiah Thomas,Izzy,3 months,Mainecoon
+7/21/2019 21:11:45,dog,Sir Pete the Pup,Pete,12,chihuahua
+7/21/2019 21:11:59,Dog,Roux Stir,Roux,8,Catahoula mix
+7/21/2019 21:12:26,Dog,Lucy Scramble ,Lucy,5,Boxer
+7/21/2019 21:13:17,Dog,Junebug ,Junebug,10,Shepard mix
+7/21/2019 21:13:26,Dog,Crinkle,Crink-a-dink,7,Rhodesian ridgeback 
+7/21/2019 21:17:45,Other,George,George,Unknown,Metamorphic
+7/21/2019 21:18:59,Dog,Smokey,Spooky,14,Mutt
+7/21/2019 21:19:25,Dog,Daisy May,Daisy ,3,Lab mix 
+7/21/2019 21:20:10,Dog,Crimson,Crimson,9,Beagle & Lab/German Shepherd mix
+7/21/2019 21:20:34,Dog,Tide,Tide Dog,9,Beagle & Lab/German Shepherd mix
+7/21/2019 21:21:55,Card Board Poster ,Kendall Jenner ,Ken,23,Human 
+7/21/2019 21:21:17,Dog,Sophie,Sophie,10,Lab & Jack Russell Mix
+7/21/2019 21:21:17,Dog,Sir Nigel Petrie of the Poofybottom Clan,Nigel,12,Pomeranian/terrier mix
+7/21/2019 21:23:40,Dog,Tobi,"Bobo, Tib Tob, Tibbi Bibbi, Corn Chip",10,Newfoundland/St. Bernard
+7/21/2019 21:24:35,Dog,Bruin ,Bru ,7,Golden retriever 
+7/21/2019 21:26:37,Dog,Lucinda Jean,Lucy,1,Golden Retriever
+7/21/2019 21:27:05,Dog,Dave,Dave,4.5,Golden Retriever 
+7/21/2019 21:28:51,Dog,Harper Valley,Harper,3 months ,Dachshund 
+7/21/2019 21:29:31,Cat,calleigh Marie ,Calleigh,14,Dsh 
+7/21/2019 21:29:36,Dog,Buster Brown,Buster,11,"Mutt (boxer, pug, beagle, Boston terrier mix possibly)"
+7/21/2019 21:29:45,Goldfish,Øptifish,Øptifish,2 weeks,Orange 
+7/21/2019 21:29:57,Dog,Leila ,Leila!!,5ish,Pointer 
+7/21/2019 21:30:00,Dog,Trixie,Trixie Treat,3,Golden Retriever 
+7/21/2019 21:31:26,Dog,Archer,Archibald ,9ish,Lab mix 
+7/21/2019 21:32:23,Dog,Josie Pancakes Fluffybottom,Josie,8,Heinz 57
+7/21/2019 21:35:58,Cat,Tiger Jack,Jack,6.75,Tabby
+7/21/2019 21:36:38,Cat,William Orange,Willie,6.75,Tabby
+7/21/2019 21:39:23,Dog,Zeus,Zu,1 1/2,Great Dane 
+7/21/2019 21:39:27,Dog,Shooter,Shooter,8,Blue Heeler
+7/21/2019 21:39:42,Dog,Ellie,Ellie,8,Yellow lab
+7/21/2019 21:40:04,Dog,Macie,Mace,8,GOLDEN 
+7/21/2019 21:40:29,Dog,Maddie,Bubbis,17,Shih tzu
+7/21/2019 21:41:51,Cat,Motown,Mo,8,Domestic Longhair
+7/21/2019 21:43:52,Fish,Spot,Spot,6 months,Betta
+7/21/2019 21:43:54,Dog,Squirt,Squirt,7,Bulldog
+7/21/2019 21:43:30,Dog,Samantha Marie,Sammie,8,Mutt
+7/21/2019 21:44:06,Dog,Quincy,Quincy,5,Chow mix
+7/21/2019 21:44:40,Dog,Cajun ,Cajun ,6 1/2,Golden lab mix
+7/21/2019 21:45:11,Dog,Duke,Dukie Doo,3,Pit bull
+7/21/2019 21:45:51,Dog,Daisy,Daisy Dee,3,Pit bull
+7/21/2019 21:46:02,Dog,Nico,Nico,4,Pug/Boston Terrier Mix
+7/21/2019 21:46:07,Dog ,Chance McCoy ,Chance,10,Golden Retriever 
+7/21/2019 21:46:35,Dog,Kobi,Kobi,11,Pitt Bull Mix
+7/21/2019 21:47:09,Dog,Maila ,Maila Moose,1,South African Mastiff
+7/21/2019 21:48:10,Horse,Domino,Dommi,6,Paint
+7/21/2019 21:48:45,Dog,Phineas,Phin,3,Lab
+7/21/2019 21:48:57,Dog ,Cody,Vody,20,Labrador retriever 
+7/21/2019 21:50:38,Dog,Perry,Perry,3,Lab
+7/21/2019 21:50:39,Chicken,Gregory Peck,Greggie,2,Bantam Cochin
+7/21/2019 21:50:55,Dog,Call it a night Sir Dudley,Dudley,5 years,Golden Retriever 
+7/21/2019 21:51:40,Dog,Madison Brooke,Maddy,7 years old,Foxhound Mix
+7/21/2019 21:51:57,Cat,Pandors,Pandora,10 years,Unknown
+7/21/2019 21:52:15,Dog,Like Francis,Luke,8 years old,Treeing Walker Coonhound Mix
+7/21/2019 21:52:13,Cat,Bo Bo,Bo Bo,4,
+7/21/2019 21:52:39,Cat,Zooey,Zooey,8,
+7/21/2019 21:53:22,Cat,Mollie ,Mollie,2,Evil 
+7/21/2019 21:53:44,Cat,JJ,JJ,6 months,
+7/21/2019 21:54:07,Cat,Jenson Button. (Last name pronounced Boo Tawn),"Boo Bear, JB, or Button (Pronounced Boo Tawn)",8 years old,Mix
+7/21/2019 21:55:30,Dog,Pilikia,Pili,14,Chihuahua 
+7/21/2019 21:57:00,Dog,Mia Pieper,Mia ,3,Black lab/ greyhound mix 
+7/21/2019 21:55:40,Cat,Nova Blake,Nova,1 year ,Tabby 
+7/21/2019 21:59:31,Dog,Pepper Potts,Pepper,6,Golden Retriever
+7/21/2019 22:00:01,Dog,Scruffy,Scruffy,Dead,Mutt
+7/21/2019 21:59:45,Cat,Nikolai Maranov,Mr. M,12 years old,Maine Coon
+7/21/2019 22:00:09,Cat,Django,Django,16,Tuxedo cat
+7/21/2019 22:01:50,Dog,Princess Jessi,Jessi,7,
+7/21/2019 22:00:27,Dog,Mowgli,,1,Lab
+7/21/2019 22:00:40,Luna,,,2,Lab
+7/21/2019 22:01:12,Dog,Wille,Willie,8,
+7/21/2019 22:02:16,Dog,Otto,Otto,1.5,Doberman/Basset Hound
+7/21/2019 22:02:36,Cat,Momma Martha,Martha,5,DSH
+7/21/2019 22:03:14,Dog,Optimus,Opti,7,Maltese
+7/21/2019 22:05:51,Dog,Memphis Mumford ,Memphis,2,Cane Corso Mastiff
+7/21/2019 22:05:57,Cat,Antoine,Toine,8,Tabby cat
+7/21/2019 22:06:28,Dog,Louie,Louie,6,Lab/bloodhound mix
+7/21/2019 22:06:33,Cat,Hunter Pounce,Caracat,8,Shorthair cat
+7/21/2019 22:06:50,Dog,Anna,Anna,5,
+7/21/2019 22:07:20,Dog,Chester ,Chester,13,Nova Scotia Duck Toller
+7/21/2019 22:07:31,Dog,Zeus Theodore,Zeus,7,Schnoodle (schnauzer/poodle)
+7/21/2019 22:07:42,Dog,Ripley,Ripley,13,Golden Retriever
+7/21/2019 22:07:45,Dog,Beau,Beau Beau ,4,Goldendoodle
+7/21/2019 22:08:06,Dog,Lucy,Lucy,9,Golden Retriever
+7/21/2019 22:08:46,Dog,Penelope ,Penny,3,Maltese
+7/21/2019 22:08:46,Dog,Callie,Cal,4,Golden retriever
+7/21/2019 22:08:21,Dog,Jake,Jakey poo poo head,2,Golden doodle
+7/21/2019 22:09:28,Dog,Willie,Willie,2.5,Lab mix
+7/21/2019 22:12:42,dog,package,package,1,Dalmatian mix
+7/21/2019 22:12:53,Cat,Algernon ,"Algy, Gu",11,
+7/21/2019 22:13:07,Kitty Meow,Pickles!,Pickles or Pumpkin or Cutie Pie or Little Darlin,3,Torti
+7/21/2019 22:13:09,cat,jiblit,tiny jib ,1,
+7/21/2019 22:13:19,Dog,Luna,Luna,5,Yorkie 
+7/21/2019 22:13:39,Dog,Delilah,Lila,4,Lab
+7/21/2019 22:15:54,Cat,Celie,Celie,7,Tabby
+7/21/2019 22:16:08,Cat,Sophie,Sophie,7,Tabby
+7/21/2019 22:16:17,Cat,Oliver Wendell Holmes,Oliver,9,
+7/21/2019 22:16:31,Dog,Josephine ,Josie,4,Border Collie/Pit Mix 
+7/21/2019 22:17:49,Dog,Russell D.,Rusty,9,Mutt
+7/21/2019 22:17:51,Dog,Excalibur Insubordinate O’Mallie IX ,Cali ,2,Golden Retriever 
+7/21/2019 22:18:58,Dog,Darth Vada Mae,Vada,7,Border collie/corgi
+7/21/2019 22:19:03,Cat,Felix,Felix,12,Domestic Shorthair
+7/21/2019 22:19:33,Dog,Butterscotch,Butters,9? 10???,mutt
+7/21/2019 22:19:56,Dog,Emma Jean Jelly Bean,Emma,13,Shih tzu
+7/21/2019 22:19:58,Cat,Binky,Binky,2,domestic shorthair
+7/21/2019 22:20:18,Cat,Sox,Sox,10,domestic shorthair 
+7/21/2019 22:21:23,Dog,Rigby,Rigs,6?,Boston terrier
+7/21/2019 22:22:13,Dog,Sir Scribbles Of the Shire,Scribbles,5,Shih tzu/corgi 
+7/21/2019 22:21:59,Cat,Herbert Fitzgerald,Bertie,3,Ragdoll
+7/21/2019 22:22:22,Cat,Gary,Gary,About 3,Tabby
+7/21/2019 22:22:27,Cat,Cassandra,Cassie,7,Siamese Mix
+7/21/2019 22:23:02,Cat,Moose,Moose,2 months,Calico
+7/21/2019 22:23:28,Dog,Tele,Tele,11,Lab
+7/21/2019 22:23:53,Dog,Maggie,Pooper,14,dachshund 
+7/21/2019 22:24:46,Cat,Daniel,Daniel,16,Oriental Shorthair
+7/21/2019 22:25:26,Cat,Kitty,Kitty,16,DSH
+7/21/2019 22:25:40,Dog,Daisy Mae,Daisy,11,Golden Retriever 
+7/21/2019 22:27:54,dog,Bug,bug,6,Jack russel mutt
+7/21/2019 22:28:09,Dog,Rayven,Ray,6,German Shepherd
+7/21/2019 22:28:12,dog,puppy girl,puppy,4,Jack russel
+7/21/2019 22:28:29,dog,beyoncé ,beyoncé ,2,chihuahua 
+7/21/2019 22:30:21,Dog,Pippa Mad,Pippa,2,Havanese  
+7/21/2019 22:30:35,Dog,Tails Balboa,Tails ,14,Chihuahua 
+7/21/2019 22:31:00,Dog,Tara Balboa,Tara,6,Chihuahua 
+7/21/2019 22:35:27,Dog,Mia,Mimi,<1,Chihuahua
+7/21/2019 22:34:11,Dog,Slainte,Slainte,12,Chiweenie
+7/21/2019 22:35:50,Cat,Persephone,Persnuffy,11,
+7/21/2019 22:35:51,Cat,Piper,Pipes,1,
+7/21/2019 22:36:42,Cat,Belle,Tiny Kitten,12,
+7/21/2019 22:37:27,Cat,Nyx,Nyxapooski,8,
+7/21/2019 22:38:48,Dog,Clyde Frog the Dog,Clyde ,3.75,Yellow Labrador 
+7/21/2019 22:38:05,Cat,Baby Tiger,Tiger bub,11,
+7/21/2019 22:38:43,Cat,Havoc,BB,2,
+7/21/2019 22:40:36,Dog,Asher,Ashie,9,Golden retriever
+7/21/2019 22:40:38,Dog,Miley,Miley,13.5,Mutt
+7/21/2019 22:40:40,Cat,Tux,Monsieur Tux,2,
+7/21/2019 22:41:00,Other,Paisley Desert Melody ,Melody,7,Mustang (horse)
+7/21/2019 22:41:07,Dog,Suzie,Suzie,5,Chocolate lab
+7/21/2019 22:41:27,Dog,Joshua,Joshie,9,Golden retreiver
+7/21/2019 22:42:08,Dog,Kona Kai,Kona,2,"Mutt: half terrific, half amazing (most likely golden retriever/German Shepherd "
+7/21/2019 22:42:19,Cat,Simba,Simba,6,DSH (He orange)
+7/21/2019 22:43:04,Dog,Charlie,Charlie,11,Boston Terrier x Pug
+7/21/2019 22:43:11,Turtle,Lucky,Lucky,Unknown,Desert tortoise
+7/21/2019 22:43:41,cat,Duncan,Duncan,5.5,NA
+7/21/2019 22:44:09,Dog,Lucky,Lucky,4,Lab retriever 
+7/21/2019 22:44:25,Dog,Lily Ann ,Lily,3,Golden retriever 
+7/21/2019 22:44:38,Dog,Robbie,Robbie,10,West Highland White
+7/21/2019 22:44:39,Dog,Chance ,Chance ,4,Lab Retriever 
+7/21/2019 22:45:30,Cat,Mir Hector,Mir,11.5,Domestic shorthair
+7/21/2019 22:45:38,Cat,Clover,Clo,2-3,
+7/21/2019 22:46:05,Cat,Lacerta Grace,Laci,11,Domestic shorthair
+7/21/2019 22:46:08,Dog,McGregor,Gregs,11,Scottish Terrier
+7/21/2019 22:46:10,Cat,Mosephus,Mo,3-4,
+7/21/2019 22:46:51,Dog,Maggie,"Mags, maggals",6,Corgi
+7/21/2019 22:46:55,Dog,Boo Radley Beauregard ,Boo,5,Hound mix
+7/21/2019 22:48:01,Cat,Pictor James,Pictor ,8,Lynx point Siamese
+7/21/2019 22:48:12,Cat,Yellowie,Old man,19,
+7/21/2019 22:48:31,Cat,Sylvio,Syl,14,
+7/21/2019 22:48:31,Dog,Jean Louise,Scout,2.5,Golden Retriever
+7/21/2019 22:48:54,Cat,Cooper Kent DeGroat,Cooper/Tooper,1,Tuxedo Cat 
+7/21/2019 22:49:17,Dog,Java Joe,Joe,7 weeks,Corgi
+7/21/2019 22:49:41,Dog,Heidi hoho,Heidi,7,Rescue 
+7/21/2019 22:50:53,Dog,Finlay Heisenberg ,Finn,8 years old,Shetland Sheepdog
+7/21/2019 22:51:02,Cats,Porkchop ,Porkie,4,Rescue 
+7/21/2019 22:51:06,Dog,Nala Belle,Nala,11,Golden retriever
+7/21/2019 22:51:36,Cat,Lila,Lielee,10,Long hair domestic 
+7/21/2019 22:52:14,Dog,Matelin Paco Junior,Mate,9,Australian Shepherd 
+7/21/2019 22:51:45,Cat,Applesauce ,Apple,2,Rescue 
+7/21/2019 22:52:48,Dog,Eddie ,Eddie,8,Chihuahua 
+7/21/2019 22:52:17,Dog,Sir Thompson Squigglebutt,Tommy,7,Chihuahua
+7/21/2019 22:53:16,Dog,Miss Kasey Bubbles ,Kasey,8,English Setter
+7/21/2019 22:53:44,Dog,Angel ,Angel,9,Golden retriever
+7/21/2019 22:54:07,Dog,Loosie,Goose,15,Whippet
+7/21/2019 22:54:18,Bird,Ruby ,Ruby,2,Parakeet 
+7/21/2019 22:54:40,Dog,Sophie ,Sophie,14,Whippet
+7/21/2019 22:55:13,Lizard ,Robert ,Robbie,1,Leopard gecko 
+7/21/2019 22:55:18,Dog,Douglas,Douglas,10,Basset Hound
+7/21/2019 22:55:37,Dog ,Zoi,Z,1,English Setter
+7/21/2019 22:55:53,Cat,Menke,Menke,4,Manx 
+7/21/2019 22:56:01,Dog,Jasper,Jasper,14,Whippet
+7/21/2019 22:56:23,Dog,Rupert,Roo,3,Basset Hound
+7/21/2019 22:56:58,Dog,Spencer,Spence,10,Pointer 
+7/21/2019 22:57:32,Dog,Sir Clyde Bootsie Sideeye,Clyde ,11,Chihuahua 
+7/21/2019 22:58:01,Dog,Daisy Mae,Daisy,7,Goldendoodle
+7/21/2019 23:01:50,Dog,Teddy Bear,Teddy,11,Chow chow/Australian Shepard 
+7/21/2019 23:06:09,Dog,Edward Gene ,Eddy,15,Golden Retriever 
+7/21/2019 23:05:40,Dog,Peaches Monroe,Peaches,4,Jack Russell Terrier 
+7/21/2019 23:06:19,Dog,Sir Nicholas,Nick,9,Corgi/jack russell 
+7/21/2019 23:06:26,Dog,Eowyn,Eo,13,Shih tzu
+7/21/2019 23:06:42,Dog,Jayden,Denden,8,Shih tzu
+7/21/2019 23:06:56,Dog,Joey,Jo,1,Golden retriever
+7/21/2019 23:08:34,Dog,Walker Texas Ranger ,Wally,1,Labrador Mix 
+7/21/2019 23:08:53,Dog,Mike Mussina ,Moose,1,Labrador mix 
+7/21/2019 23:10:09,Cat,Azuca,Zucchini,8,
+7/21/2019 23:13:49,Cat,Lady Bluebelle,Bluebelle,16,DMH 
+7/21/2019 23:12:08,Dog,Demon Deacon,Deke,13,Golden Retreiver
+7/21/2019 23:12:01,dog ,benny the tiny von hudehoff,benny,5,yorkshire
+7/21/2019 23:14:18,Dog,Jacky,Jack,3,Golden Retriever
+7/21/2019 23:14:47,Dog,Gigi,Gigi,10,Golden Retriever 
+7/21/2019 23:15:04,Dog,Liontamer’s Nelson M Mandela ,Nelson ,2,Rhodesian Ridgeback 
+7/21/2019 23:15:17,Dog,Toby,Toby,12,Golden Retriever
+7/21/2019 23:15:33,Dog,Sugar,Sugar,13,Mix
+7/21/2019 23:15:37,Cat,Rey,Rey,2,
+7/21/2019 23:15:37,Dog,Mackley,Mackey,4,American Bulldog
+7/21/2019 23:15:44,cat,Gordon BaNarNar,Gordon,6,Tabby
+7/21/2019 23:15:50,Dog,Sugar,Sugar,5,Golden Retriever
+7/21/2019 23:16:18,Dog,Minnie,Minnie,10,Min pin
+7/21/2019 23:18:10,Dog,Meeko letang,Bubby,3 years,Rough collie
+7/21/2019 23:20:18,Cat,"Mephistopheles, der leibhaftige Teufel, Lord of the Underworld, Bringer of Darkness  ",Felix,11,DSH
+7/21/2019 23:20:55,Dog,Oddjob,Jobby,11,Puggle
+7/21/2019 23:20:57,Cat,River,River,8,DSH Orange Tabby
+7/21/2019 23:22:55,Dog,Charleston Wesley,Charlie,1,Goldendoodle
+7/21/2019 23:23:18,Dog,Shelby,Shelb ,3 months (puppy puppy!!!!),Mutt
+7/21/2019 23:23:43,Dog,Barracuda ,Cuda ,3 months ,GSD Mix 
+7/21/2019 23:24:04,Hamster ,Lilapution Marie,Lilla,0,
+7/21/2019 23:24:08,Dog,Daisy ,Daisy,5,Chocolate lab mix
+7/21/2019 23:24:09,Dog,Moose Van Haus Huenink,Moose,3,Rottweiler
+7/21/2019 23:24:26,Dog,Princess Bella Marie,Bella,11,Mini Dachshund/Beagle mix
+7/21/2019 23:24:29,Hamster ,Turtle Dove,Turtle,0,Syrian
+7/21/2019 23:24:42,Dog,Geno Stoneycreek Pugh,Beans,2,Rottweiler
+7/21/2019 23:24:44,Cat,Axel daxel,Axel,9,Short hair domestic 
+7/21/2019 23:25:05,Fish,Michael Lee,Michael ,11 months,Betta 
+7/21/2019 23:25:12,Cat,Babe Ruthy,Babe,9,Domestic short hair 
+7/21/2019 23:25:14,Dog,Sadie Mae,Sadie,6,German Shorthaired Pointer
+7/21/2019 23:25:38,Chinchilla ,Stanley ,Stan Bug,0,
+7/21/2019 23:25:54,Dog,Ruby Sue,Ruby,3,Blue tick Coonhound
+7/21/2019 23:26:28,Bunny,Richard Fineman,Richie,4,
+7/21/2019 23:27:50,Dog,Zoey,Zoey/zozo,8,Golden retriever
+7/21/2019 23:28:40,Dog,Apollo,Apollo,10,Boxer
+7/21/2019 23:28:52,Dog,Petey,Pete,11,lab mix
+7/21/2019 23:29:33,Cat,Scuto,Scutie,10,Burmese
+7/21/2019 23:29:12,Dog,Sadie Blue,Sadie,9,Border collie mix
+7/21/2019 23:29:48,Dog,Mira,Weetum,13.5,lab/greyhound
+7/21/2019 23:30:23,Dog,Ginger,Ginger,We aren’t sure- around 8-10,Staffordshire mix
+7/21/2019 23:30:28,cat,Cookie Dough,Miss Dough,6,cat
+7/21/2019 23:30:57,Tortoise ,Kachu,Kachu,4 years ,
+7/21/2019 23:32:49,Dog,Hairy Potter,Hairy,12,Smol terrier
+7/21/2019 23:34:59,Dog,Cricket,Crickita ,Deceaced 12 years :(,"Half schitzu, half long haired miniature dachshund "
+7/21/2019 23:34:50,Dog,Xenia Marie,Xenia,8,German Shepherd
+7/21/2019 23:35:13,Other,Potato,Tot,3,Abyssinian Guineapig 
+7/21/2019 23:35:34,Dog,Daisy Mae,Daisy,12,Cairn Terrier
+7/21/2019 23:37:32,Other,Ashe,Ashe,3,American standard chinchilla 
+7/21/2019 23:40:45,Goldfish,Mr. Moesby,Mr. Moesby,3 years approx. ,Goldfish (common)
+7/21/2019 23:39:19,Goldfish ,Helen,Helen,3 years (approx),Goldfish (tiny)
+7/21/2019 23:41:25,Dog,Skylar,Sky dog,15,Mini Aussie
+7/21/2019 23:43:06,Dog,Maybus Dogstoevsky,Maybe,11,Treeing Walker Coonhound
+7/21/2019 23:43:45,Dog,Kahlua ,"Louie, LouLou, KaHULA, FlufferNutter",7,Mini Aussie
+7/21/2019 23:44:06,Cat,Foster,Foster,13,Domestic Shorthair - Gray Tabby
+7/21/2019 23:44:34,Cat,Reese,Reese,13,Domestic Shorthair - Tortoiseshell 
+7/21/2019 23:44:48,Dog,Maggie pie thatcher,Maggie,4 months,Blue lacy 
+7/21/2019 23:46:11,Dog,Ashildr,Ashy,1,Boxer
+7/21/2019 23:46:19,Dog,Elsa,Stinky poo poo,4-1/2,German Shepherd
+7/21/2019 23:46:59,Dog,Belle,Stinky poo poo too,4-1/2,Golden retriever
+7/21/2019 23:47:37,Cat,Mufasa,Mufasa,~14,Yellow tabby long hair
+7/21/2019 23:47:53,Dog,Zeus,Zeusy,8,Jack Russel mix
+7/21/2019 23:48:15,Guinea pig,Niblet,Fat pig,~4,Guinea pig 
+7/21/2019 23:48:58,Dog,Molly,Miss Pants,6,Lab mix
+7/21/2019 23:49:12,Cat,Valerie Spaceship Pizza Party,Bubba,6,Domestic shorthair
+7/21/2019 23:49:54,Hamster,Penelope,Penne,1,Syrian
+7/21/2019 23:49:55,Cat,Peanut,Peenie paneenie,4 months,Calico
+7/21/2019 23:51:39,Cat,Jupiter,  Monsieur Jups,6,Domestic short hair
+7/21/2019 23:52:38,Dog,Chip,"Chippy, Chipper, Dumbo, or Chipper Dipper",13.5 years,Yellow Lab
+7/22/2019 0:00:20,Dog,Chewustuffer Asshole,Chewy,2,Golden Retriever
+7/22/2019 0:00:59,Dog,Sailor Moon,Either Sailor or Moon,4,Newfoundland
+7/22/2019 0:01:01,Dog,Navigator’s Sipsey River PrinceS,Sipsey,11,Labrador Retreiver
+7/22/2019 0:01:03,Dog,Buddy,Bud,9,Border collie 
+7/22/2019 0:01:41,Dog,Brown Butter Biscuit,Biscuit,12,Labrador Retriever
+7/22/2019 0:02:06,Dog,Millie,Lil mil,13,Shih tsu cross 
+7/22/2019 0:03:31,Dog,Jonah,Jonah,5,Lab/Collie
+7/22/2019 0:04:10,Dog,Diggs,Diggs,9 years,Australian Cattle Dog
+7/22/2019 0:04:22,Bird,Gudlaguba,guba,2,
+7/22/2019 0:04:39,Dog,Herman,"Hermie, Herm-Derm, Herbie, Herm-Worm",14,Dachshund 
+7/22/2019 0:05:08,Cat,Isis,Isis,9,Domestic shorthair
+7/22/2019 0:05:56,Dog,Datsyuk,Datsyuk,8 mos,Shepherd mix
+7/22/2019 0:06:28,Dog,Nightwing ,Nightwing,6,Lhasa Apso / Maltese 
+7/22/2019 0:06:39,Dog,Isabella,Bella,5,German Shepard/ Australian Shepard
+7/22/2019 0:07:11,Dog,Princess Buttercup,Princess,4,Lhasa Apso / Maltese 
+7/22/2019 0:10:07,Dog,Sir Jake of Zoar,Jake,11,Yellow lab
+7/22/2019 0:10:13,Cat,Michael Theodore Wazowski,Mike,2,Fuzzball
+7/22/2019 0:12:12,dog,scout,scout,6,King Charles
+7/22/2019 0:11:15,Dog,Aluxe,Aluxe,14,Poodle
+7/22/2019 0:12:41,dog,brownie,brownie,11,king Charles
+7/22/2019 0:17:48,Cat,Catsby,Catsby,12,Domestic shorthair
+7/22/2019 0:18:14,Rabbit,Clementine the Lemon,Clem,7,
+7/22/2019 0:19:38,Dog,Shelby May,Shelbs,6 years and 1 month,Terrier Mix
+7/22/2019 0:20:59,Dog,Mr. Henry Midas Darcy,Henry,7,Golden Retriever 
+7/22/2019 0:21:36,Cat,Hermes,Hermes,10 years,Unknown
+7/22/2019 0:23:35,Dog,Annie Reese,Annie,11,Husky/Corgi mix 
+7/22/2019 0:28:23,Dog,Blackjack,Blackjack,3,Lab and pit mix 
+7/22/2019 0:29:08,Cat,Dolly Madison ,Dolly,11,American short hair
+7/22/2019 0:29:50,Cat,Franklin Roosevelt ,Franklin,16,Siamese
+7/22/2019 0:31:05,Cat,Abby,Abby,2.5,
+7/22/2019 0:33:19,Dog,Jaden,Jaden,,8 years
+7/22/2019 0:34:04,dog,Sophie,Soph,9 years,Golden Retriever
+7/22/2019 0:36:23,Cat,Elizabeth Bennet,"Elizabeth, no!",13,Domestic long-hair
+7/22/2019 0:35:16,Cat,Amadeus,Booboo,13,Domestic long-hair
+7/22/2019 0:39:03,Dog,Petey,Petey,11,Golden Retriever
+7/22/2019 0:39:30,Dog,Jack,Jackson,11,Golden Retriever
+7/22/2019 0:41:50,Dog,Bella,Bell,8 years ,Puggle
+7/22/2019 0:45:40,Dog,Starsky Buford,Starsky,7,Foxhound (I think)
+7/22/2019 0:46:21,Other: prairie dog, Beatrice,Trixie,5,Mexican black tailed
+7/22/2019 0:46:48,Dog,Quito,Kiki,4,Lab/APBT/Great Dane/GSD/Australian Cattle Dog/Rottweiler (Embark confirmed)
+7/22/2019 0:47:08,Dog,Wiggins,Wiggs,3,Black lab basset houd mix
+7/22/2019 0:47:44,Bird,Aretha,The broody one,1,Black star hen
+7/22/2019 0:49:04,Other: snake,Stanley,Stanley,1,Ball python
+7/22/2019 0:49:38,Dog,Bella,Smelly Belly,13,Weimeraner
+7/22/2019 0:50:09,Hermit Crab,Golddigger,Goldie,unknown,Australian
+7/22/2019 0:51:27,Dog,Maple,"Mapie, Mapes",5 months old ,Shiba Inu
+7/22/2019 0:51:57,Dog,Sara,Sara,7 years old,Polish Tatra Sheepdog
+7/22/2019 0:53:32,Other: bees,Professor McGongall (the queen),Hogwarts (the hive),A few months,
+7/22/2019 0:54:18,Dog,Clementine,Clem,5.5yrs,Coonhound
+7/22/2019 0:54:31,Dog,Ali May,Ali,12,Lab mix
+7/22/2019 0:54:36,Dog,Aspen,Ass-pen,3y,Coonhound
+7/22/2019 0:54:48,Dog,Amber,Amber,2,German pointer
+7/22/2019 0:54:56,Other- guinea pig,Diego,Dego Bear,3,
+7/22/2019 0:55:10,Other,Linus,Linus,1,American guinea pig
+7/22/2019 0:55:11,Dog,Coquine,Ti-Chat,15,Maltese
+7/22/2019 0:55:15,Other- guinea pig,Colby,Colbs,3,
+7/22/2019 0:57:00,Dog,Medley May ,Med head/big medley,8,Great Dane 
+7/22/2019 0:57:28,Dog,Maggie ,Mag bag ,3,Great Dane 
+7/22/2019 0:58:21,Dog,Finn Jethro,Finny,7,Poodle
+7/22/2019 0:59:01,Dog,Tallulah Lilac,Lulah,4,Poodle
+7/22/2019 1:00:04,Dog,Bear,Bear,6,Husky - shepherd - collie 
+7/22/2019 1:00:46,Cat,Fuji,Worm,9,Domestic house cat
+7/22/2019 1:03:07,Dog,Emily,Emily,7,American Pitbull Terrier
+7/22/2019 1:02:22,Dog,Winifred Yankeestaff Arnone,Winnie,13,English Staffordshire Bull Terrier
+7/22/2019 1:04:54,Dog,Bella,Bella,9,Shih tzu 
+7/22/2019 1:07:07,Dog,Mocha Latte,Moch,2,Retriever/Pitbull 
+7/22/2019 1:06:53,Dog,Bentley Rockstaff Jardine Arnone,Bentley,10 months,English Staffordshire Bull Terrier
+7/22/2019 1:07:28,Cat,Lili,Lili,11,Russian Blue
+7/22/2019 1:07:34,Dog,Freddie Mercury,Freddie,15,Mini Schnauzer
+7/22/2019 1:08:04,Dog,Einstein Pancake,Einstein ,11,Shih tzu/ poodle
+7/22/2019 1:08:14,Cat,Kit Marlowe,Marlowe,11ish?,Domestic shorthair tabby
+7/22/2019 1:09:02,Dog,Sir Eggs Benedict,Benny,2.5,Pembroke Welsh Corgi
+7/22/2019 1:09:08,Dog,Bandit ,Ban ban,8,Husky
+7/22/2019 1:10:57,Cat,Beauregard Montgomery Cat,Beau,3,Black and White
+7/22/2019 1:09:46,Dog,Mac,Mac,5,Border Collie
+7/22/2019 1:10:21,Dog,Shepherd E Stoltzfus,Shep,5,Border Collie
+7/22/2019 1:13:02,Dog,Cinnamon,Chinamon,4,Golden Lab
+7/22/2019 1:13:03,Rabbit,Greta,Greta,13,Mini Rex
+7/22/2019 1:19:23,Dog,Rocky Ciroc,Ciroc,6,Bichon Frise
+7/22/2019 1:20:09,Cat,Cloudy,Cloudy,9,
+7/22/2019 1:20:26,Cat,Sunny,Sunny,5,
+7/22/2019 1:24:09,Dog,Jack,Jack,2,Miniature Dachshund
+7/22/2019 1:23:08,Dog,Baldrick of Blackadder Bob,Bob,14,Miniature Schnauzer
+7/22/2019 1:24:50,Dog,Danny,Danny,deceased,Pomeranian - Indian mongrel mix
+7/22/2019 1:29:14,Dog,Troy,Sweetie,9,Pit mix
+7/22/2019 1:39:58,Dog,Lavender,Lav,8,Pit bull
+7/22/2019 1:40:20,Dog,Buddy,Mr. B,6,Golden retriever 
+7/22/2019 1:42:08,Dog,Chase,Chase,6,Boxer
+7/22/2019 1:43:18,Doggo,Charlotte,Charlie,8 human years,Mostly Border Collie (though she does not behave like one)
+7/22/2019 1:43:05,Dog,Ice,Ice,14,Sharpei/Dachshund mix
+7/22/2019 1:44:45,Beta fish,Alpha (the Beta),Alpha,1 month,
+7/22/2019 1:45:09,Dog,Dolly,Dolly,7 & 1/2 months,Lab mix
+7/22/2019 1:48:15,Dog,Geoffrey,Geoffrey ,1,Maltipoo
+7/22/2019 1:50:55,Rabbit ,Aragorn,Strider,5,Dwarf lop 
+7/22/2019 1:51:43,Rabbit ,Arwen ,Arwen ,4,Lion head dwarf lop 
+7/22/2019 1:52:23,Dog,Holly ,Holly,8.5,Golden retriever 
+7/22/2019 1:57:05,dog,coco pollybird,coco,10,cocker spaniel
+7/22/2019 1:58:19,Dog,Tim,Tim,12,Beagle
+7/22/2019 2:01:18,Dog,Magui Josefina Primera Mercado,Moñoñito,16(+),English Cocker Spaniel
+7/22/2019 1:59:47,Turtle,Robustiana,Robby,5,
+7/22/2019 2:02:04,Dog,Scooby,Scoob,Unknown,American cocker Spaniel
+7/22/2019 2:02:51,Dog,Balto José,Bartolo,Six,
+7/22/2019 2:03:29,Bird,Lulú Anastasia,Pollo,16,
+7/22/2019 2:07:53,Dog,Xena Badass McAwesome Princess Flufflepuffs of the Ashen Fields of Mordor,Xena,6,Golden Retriever
+7/22/2019 2:08:03,Dog,Wilbur,Wilby ,6,French X British Bulldog
+7/22/2019 2:08:46,Dog,Rowena Ravenclaw,Puppy,3,Rhodesian ridgeback
+7/22/2019 2:09:28,Dog,Magnificent,Maggie,7,King Charles/papillon mix
+7/22/2019 2:08:57,Dog,Nova,Scoosh ,7 months ,Cocker Spaniel 
+7/22/2019 2:10:40,Dog ,Penny ,Penny,12,Ray terrier 
+7/22/2019 2:11:01,Cat,Jasper ,Jasper,8,
+7/22/2019 2:11:58,Dog,Maisie taters ,Maisie ,2,Hound mix 
+7/22/2019 2:12:40,Dog,Guinness ,Guinness ,9,Australian shepherd
+7/22/2019 2:12:47,Dog,Johnny Bee,Johnny ,5,Boxer mix 
+7/22/2019 2:12:55,Cat,Emma,Emma-zoo ,21,Calico
+7/22/2019 2:13:18,Dog,Mayflower,May,12,Labrador
+7/22/2019 2:13:05,Cat,Benjamin ,Ben ,6,
+7/22/2019 2:13:40,Dog,Roscoe,Roscoe,13,Beagle 
+7/22/2019 2:13:40,Cat,Pitted bear ,Pits ,6,
+7/22/2019 2:14:16,Cat,Lily ,Lily ,20,
+7/22/2019 2:13:59,Cat,Maggie,Maggie,19,
+7/22/2019 2:15:02,Cat,Tom,Tomsl,18,British short-hair
+7/22/2019 2:15:22,Cat,Gerri,Gerri,17,British short-hair
+7/22/2019 2:23:32,Dog,Ashley,Ashley,5,English Cocker Spaniel 
+7/22/2019 2:22:47,Katze,Moritz,Mori,Eight,None
+7/22/2019 2:24:37,Dog,Janis,Janis,7,
+7/22/2019 2:29:52,Dog,Leonardo,Leo,7,Pekingese
+7/22/2019 2:25:28,Rabbit ,Cheeky,Twatty,5,
+7/22/2019 2:33:54,Cat,Tyler,Doofus,11,Domestic shorthair
+7/22/2019 2:33:19,Dog ,Ceili Kibbles,Ceili (pronounced K-Lee),10,Golden retriever
+7/22/2019 2:34:31,Cat,Kiki,Kikster,11,Domestic Shorthair
+7/22/2019 2:36:34,Dog,Charlie,Charlie,5 months,Bernese mountain dog
+7/22/2019 2:37:00,Cat,Oreo,Oreo,3 months,Shorthair
+7/22/2019 2:37:42,Cat,Ichi,Itch,8,
+7/22/2019 2:37:28,Fish,Mussel ,Muss,3 years,
+7/22/2019 2:37:53,Dog,Mango,Mango,2 years,
+7/22/2019 2:38:18,Hamster,Muffin,Muffin,2 years,
+7/22/2019 2:44:20,Dog,Rufus,Roofie,14,Golden Retiever
+7/22/2019 2:45:58,Dog,Daisy,Daze,4 months,Golden Retriever
+7/22/2019 2:44:50,Dog,Lily,Lils,13,Golden Retriever
+7/22/2019 2:45:27,Dog,Bertie,Bertie Boy,4 months,Golden retriever
+7/22/2019 2:52:42,Dog,Max,Bear,7,Akita
+7/22/2019 2:52:59,Dog,Molly,Moo,7,Beagle
+7/22/2019 2:53:23,Dog,Poppy,Poppy dog,2,Golden retriever!
+7/22/2019 2:53:41,Dog,daisy,Daisy dog,2,Golden retriever! 
+7/22/2019 2:57:56,Cat,Nica-Nu,Nica-NO-GIVE-THAT-BACKQ,21 months,British Shorthair
+7/22/2019 2:59:51,Cat,Meredith,Mer ,8,
+7/22/2019 2:58:31,Dog,Koda,Koda,9,Golden retriever 
+7/22/2019 2:59:04,Dog,Elwood,Elwood,9,Golden retriever 
+7/22/2019 2:59:32,Dog,Jake,Jakey,9,Golden retriever  
+7/22/2019 3:00:10,Cat,Blizzard,White,13,
+7/22/2019 3:01:31,Cat,Hemingway,Hemi,9,
+7/22/2019 3:00:26,Cat,George,Porge,11,
+7/22/2019 3:00:32,Dog,Miles ,Miles,8,Labrador 
+7/22/2019 3:05:20,Cat,Sherbert,Sherbert ,1,
+7/22/2019 3:13:32,Cat,Liesje,Liesje,5,Tortoiseshell
+7/22/2019 3:23:22,Dog,Indiana ,Indy,10,Springer spaniel
+7/22/2019 3:24:05,Cat,Diego Maradona,Degs,3,
+7/22/2019 3:23:44,Dog ,Maximus Harvey ,Max,2,Golden retriever 
+7/22/2019 3:24:29,Cat,Paco ,PAC man ,2,
+7/22/2019 3:26:43,Dog ,Douglas Ray Richardson the Third ,Doug ,6ish,Red heeled 
+7/22/2019 3:39:52,Guinea Pig,Wilbur,Wilbur,1,n/a
+7/22/2019 3:39:23,Guinea Pig,Vincent,Vinnie,1 year,n/a
+7/22/2019 3:49:48,Dog,Harley,Gnarly,4,Pug
+7/22/2019 3:50:41,Tortoise,Taco,Taco,≈7,Russian Tortoise
+7/22/2019 3:51:06,Dog,Buster,Busty ,14,Jack Russell
+7/22/2019 3:51:27,Dog,Alfie,Alfie Dude,14,Jack Russell
+7/22/2019 3:53:43,Dog,Mila,Mila,9,Mixed breed Boomer
+7/22/2019 3:59:19,Dog ,Zero,Boydog,10,Rhodesian Ridgeback 
+7/22/2019 4:09:59,Rabbit,Cirkeline,Cirkeline,7,Mixed
+7/22/2019 4:14:20,Dog,Bella Nina; Thomas James; Archie,Bella; Tom; Archie,7yrs; 4yrs; 4mos,German Shepherd x Border Collie; not sure; German Shepherd
+7/22/2019 4:20:08, Cat,"Mao. (As in Chairman Mao,  not miaow or Mayo. ",Mao ,14, Moggy 
+7/22/2019 4:21:50,Dog,Briggs,Briggy,10,Lab mix
+7/22/2019 4:19:27,Dog,Mya (The Dog),My,13,Yellow Lab
+7/22/2019 4:20:04,Cat,Dee Dee ,Dee,13?,
+7/22/2019 4:20:57,Dog,Neela,Neely ,8,Shih tzu 
+7/22/2019 4:22:46,Dog,Hank,Hankle ,2,Blue heeler/Australian shepherd
+7/22/2019 4:24:04,Dog,Button,Button,7,Cockalier 
+7/22/2019 4:23:05,Dog,Missy Princess,Missy,14,Cocker spaniel
+7/22/2019 4:23:39,Dog,Prince,Prince,7,German shepherd/golden retriever
+7/22/2019 4:29:56,Dog,Samuel,Sam,8,Golden Retriever
+7/22/2019 4:30:15,Cat,Wolfe,Buddu,11.5,Domestic short hair 
+7/22/2019 4:31:13,Cat,Muppet,Muppy,6,Tabby
+7/22/2019 4:31:52,Bird,Bruce,Brucey,10,Budgerigar
+7/22/2019 4:58:43,Dog,Precious Fudge,Miss Precious,12,Chocolate lab/collie
+7/22/2019 4:48:57,dog ,truffles ,truffs ,11,chocolate poodle 
+7/22/2019 4:49:25,dog ,woodland ,woody ,4,long haired chihuahua 
+7/22/2019 5:00:20,Rat,Tomasa,Tommy,1 year 10 months,
+7/22/2019 4:59:29,Dog,Heath M&M,Mr. Peaf,8,Australian cattle dog
+7/22/2019 5:00:10,Dog,Mosley,Mr. Mosley,6,Pitbull/Terrier
+7/22/2019 5:01:44,Dog,Peter,Mr. Peter,3,
+7/22/2019 5:00:45,Cat,Miss Lucy,Lucy,4,Siamese
+7/22/2019 5:01:11,Cat,Miss Molly,Molly,3,
+7/22/2019 5:02:58,Cat,Luna,Luna,4 and a half months ,Ragdoll 
+7/22/2019 5:15:44,Dog,Sammy ,Sammy,12,Shi Tzu mix 
+7/22/2019 5:19:17,Dog,Theodore Barkalot,Teddy,8,Bichon Havanese
+7/22/2019 5:38:12,Other,Delphine,,2 years,Speckledys
+7/22/2019 6:02:49,Dog,d'Artagnan,Dart,17,Pug
+7/22/2019 6:22:30,Cat,Fire,Fire,3 months ,Short hair
+7/22/2019 6:23:02,Cat,Ash,Ash,3 months,Short hair
+7/22/2019 6:23:46,Cat,Kami,Kam,1 year,Long hair
+7/22/2019 6:24:24,Cat,Kit Kat,Kit,2 months ,Medium hair 
+7/22/2019 6:38:43,Dog,Celsius Pele Amadeus Cartier,Celsius,11 years,Black Labrador Retriever
+7/22/2019 6:39:00,Dog,Lando Calrisian,Lando,4,Labrador
+7/22/2019 6:39:30,Dog,Obi-Wan,Obi,2,Labrador 
+7/22/2019 6:39:37,Dog,Titus Sirius Icarus Cartier,Titus,10 years,Black Labrador Retriever Mix
+7/22/2019 6:40:25,Dog,Samuel T Dogg,Sam,8(ish) (rescue),Labrador 
+7/22/2019 6:44:44,Cat,Puka Shell,Puka,3,
+7/22/2019 6:45:21,Cat,Lily Pad,Lily,1.5,
+7/22/2019 6:45:43,Dog,Oreo Ann,Oreo ,11,
+7/22/2019 6:46:12,Dog,Oliver,Ollie,7,
+7/22/2019 6:47:52,Dog,Stamford,Stamford,10,Bichon frise cross
+7/22/2019 7:03:56,Dog,Bentley,Bentley,4,Chocolate lab
+7/22/2019 7:06:17,Dog,Lulu,Lulu,10,Jack Russell
+7/22/2019 7:07:29,Dog,Ella,Elephant,8,Retriever X labrador
+7/22/2019 7:08:01,Dog,Roxy,Roxy,5,German shepherd
+7/22/2019 7:14:33,Cat,Andrew Angela,Andie,1.5,American shorthair
+7/22/2019 7:15:09,Cat,Cricket,Creekee,8,American shorthair
+7/22/2019 7:16:38,Dog,Desmond,Dez,8,English Black Labrador
+7/22/2019 7:17:12,Cat,Tallulah May ,Chunky butt,2,American shorthair
+7/22/2019 7:21:30,Dog,Stella ,Stella ,9,Hunterway x Collie 
+7/22/2019 7:22:32,Cat,Snowflake ,Snow / Snowy,11,Main coone x
+7/22/2019 7:24:56,Dog,Sheena ,Beena,12,Golden
+7/22/2019 7:25:04,Cat,Rico,Rico,13,
+7/22/2019 7:25:20,Cat,Sirius Black ,Chonk,4,
+7/22/2019 7:25:41,Cat,Bellatrix Lestrange,Bella,2,
+7/22/2019 7:28:30,Dog,Perry the Poodle,Perry ,2,Standard Poodle
+7/22/2019 7:29:16,Dog,Cody the Corgi,Cody,3,Pembroke Welsh Corgi
+7/22/2019 7:37:09,Cat,Princess Penelope Pineapple Pizza,Kitty,3,Calico
+7/22/2019 7:39:12,cat,Mel,Melzinga,3,
+7/22/2019 7:41:28,Dog,Ginevra Molly,Ginny,18 weeks,Golden Retriever 
+7/22/2019 7:42:04,Cat,Mel de Melissa Duarte Brandizzi,Mel,3,
+7/22/2019 7:43:24,Cat,Mila Vilela Brandizzi,Mila,1,
+7/22/2019 7:46:02,Cat,Sushi,Baby / Sushi Burger ,14,Black cat
+7/22/2019 7:50:19,Dog,Riley ,"Riley or Ri (pronounced RHY), but then there’s a bunch of nicknames like (Riley Roo, Roo, Ri Ri, Bud, Buddy, Bub, etc)",4,Husky
+7/22/2019 7:53:15,Dog,Cleopatra,Cleo,3,Greyhound
+7/22/2019 7:59:19,Dog,Coco,Coco,10,Corgi
+7/22/2019 8:01:33,Dog,Captain,Captain aka Cappie,14,Husky
+7/22/2019 8:02:46,Dog,Buddy,Buddy,8,Mutt
+7/22/2019 8:06:50,Dog,Magnolia Mae,Maggie,2, Corgi
+7/22/2019 8:12:00,Dog,Sam,Sammy,5,Border Collie
+7/22/2019 8:12:12,Frog,Lily,Lily,1,
+7/22/2019 8:15:57,dog,Zoey,Zo,4,mutt
+7/22/2019 8:18:34,Cat,Sammy,Sammy,9,
+7/22/2019 8:19:18,Cat,Tika,Tika,8,
+7/22/2019 8:22:30,Cat,Prince William,William,9,
+7/22/2019 8:26:01,Dog,Chip,Chippers ,2 YO,Golden retriever
+7/22/2019 8:30:12, Spider ,Rosie ,Rosie ,6, Chilean rose hair tarantula 
+7/22/2019 8:30:42,Cat,Zoey,Zoey,5,Tabby
+7/22/2019 8:31:20,Cat,Stella Lou,Stella,2,Tabby
+7/22/2019 8:33:48,Dog,Snickers,Snick ,8,Labrador 
+7/22/2019 8:34:20,Dog,Max ,Max,12.5,Labrador
+7/22/2019 8:46:17,Dog,Leeloo,Leeloo,2,Labradoodle 
+7/22/2019 8:50:35,dog,Owen,Owen,13,Ridgeback
+7/22/2019 8:52:29,Dog,Daisy May,Daisy,11,Golden Retriever 
+7/22/2019 8:57:14,Cat,Maria ,Maria ,8 1/2,Mix 
+7/22/2019 8:57:35,Dog,Sunshine,Sunny,4,Pyrador 
+7/22/2019 8:57:38,Cat,Penelope ,Penelope ,9,Calico 
+7/22/2019 8:58:09,Other,Pebbles,Peb,4,Leopard Gecko
+7/22/2019 8:58:46,Dog,Freskin,Fattima Bouffants,13,Black Labrador Retriever
+7/22/2019 8:59:57,Dog,Philippa,Pippa,4,American Hairless Terrier
+7/22/2019 9:00:57,Dog,Lillie (Lilian now that she’s older),Lillie,5 years,Boxer
+7/22/2019 9:01:54,Cat,Callie,Callie,15,
+7/22/2019 9:02:20,Dog,"Dr. Wolf Barker, MD PhD DOG",Wolfie,7 years,Mixed
+7/22/2019 9:02:29,Dog,Toby,Tobias,10,Bichon Frise
+7/22/2019 9:02:39,Cat,Mackintosh,Milo,10,Street corner
+7/22/2019 9:02:55,Dog,Alice,Alicima Bouffants,11,Bichon Frise
+7/22/2019 9:03:31,Dog,DeeDee,Deedle Dumpling,10,Bichon Frise
+7/22/2019 9:03:51,Dog,Oliver,Oliver,12,Bichon Frise
+7/22/2019 9:04:13,Dog,Reuben,Reuben,12,Bichon Frise
+7/22/2019 9:04:37,Dog.,Mowgli ," Mowgli, Mr. Tude (when he's sassy)",3 1/2,Yorkipoo
+7/22/2019 9:04:45,Dog,Toby,Toby,12,Labrador Retriever
+7/22/2019 9:05:13,Gerbil,Salt,Salt,2,
+7/22/2019 9:05:30,Gerbil,Pepper,Pepper,2,
+7/22/2019 9:05:55,Cat,Shaka,Shaka,9,Siamese
+7/22/2019 9:06:14,Cat,Zia,Zia,12,Siamese
+7/22/2019 9:06:45,Dog,Buddy,Buddy,11,mutt/mixed
+7/22/2019 9:06:49,Dog,Bella Sitka LASTNAME,"Bell, Bella, Pretty",15,Mianture American Eskimo
+7/22/2019 9:07:38,Dog,Monty,Montgomery of Fitzgerald,8,Labrador Retriever
+7/22/2019 9:09:08,Dog,Luna Lastname,"Luna, Loon, Loonie, Miss Loon, Wiggles",9 months ,Doxin 
+7/22/2019 9:09:36,Bird,Vaillante,Vaillant,5,
+7/22/2019 9:10:11,Dog,Echo Last Name,Echo,12,Miniature American Eskimo
+7/22/2019 9:18:22,Dog,Nuffin,Nuffin,6,Golden Retreiver
+7/22/2019 9:20:52,Cat,Tauriel,Tauriel,4 1/2,Domestic Short Hair
+7/22/2019 9:21:12,Cat,Garbanzo,Bean,4,Domestic Short Hair
+7/22/2019 9:24:15,Dog ,Mars,Chano ,9,Corgi 
+7/22/2019 9:29:51,Dog ,Calhoun Richard Anderson du Nord,Cal,3.5,Golden Retriever 
+7/22/2019 9:37:06,Dog,Charlie Brown,"Charlie, Charizard, Charles",10,Labrador Retriever
+7/22/2019 9:37:54,Dog,Bixby Lucas,Bixby,1,Black lab
+7/22/2019 9:38:26,Cat,Luna Linetti,Luna,1,Black cat
+7/22/2019 9:38:31,Dog,Taco,"Taca Taca, snorticus",13,French Bulldog/Boston Terrier Mix
+7/22/2019 9:40:23,dog,Belle,Jelly Belly,3,beagle mix
+7/22/2019 9:42:02,Dog,Jimmy,Jimmy,3,Jack Russell Terrier
+7/22/2019 9:43:51,Hamster,Wobbles,Wobbles,10 months,Syrian Hamster
+7/22/2019 9:45:16,Cat,Buddha,Buddha,15,domestic short hair
+7/22/2019 9:47:32,Dog,Miles,Miles,10,Redbone Coonhound
+7/22/2019 9:49:22,Dog,Eleanor Rose,Elly,5,Golden retriever!
+7/22/2019 9:50:05,Cat,Charlotte May,Charlotte ,4,Brown and white tabby
+7/22/2019 9:56:32,Dog,Cooper Jay Nigel Winston,Cooper,8,Yorkie mix
+7/22/2019 9:57:20,Dog,Buddy Augusto,Buddy,14,Cocker spaniel
+7/22/2019 10:01:06,Dog,Dash,Dash,7,Pit bull mix (and very good boy)
+7/22/2019 10:01:06,Cat,Calvin Coolidge Cat,Cal,17,Siamese
+7/22/2019 10:02:00,Cat,Gracie Coolidge Cat,Gracie,16,Russian Blue
+7/22/2019 10:09:54,Dog,Opie,Dope/ Opie,11,Golden retriever 
+7/22/2019 10:16:47,Dog,Georgia ,Georgia ,3 years old,
+7/22/2019 10:19:30,Cat,Emile,Mealsies,6,French Charteux
+7/22/2019 10:20:00,Cat ,Zoe,Zoe,3,Mixed breed cat
+7/22/2019 10:20:16,Cat,Malcolm,Mal,3,Tabby
+7/22/2019 10:21:03,Dog,Dino,Dino,30 (deceased at 13),Keeshound
+7/22/2019 10:20:42,Cat,Molly,Molly magoo,1,Mixed breed
+7/22/2019 10:21:33,Cat,Bruce Springsteen,Bruce,24,Cat
+7/22/2019 10:31:04,Dog,Penny,Penny,10,"Beagle, miniature pinscher "
+7/22/2019 10:31:37,Cat,Raven,Raven,6,Black shorthair cat
+7/22/2019 10:32:14,Cat,Clarabelle,Clarabelle,7,Polydactyl shorthair cat
+7/22/2019 10:37:12,Dog,Alex’s Fiesty Girl Bailey Balogh,Bailey,10 1/2 years,Golden Retriever 
+7/22/2019 10:42:15,Dog,Rey,Reymundo,2.5 years,Jack Russell/chihuahua 
+7/22/2019 10:43:26,Dog,Uwe,Uwe,4,Golden boy
+7/22/2019 10:51:17,Dog,Millie Betty,Mill,1.5 years,Dalmatian
+7/22/2019 10:51:53,Dog,Henry,Henny,1 year,Dalmatian 
+7/22/2019 10:53:33,Dog,Daisy May,Daisy ,13,Mutt
+7/22/2019 10:54:14,Dog,Chamomile June,Cammie,9,Cocker Spaniel
+7/22/2019 10:54:56,Dog,Chapman,Chapman,15,Black Lab
+7/22/2019 10:55:36,Dog,Tucker,Tucker,9 months,Mini Australian Shepard
+7/22/2019 11:01:04,Dog,Chappelle,Mutt,7y 9 mo,Dachshund and Tibetan Spaniel
+7/22/2019 11:30:26,Cat,Wilhelmina Rae,Willa,5,
+7/22/2019 11:30:59,Cat,Frances Louise,Frankie,6,
+7/22/2019 11:31:20,Cat,Victoria Susan,Tori,6,
+7/22/2019 11:31:40,Cat,Ossana Mae,Ossie,5,
+7/22/2019 11:34:28,Dog,Bella,Bella,11,Greater Swiss Mountain Dog
+7/22/2019 11:35:00,Dog,Toby Wan Kenobi,Toby,1,Golden Retriever
+7/22/2019 11:38:08,Sog,Daisy,Daisy,12,Labrador
+7/22/2019 11:39:11,Dog,Beaucoup du Chien,Beau,Deceased,Newfoundland
+7/22/2019 11:39:57,Dog,Pumpkin,Pumpkin,Deceased,Yellow Labrador
+7/22/2019 11:40:34,Dog,Poquit,Poquit,Deceased,Chocolate Lab
+7/22/2019 11:41:10,Cat,Orange Laurie,Orie,Deceased,
+7/22/2019 11:41:35,Cat,Sunset,Sunny,Deceased,
+7/22/2019 11:45:50,Dog,Rosie,Rosie,9,Golden retriever 
+7/22/2019 11:46:39,Cat,Matilda,Matilda ,4,DSH (tuxedo)
+7/22/2019 11:50:24,Dog,Murphy,Murphy,10,Yorkshire Terrier
+7/22/2019 11:52:39,Dog,Giacomo Science,Giacomo,6,Bernese Mountain Dog
+7/22/2019 11:52:40,Dog,"Zuul, minion of Gozer",Zuul,5,Pitbull/Boxer mix
+7/22/2019 11:52:41,Dog,Trogdor Jealous,Dora,14,Mix
+7/22/2019 11:52:52,cat,Idalou,Lou,between 5 and 9 years,domestic short hair
+7/22/2019 11:53:00,Dog,Professor Tuxedo,Tux,1,Bernese Mountain Dog
+7/22/2019 11:53:29,Dog,Bodie,Bodie,8,Golden Retriever 
+7/22/2019 11:53:38,Dog,Zoey,Zoey,5 1/2,Labradoodle
+7/22/2019 11:54:01,Cat,Eddy Jefferson,Eddy,4,Cat
+7/22/2019 11:54:34,Dog,Joel Carlos,Joel,3,Beagador
+7/22/2019 11:54:48,Dog,Lola,Lola,1,English Cocker Spaniel
+7/22/2019 11:54:58,Cat,Margot Mae,Margot,4,Domestic shorthair
+7/22/2019 11:55:12,dog,Rufus,Rufus,15,Cairn Terrier
+7/22/2019 11:55:16,Dog ,Sadie ,Bubba ,12,Golden 
+7/22/2019 11:55:21,cat,Chester,Kiddo,1,
+7/22/2019 11:55:36,Dog,Zoey Deschanel,Zo ,12,Bichon Frise
+7/22/2019 11:55:45,Dog ,Cooper ,Coop ,6,Golden 
+7/22/2019 11:55:55,Dog,Captain Goose,Goose,1,who knows? (foster)
+7/22/2019 11:56:00,Dog,Mr Doctor Professor Constable Detective Brick,Brick,8,British Bulldog
+7/22/2019 11:56:27,Dog,Ellie Sattler,El,1,pibble
+7/22/2019 11:56:52,cat,Lily,"""little shit""",4,
+7/22/2019 11:56:53,Dog,Juke,Juke,4,Dachshund
+7/22/2019 11:56:57,Dog,Blue,Blue,6mo,Chocolate lab
+7/22/2019 11:57:15,Dog,Kiefer Bartholomew ,Kief ,9,Belgian Shepard
+7/22/2019 11:57:48,Dog,Jackson,Jax,5,Labradoodle
+7/22/2019 11:57:58,Cat,Marzipan,Pan,2,
+7/22/2019 11:58:30,Dog ,Zeta bear,Bear,6,German Shepard 
+7/22/2019 11:58:46,Cat,Sunny,Sun Bun or just Bun,2 months,
+7/22/2019 12:00:22,Hedgehog,Professor Minerva McGonaquill,Minnie,2.5,African Pygmy 
+7/22/2019 12:00:41,Dog,Minnie,MinniePin,2,mutt
+7/22/2019 12:01:26,Fish,Fsh ,Fsh,10,"Mexican Blind Cave Tetra (therefore, it was born with no eyes (so it has no “i’s in its name))"
+7/22/2019 12:01:45,Dog,Dixie,Dixie,15,Shepherd mix
+7/22/2019 12:02:15,Dog,Rosa Barks,Rosie,11,Shih Tzu 
+7/22/2019 12:02:16,Dog,Charlie,Charlie,10 weeks ,Cavapoo
+7/22/2019 12:02:18,Dog,Jack Dog,Jack,16,Mutt
+7/22/2019 12:02:23,Cat,Minerva,Minny,6,
+7/22/2019 12:02:26,Dog,Timon,Timon,3,Mutt
+7/22/2019 12:02:38,Dog,Leila Fowler-Martinez,Leila or Pinche Leila ,7,
+7/22/2019 12:02:40,Dog,Tubu,Tubu,11,Chihuahua
+7/22/2019 12:02:42,Cat,Venus,Kitty,11,Short haired calico
+7/22/2019 12:02:52,Dog,Goodness Gracious,Gracy ,12,Shih Tzu
+7/22/2019 12:03:05,Dog,Monkey,Monkey,11,Australian Shepard/Rottweiler 
+7/22/2019 12:03:07,Cat,Jynx ,Jynx,4,Domestic medium hair
+7/22/2019 12:03:27,Dog,Rosie,Rosie Posie,Dead,Golden retriever 
+7/22/2019 12:03:30,Cat,Wendy,Wendy,3,Domestic shorthair 
+7/22/2019 12:03:51,hamster ,katya,chicken (idk why),2,russian dwarf
+7/22/2019 12:04:08,Dog,Scirocco Augustus,Rocco or Crocco,5,Treeing walker coonhound/ Chinese Sharpei
+7/22/2019 12:04:00,Dog,Heavy Duty Puppy,Duty,4,Sheltie (he was an “anti”-runt of the litter)
+7/22/2019 12:04:12,Rabbit,Arthur,Arturo,5,English Lop
+7/22/2019 12:05:02,Cat,Jack,Kitty-Boy,6,Tabby mix
+7/22/2019 12:04:41,Dog,Siena Rosa,Siena,12,Golden Retriever
+7/22/2019 12:05:09,"Dog, dog, dog , cat","Buttercup Maplesde, zuez Maplesden, Bella Maplesden, Hercules Maplesden","Butternut, zuzy , Bella, Hercules.",2.5 yrs 2.5 yrs 2 yrs 2 yrs,Unknown unknown Bali dog mix and tabby cat
+7/22/2019 12:05:21,Dog,Ghia Lynn,Ghia or Geeg,1,Border Collie/ Chinese sharpei 
+7/22/2019 12:05:26,Dog,Delilah,Lilah,7,Beagle
+7/22/2019 12:05:41,Cat,Bailey’s Irish Cream,Bailey,13,Siamese mix
+7/22/2019 12:05:48,Dog,Treacle,Treacle,10,Border Collie cross (mongrel)
+7/22/2019 12:06:07,Dog,Sam,Sam,11,Labrador 
+7/22/2019 12:06:39,Dog,Tyson,"Tysbert, T McT, Mucki, Muckelbert, Muckmuck, Maggey",14,Rottweiler-German Shepherd-Mix
+7/22/2019 12:07:10,Cat,Madison Square Garden,Square,2,
+7/22/2019 12:07:41,Cat,Garfield,Cooter 😳,8,Orange tabby
+7/22/2019 12:09:08,Dog,Parker,Parker,11,Goldendoodle
+7/22/2019 12:09:43,Dog,Captain Avro Clarence,Avro,6,Schnauzer 
+7/22/2019 12:11:33,Dog,Carlene,Weentz,4,Mutt
+7/22/2019 12:14:01,dog,Linda,Linda,10,white west highland terrier
+7/22/2019 12:14:52,Cat,Stellabella,Stella,7,Tortie
+7/22/2019 12:16:08,Dog,Toby Wooferton,Toby,18,Mixed
+7/22/2019 12:17:12,Dog,Sacha,Fjollehoved (Danish for goofball) ,13,Dog (Golden Labrador Retriever)
+7/22/2019 12:17:12,Cat ,Ponce de Leon,Ponce ,7?,Domestic shorthair 
+7/22/2019 12:17:32,Dog,Snickers,Snicks,14,Labradoodle 
+7/22/2019 12:17:52,Cat,Echo,Echo,12,
+7/22/2019 12:18:00,Cat,Tiga,Tiga ,7,Domestic shorthair 
+7/22/2019 12:18:18,Dog,Sherlock Bones,Sherlock,4,Pit Bull Mix
+7/22/2019 12:18:52,Dog,Irene Adler,Addie,8,Bulldog
+7/22/2019 12:19:02,Cat,Bloo,Bloo,11,
+7/22/2019 12:19:14,Dog,Wallace,Wally ,2,Labradoodles 
+7/22/2019 12:19:15,Dog,Dude,Handsome,2.5,Labrador Retriever
+7/22/2019 12:19:25,Cat,Mitten,Tuna,13,
+7/22/2019 12:19:41,Dog,Bailey,Bailey,9,Golden Retriever
+7/22/2019 12:19:43,Dog,Willow,Sweetie,6,Labrador Retriever
+7/22/2019 12:21:12,Dog,Philistine Smoosh,Bill,14,Jack Russell Terrier
+7/22/2019 12:21:28,Cat,Kitty Cat,KC,13,unknown
+7/22/2019 12:21:47,Cat,Elvis,Tubby,12,Siamese
+7/22/2019 12:23:04,Dog,Henry Nacho ,Henny,8,Golden Retriever 
+7/22/2019 12:23:45,Dog,Maximilian Kolby,Maxy ,16,Golden retriever 
+7/22/2019 12:23:52,Dog,Argos,Argos,6,Mixed
+7/22/2019 12:24:22,Ferret,Buttercup,Butter,Unsure,
+7/22/2019 12:24:27,Elephant ,Jumbo,Jumbo,19,Loxodon
+7/22/2019 12:24:36,Dog,Madeline Grace ,Ma ma ,15,Golden retriever 
+7/22/2019 12:24:55,Dog,Elvis,Elvis,11,Cockapoo
+7/22/2019 12:25:47,Dog,Coconut Butter,Coco,5,Mix
+7/22/2019 12:25:50,Dog,Lucy-fur,Lucy,12,Golden retriever
+7/22/2019 12:26:01,Dog,Sophie Grace,Soph,13,Brindle Black
+7/22/2019 12:26:22,Dog,Prince,Prince,14,"Poodle, Shih Tzu and a misc terrier/sporting breed mix"
+7/22/2019 12:26:35,Dog,Jackson Buttsickle,Jacks,4,Mix
+7/22/2019 12:27:29,Dog,Lassie,Lass Lass,14,Moth Eaten Carpet
+7/22/2019 12:28:12,Dog,Charles Xavier II,Charlie,4,Great Pyr
+7/22/2019 12:28:22,Cat,GingerSnapz C. Cat,GingerSnapz,7,Domestic Shorthair
+7/22/2019 12:30:36,Dog,Caroline,Caroline,5 years old,Purebred Alabama Mutt
+7/22/2019 12:31:23,Cat,Shadow,Shadow,11,
+7/22/2019 12:31:58,Cat,Murray 2,Murray,7,
+7/22/2019 12:31:59,Dog,Beau,"Goomby, Mr. Beauregard",4,Golden Retriever
+7/22/2019 12:32:38,Dog,Lindon,Lindy loo,10,Pit bull/lab mix
+7/22/2019 12:32:58,Cat,Marilyn,"Chirp, Pumpkin Pie, Meow Meow",5,Orange
+7/22/2019 12:33:10,Dog,Tedward,Teddy,4,Shih-Tzu Mix
+7/22/2019 12:33:46,Dog,Zuzu,Zu,4,Shih Tzu x Bichon
+7/22/2019 12:34:15,Dog,Marcus Brutus,Brutus,4,Boxer
+7/22/2019 12:35:34,Cat,Charlie Chaplin ,Charlie,1,
+7/22/2019 12:35:59,Cat,Molly Tigerlily,Molly,1,
+7/22/2019 12:37:14,Cat,Britannia,Brit,10,
+7/22/2019 12:37:19,Dog,Brownie Leigh,Brownie ,3,Golden Shepherd 
+7/22/2019 12:40:31,Dog,Jersey Girl,Jersey ,11,Husky/malamute/sneaky neighbor's dog mix
+7/22/2019 12:40:50,dog,Stella,Stells,10,golden doodle 
+7/22/2019 12:41:13,Dog,Lizzie,Lizzie Pie,6,Husky/sneaky neighbor's dog mix
+7/22/2019 12:41:28,cat,Marby,Beanie baby,14,American shorthair
+7/22/2019 12:41:48,Dog,Roxy,Roxy Socks,1,Mutt
+7/22/2019 12:42:19,Dog,Coco Murfree,Coco,9,Border Collie
+7/22/2019 12:42:27,Dog,Ozzy,Ozlet,1,Minnie Australian Shepherd/Cockapoo
+7/22/2019 12:44:54,Dog,Winston Pigaloo,Winston or Lewis,6,Pug
+7/22/2019 12:45:29,Dog,Noodle ,Noodle / Weenie,13,Weiner Dog
+7/22/2019 12:46:01,Dog,Phantom,Phantom ,5,Staffordshire pit bull
+7/22/2019 12:52:28,Dog,Ellen Park,Ellen,3,Gr
+7/22/2019 12:53:24,Cat,Meredith,Mer,1,Domestic shorthair 
+7/22/2019 12:57:12,Cat,Brennan Zachary,Punkin butt,8,Domestic short hair
+7/22/2019 13:00:59,Other,Fishy,Fishy,18,
+7/22/2019 13:02:58,Dog,Spud,Schmoops ,1.5 years,Pembroke Welsh Corgi
+7/22/2019 13:03:38,Dog,FN 2187,Finn,1.5 years ,Goldendoodle 
+7/22/2019 13:04:06,Cat,Frank En Stein  ,Frank,8,Maine coon 
+7/22/2019 13:04:24,Dog,Pisco,Pisco,5,German Wirehaired Pointer
+7/22/2019 13:04:25,Dog,Sadie,Sadie,3,GSD
+7/22/2019 13:04:52,Dog,Lola,Loli Ravioli ,9 months,Golden retriever
+7/22/2019 13:08:43,Sog,Addie Heart,Addie,8,Lab/Chow chow mix
+7/22/2019 13:11:54,Dog,Ernie,"Ernburn, Erndog, Ernieworm ",1,
+7/22/2019 13:14:23,Chinchilla,Milo Chicken Nugget,Milo,6 1/2 months,
+7/22/2019 13:22:40,Cat,Melon,Mel,3,Black
+7/22/2019 13:24:31,Dog,Semaj,"Sammich, Dumbledork",4,Shih tzu
+7/22/2019 13:25:17,Dog,Maya,"Little Miss Maya, Diva",8,Shih tzu
+7/22/2019 13:26:44,Dog,Bijou,Bijou,12,Jack russel terrier x toy poodle
+7/22/2019 13:27:22,Dog,Pesto,Pesto,9 months,Beagle
+7/22/2019 13:29:06,Dog,Maggie ,Magz,Unknown,Eskimo mix
+7/22/2019 13:35:03,Cat,Doctor snuggles von fluffybottom,Doc,6,
+7/22/2019 13:35:55,Dog,Toby,Toby,1,Golden retriever
+7/22/2019 13:35:35,Dog,Jacob Marley,Jake,6,Golden retriever
+7/22/2019 13:36:38,cat,dixie,potato,11?,fluffy
+7/22/2019 13:40:58,Dog,Cujo,Bubby,11,Cocker Spaniel
+7/22/2019 13:42:36,Cat,Finn,Finnard  ,9,Long haired 
+7/22/2019 13:44:18,Dog,Maizie,Maizie,4 months,Mini schnauzer
+7/22/2019 13:57:55,Dog,Bruce D4,Bruce,12,Dachshund
+7/22/2019 13:58:44,Dog,Jackie Kate,Jackie,5,Lab/beagle mix
+7/22/2019 13:59:02,Dog,Daisy Bear,Daisy or Bear,2.5 years,German Shepherd
+7/22/2019 13:59:17,Gecko,Donut,Donut,5,Crested Gecko
+7/22/2019 13:59:23,Fish,Whiskers Goldie-the-Goldfish Sweetie,Whiskies,2,Beta
+7/22/2019 13:59:52,Dog,Tinker Stinker,Stinks,2.5 years,Germann Shepherd
+7/22/2019 14:00:00,Cat,Vinnie,Huggiebear Biden,4,N/A
+7/22/2019 14:00:56,Cats,Watson & Crick (I have two cats),Dr. Watson & Dr. Crick,8.5 years,a tabby and a grey cat
+7/22/2019 14:01:27,Dog,Mile High Ice Storm,Miles,7,Golden Retriever 
+7/22/2019 14:02:02,Dog,Breezy Bear,Breezy,1,Golden Retriever 
+7/22/2019 14:02:45,dog,Nara,Gorda,3,Australian cattle dog
+7/22/2019 14:02:47,Dog,"Wyatt Daniel, the Wild Corgo",Wyatt,2,Pembroke Welsh Corgi
+7/22/2019 14:09:47,,,Petra,,Golden Retriever
+7/22/2019 14:10:26,Fish,Waffle,Waffle,2,Betta fish 
+7/22/2019 14:11:21,Dog,Rosie,Rosie,10,Walker Hound
+7/22/2019 14:14:15,Dog,Lilly,Lilly,10,German Shepherd/Husky/Beagle/Chow Chow
+7/22/2019 14:14:55,Dog,Charles,Charles,12,Miniature Schnauzer/Poodle
+7/22/2019 14:15:29,Dog,Pippa,Pip,1.1 years,Goldendoodle
+7/22/2019 14:18:12,Dog,Oliver,Ollie,Seven,Jack Russell terrier 
+7/22/2019 14:20:05,Dog,Kiku,Kiku,3,Mutt
+7/22/2019 14:20:32,Dog,Brandy,Brenda,10,Havanese 
+7/22/2019 14:21:01,Dog,Bobby,bobkin,8,Shih Tzu
+7/22/2019 14:21:14,Dog,Emma,Emma,12,Shih-Tzu Poodle Mix
+7/22/2019 14:22:05,Dog,Bessy ,Bess,10,Labrador 
+7/22/2019 14:22:56,Cat,Romanovski ,Romi ,5,Domestic Short Hair
+7/22/2019 14:23:36,Cat,Fifi La Pou,Fifi,2,Domestic Long Hair 
+7/22/2019 14:24:20,Cat,Georgie Porgie,Georgie / Saucy ,1,Domestic Short Hair 
+7/22/2019 14:24:28,Dog,Dakota,"Woobis, Woobie",13,Mix
+7/22/2019 14:25:48,Dog ,Altrichter,Cooper,9,Golden Retriever
+7/22/2019 14:26:10,Dog ,Tucker ,Tuck,7,Golden retriever 
+7/22/2019 14:26:28,Cat,Milo,Milo,13,Tabby
+7/22/2019 14:27:50,Fish,Pepperwood,Pepperwood,1+ years,Betta 
+7/22/2019 14:29:44,Cat,Jameson Chewbacca ,Jamie,15,American Shorthair
+7/22/2019 14:30:32,Dog,Penny Bellew,Penny,6,Labrador
+7/22/2019 14:31:53,Ca,Buddy,Buddy,2,
+7/22/2019 14:32:08,Cat,Cat Jenkins,Cat,2,
+7/22/2019 14:32:24,Cat,Crouton,Crouton,3,
+7/22/2019 14:35:16,dog,Morena,Morena,2 years,corgi
+7/22/2019 14:38:07,Cat,Samus Aran,Samus,14,Tabby
+7/22/2019 14:40:19,Dog,Brownie,Bub,13,Maltipoo 
+7/22/2019 14:41:35,Dog,Mose Schrute,Mose,2,German shepherd 
+7/22/2019 14:44:03,Dog,Rocky,Rocky,6,Corgidor 
+7/22/2019 14:44:26,Cat,Rosalind Franklin ,Rosie,1,
+7/22/2019 14:44:44,Cat,Harley quinn,Baby kitty ,5,
+7/22/2019 14:45:05,Fish,Sushi,Sushi,2,Beta
+7/22/2019 14:59:55,Cat,Mister Beans,Mister beans/ beans/ beansy boi,10,Grey domestic short hair 
+7/22/2019 15:00:54,Goldfish,Lord Baphomet: Destroyer of Worlds,Baphomet,We rescued from a fountain. Unknown. ,NA
+7/22/2019 15:04:21,Dog,Tyler John (had to give him a middle name for when he was in trouble),Ty,12,Rhodesian Ridgeback
+7/22/2019 15:05:28,Cat,Adanac,Chunky,2,American shorthair
+7/22/2019 15:05:50,Cat,Callister,Callibean,2,American shorthair
+7/22/2019 15:10:43,dog,Tux,Tux,9,Black lab mix
+7/22/2019 15:11:08,Dog,Ruby ,Ruby,3,coonhound/beagle
+7/22/2019 15:13:16,dog,Pooch-K,Pooch-k the pooch,7,mutt
+7/22/2019 15:13:49,Dog,Scooby,Scoobers,7 months,mutt
+7/22/2019 15:18:15,Cat,Dwayne,"Mr. Baby Dwayne, Dwaniel, Bub.",3,American Shorthair
+7/22/2019 15:19:09,Cat,Alice,"Spippy, Speeps, Kitten.",11,American Shorthair
+7/22/2019 15:26:35,Dog,Lloyd ,Lloyd,11,Golden retriever 
+7/22/2019 15:27:15,Cat,Bo Schembeckler,Kitty,15,Short hair
+7/22/2019 15:31:51,Dog,Ishka,Ish/Ishka,8,Golden retriever
+7/22/2019 15:33:02,Dog,Millie ,Millie,1.5,Border collie
+7/22/2019 15:33:08,Dog,Rossa,"Ross, Rossy, Rossapoo",5,Golden Retriever
+7/22/2019 15:33:37,Dog,Wookie,Wookie,7,Goldendoodle
+7/22/2019 15:39:31,Dog,Tucker,Tucker,2,Lab
+7/22/2019 15:39:49,Dog,Keifer,Keifer,14,Yellow lab
+7/22/2019 15:46:12,Dog,Frankie,Frankie,7,Husky mix
+7/22/2019 15:47:05,Cat,Tenzing,Tenzing,12,Shorthair calico
+7/22/2019 15:51:49,Dog,Sammy,Sam,5,JRT/miniature pincher
+7/22/2019 16:05:56,Dog,Barrett,Barrett,3,German Shepherd
+7/22/2019 16:06:00,Dog,Benjamin,Benj,2,Border Collie/Belgian Malinois
+7/22/2019 16:06:17,Dog,Laney,Laney,12,Golden Retriever
+7/22/2019 16:06:21,Dog,Dixie,Lady,3,American Pitbull
+7/22/2019 16:06:45,Dog,Diesel,Diesel,3,Pitbull mix
+7/22/2019 16:09:30,Hamster,Hamtaro ,Hamtaro,🤷🏼‍♀️,
+7/22/2019 16:18:11,Dog,Baxter,Baxter,7.5,Golden Retriever 
+7/22/2019 16:20:03,Dog,Riley Marie,Riley,13,Cocker Spaniel
+7/22/2019 16:26:11,Dog,Reginald Fonzerelli Hawkes,Reg,12,Golden doodle
+7/22/2019 16:27:19,Cat,Molly,Molly,6,
+7/22/2019 16:29:05,Cat,Kevin,Booboo,3,
+7/22/2019 16:29:19,Dog,Erik,Earwig,4,Wirehaired dachshund
+7/22/2019 16:32:14,Dog,Oliver,Oli ,8,Jack russell 
+7/22/2019 16:50:17,Spiney leaf insect,Thing one,Her,1,
+7/22/2019 16:56:12,Dog,Bilbo Spud Doggins,Bilbo,5,Corgi/Cocker Spaniel mix
+7/22/2019 16:56:35,Dog,Bailey Woofer,Bailey,13,Cocker Spaniel 
+7/22/2019 17:02:14,Cat,Roy lee laramie ,Roy ,10,
+7/22/2019 17:02:43,Cat,Petunia,Tuney,8,
+7/22/2019 17:03:05,Dog ,Skyy like the vodka ,Skyy,3,Husky 
+7/22/2019 17:03:07,Other ,Stubbs,Stubs,15,Leopard gecko 
+7/22/2019 17:03:27,Dog,Malibu like the rum ,Malibu,1,Golden retriever 
+7/22/2019 17:15:37,Dog,Golden Tate ,Tate ,2,Golden Retriever 
+7/22/2019 17:27:16,Dog,Bear,Bear,7 mo,Labrador Retriever
+7/22/2019 17:27:25,Dog,Stanley,Stan,6 months ,Miniature schnauzer 
+7/22/2019 17:28:01,Cat,Coco,Coco,4,Shorthair 
+7/22/2019 17:34:02,Dog,Andromeda Mae,Andie,6,Golden doodle 
+7/22/2019 17:34:55,Dog,Eloise Gertrude,Ellie,2,Labradoodle 
+7/22/2019 17:35:29,Dog,Lady Bonnie of Coventry,Bonnie,8,Black lab mix
+7/22/2019 17:36:29,Cat,Ophelia Marie KitKat Mcdougle O’Malley Jr. ,Ophelia,9,
+7/22/2019 17:37:15,Cat,Sie Isaac Newton ,Newton,16,
+7/22/2019 17:37:37,Cat,Black Cat,BC,3,
+7/22/2019 17:47:39,Dog,Gibson,Gibby,2.5,Pit bull mix
+7/22/2019 17:48:04,Dog,Brewskie,Brew,11,Puggle
+7/22/2019 17:49:00,Cat,Wolfgang Motzart,Wolfie,7,American shorthair
+7/22/2019 17:52:14,Dog,Koli,Koli,11,Yorker Terrier/Silky Terrier Mix
+7/22/2019 17:55:44,Dog,Moxie Jean Narice,Moxie,1,German Shepherd mix
+7/22/2019 17:57:10,Dog,Dancer Pants,Dancer,17,Havanese 
+7/22/2019 17:58:24,Cat,Kitty or The Cat (if she's being bad) ,Kitty,1,
+7/22/2019 17:59:35,Fish,Blueberry,Blue,6 months ,Beta Fish 
