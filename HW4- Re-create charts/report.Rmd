@@ -1,0 +1,223 @@
+---
+title: "CS625-HW4"
+author: "Anuradha Mantena"
+date: "10/20/2020"
+output: rmarkdown::github_document
+---
+
+### Part 1 - Choose Excel, Tableau, R, or Vega-Lite
+
+In this part, I have used Excel to re-create all the existing charts.
+
+
+##### Figure 1 : 
+
+###### Data Source: 
+
+The data is referred from the article PolicyViz_WSJ_Pairedcolumn_chart_Remake (see reference 1). This data set has around 12 observations with 5 columns.
+
+###### Data Overview: 
+
+The data **Remake: Paired Column Chart from WSJ** gives us the information about the unemployment rates within four different racial/ethnic groups between the years 2004 and 2014. If we have to compare the unemployment rates within these racial groups, it is better to prefer a line chart than column charts. 
+
+###### Original Image:
+
+In the below image we could see the unemployment rate during 2009-2010 is higher for the black racial group when compared with other racial groups.
+
+Original image link:
+
+https://policyviz.com/wp-content/uploads/2018/02/PolicyViz_WSJ_Remake_LineChart-1024x613.png
+
+![myimage](CS625-HW4_files/figure-gfm/Q1_Original_image.png)
+
+
+
+###### Re-made Image:
+
+I have re-created the above image using excel. In excel firstly select the data and click on the insert button on the ribbon tab and choose line charts. Once you select the line charts, a chart will be created. Here the marks are lines. Now we have to match the color, title, and data label according to our original image. For this, click on each line, and your right side excel chart options will be displayed. We could see the format data series options, in that choose the color and apply the color as per our original image. Repeat the same process for the remaining lines.
+
+To add data labels for each line we have to select the line and right-click, and then click on the add data labels. We can double click on the data label and edit the title of each line manually or we can right-click on the data label and choose format data label and then choose series names in options instead of values. Once you are done adding data labels click on the data label and change the text options i.e color and font. Select the font and color of the text according to the given image. To add a title click on add title and write it in the text box. I placed my title to the left side to match the original image. 
+
+I  have tried to match with the series colors, text color, and font as like original image, and below is the image that I have re-created:
+
+![myimage](CS625-HW4_files/figure-gfm/Q1_Remade_image.PNG)
+
+##### Figure 2 : 
+
+###### Data Source: 
+
+The data is referred from the article **PolicyViz_Stacked Column Chart_Remake** (see reference 2). This data set has around 12 observations with 5 columns.
+
+###### Data Overview: 
+
+The data PolicyViz_Stacked Column Chart_Remake-  gives us information about the percentage of American homeowners, renters, and prospective home buyers for the age group during the years 2001 and 2015. In this article, they have used a slope chart to get a better sense of the change between the two years and with the owner category type.
+
+###### Original Image:
+
+In the below image we could see two separate groups i.e one for New owners and another for All Households for the change between two years for their age groups.
+
+Original image link:
+
+https://policyviz.com/wp-content/uploads/2017/10/Brookings_Remake.png
+
+![myimage](CS625-HW4_files/figure-gfm/Q2_Original_image.png)
+
+
+###### Re-made Image:
+
+I have tried re-creating the above image using excel. I have referred to the slope chart from the document (see reference 3). First, select the data and click on the insert on the excel ribbon and choose a line chart with markers. 
+![myimage](CS625-HW4_files/figure-gfm/fig2_1.PNG)
+
+Double click on the chart and your right-hand side you could see the chart options. Select the vertical axis from the chart options and set the major and minor tick marks and tick labels to none. Also, select the No line for line color.
+
+![myimage](CS625-HW4_files/figure-gfm/fig2_2.PNG)
+
+Select the Horizontal axis and change the position axis setting to On Tick marks.
+
+![myimage](CS625-HW4_files/figure-gfm/Fig2_3.PNG)
+
+Delete the legend and make the chart taller and format the series lines. If we observe the original image we could see that there is a line gap Select the line and click on the particular series and choose the color to white to get the original image. Repeat the same process for the remaining lines as well.
+
+![myimage](CS625-HW4_files/figure-gfm/fig2_4.PNG).
+
+
+Now select one line at a time and change the color accordingly to the original image. Select the line you want to change the format, and click on the format data series option from the right-hand side panel, change the marker type to circle, choose the size and fill with no color. To change the text format of data labels click on the data labels, choose the color of the text in the option Text Fill. Below is the final image:
+
+![myimage](CS625-HW4_files/figure-gfm/Q2_Remade_image.PNG)
+
+##### Figure 3 : 
+
+###### Data Source: 
+
+The data is referred from the article **PolicyViz_Remake_Stacked Column Chart** from Merrill Lynch (see reference 4). This data set has around 12 observations with 5 columns.
+
+###### Data Overview: 
+
+The data PolicyViz_Remake: Stacked Column Chart from Merrill Lynch shows the distribution of spending across seven various categories by the four generations of Americans. In this article, they have used a line chart to compare the changes that the consumer spending between the generations.
+
+###### Original Image:
+
+In the below image we could see a line chart that tells us the comparison between the seven categories of spending by the four generations of American people.
+
+Original image link:
+
+https://policyviz.com/wp-content/uploads/2018/01/MerrillLynch_LineChart.png
+
+![myimage](CS625-HW4_files/figure-gfm/Q3_Original_image.png)
+
+
+###### Re-made Image:
+
+I have tried re-creating the above image using excel. Select the data and click on the insert at the excel ribbon and choose the chart type "line with markers". As per our original image, the title is not required hence remove the title. 
+
+To change the color of each line, select one line at a time, and choose the respective color. From the original image, it is observed that only three lines have marker points and the remaining lines are plain. To do this, select the line with marker points and change the Marker options. Choose the Built-in type to circle and fill with white color. Choose the size according to the original image. Repeat the same process for the remaining two lines with marker points. 
+
+There are four plain lines with grey color, select each line at a time and change the color to grey and change the marker options to none. Below is the recreated image :
+
+![myimage](CS625-HW4_files/figure-gfm/Q3_Remade_image.PNG)
+
+### Part 2 - Choose Tableau, R, or Vega-Lite (no Excel)
+
+For this part, I have chosen tableau online in this section to re-create the original chart. 
+
+Online Tableau link: https://prod-useast-a.online.tableau.com/t/oducs625/authoring/HW4/Sheet2#1
+
+###### Data Source: 
+
+I have chosen a small multiples image referred from the article PolicyViz_Remaking an OECD Stacked Bar Chart  (see reference 5).
+
+###### Data Overview:    
+
+The data **PolicyViz_Remaking an OECD Stacked Bar Chart** gives us the information about the business sector jobs to the different countries. Here in this article, they have used small multiples graph to compare the individual skills based on different countries.
+
+
+###### Original Image:
+
+In the below image we could see two split up the chart into four categories with each skill on its vertical axis.
+
+Original image link:
+
+https://policyviz.com/wp-content/uploads/2017/11/PolicyViz_OECDStackedColumnChartRemake.png
+
+![myimage](CS625-HW4_files/figure-gfm/Part2_Original_image.png)
+
+
+###### Re-made Image:
+
+Original data excel has two sheets and I have selected the data where the filter 1,2 and 3 are there from the original sheet and copied the same in separate excel and uploaded the same file in tableau online. I have tried recreating the above image in tableau online. I have referred a document (see reference 6) to replicate the above image. Firstly, I have created a new workbook and uploaded the data to my data source. Taking the above original image into a reference I dragged F1 to rows which represent all different countries. I dragged the series "Low Skilled", "Medium SKilled", "High Skilled", and "Total" into columns. I renamed Total with "Total Trained Workforce". As the title is not required remove the title.
+
+I have dragged each of the above series names again into the columns. All series names will be created twice. Right-click on the column name and select the dual axis. For example, right-click on "Low skilled" and select dual axis. On your left side panel, you could see two "low skilled" series names. Click on "Low skilled" and set the marks to bar and repeat the same with another "low skilled" series name also. Now change the color and size according to the original image. Repeat the above process for the remaining columns too.
+
+Click on the edit axis at the below panel of each column and remove the title. Go to the tick marks and choose none for both Major and Minor Tick marks. Click on the format option at the top panel and choose the workbook and then click on Lines --> Gridlines to white color.
+
+As per the document (see reference 7) If we select the series name and right-click on that we could see the format option. Click on Format and choose the color for your text.
+
+I have tried changing the horizontal bar length size the summation of "low skilled", "Medium skilled" and "High Skilled" is the "Total" value. If we observe the horizontal bar length size of all countries is almost the same even if their respective values are different. I have tried changing the axis but I couldn't able to find it out. I have tried changing the text font color but that option is not available in tableau online. Even I tried hiding the value "F1", but in tableau online that option is not available. So I couldn't able to change the series text color and hide the F1 label. 
+
+Below is the image that I have created using tableau online:
+
+![myimage](CS625-HW4_files/figure-gfm/Part2_remade_image.PNG)
+
+
+##### Vega-lite:
+
+I have recreated one image from Part 2 using a vega-lite. Here is the link to my vega-lite file: https://observablehq.com/d/0d3a05647fdd5907
+
+###### Data Source and Overview:
+
+The data is referred from the article PolicyViz_Remake_Pie-in-a-Donut Chart (see reference 8). This data set has around 8 observations with 6 columns.
+
+###### Original Image:
+
+Original image link:
+
+https://policyviz.com/wp-content/uploads/2018/02/PolicyViz_USDARemake_SlopeChart-600x362.png
+
+![myimage](CS625-HW4_files/figure-gfm/Vegalite_Orginial_image.png)
+
+
+###### Re-made Image:
+
+I have tried uploading the xlsx file into vega-lite but then I noticed that there are two sheets in the original excel file and also it is not in the proper format. I have changed the excel file as shown below and I have uploaded the same file in the vega lite workbook.
+
+![myimage](CS625-HW4_files/figure-gfm/excel.png)
+
+Here the marks are lines, so we are using vl.MarkLine. Considering the X-axis as the year which is an Ordinal attribute and on the Y-axis median which is a quantitative attribute, representing different regions in the color channel. I have considered a few references (See references 9) to change the mark points and also the text for each color.To do this, first filter the data on basis of year i.e 1995-99 Average and 2011-15 Average (see the reference 10). After that consider vega-lite layer, and apply the changes such as marktext and markcircle inside the layer. I have tried changing color of the each line and fixing the alignment as per the original image (see the reference 11) but i am getting errors while doing that scaling.
+
+Below is the image that i have re-created in vega-lite. 
+
+![myimage](CS625-HW4_files/figure-gfm/Vegalite_Remade_Image.png)
+
+##### References:
+
+Below are the few links that I have referred in this assignment:
+
+1. PolicyViz_WSJ_Pairedcolumn_chart_Remake - https://policyviz.com/2018/03/01/remake-paired-column-chart-from-wsj/
+
+2. PolicyViz_Stacked Column Chart_Remake-
+https://policyviz.com/2017/11/16/remake-stacked-column-chart/
+
+3. Slope charts in excel:
+https://peltiertech.com/slope-graphs-in-excel/
+
+4. PolicyViz_Remake_Stacked Column Chart from Merrill Lynch-
+https://policyviz.com/2018/02/22/remake-stacked-column-chart-merrill-lynch/
+
+5. PolicyViz_Remaking an OECD Stacked Bar Chart- https://policyviz.com/2017/11/30/remaking-oecd-stacked-bar-chart-general-comments/
+
+6. Creating small multiples in tableau: https://www.flerlagetwins.com/2019/01/small-multiples-just-matter-of-long_60.html
+
+7. Format Font text in tableau:
+https://help.tableau.com/current/pro/desktop/en-us/formatting_fonts_beta.htm
+
+8. PolicyViz_Remake_Pie-in-a-Donut Chart-
+https://policyviz.com/2018/02/15/remake-pie-in-a-donut-chart/
+
+9. Layering views in vegalite:
+https://vega.github.io/vega-lite/docs/layer.html
+
+10. Filtering in vega-lite:
+https://observablehq.com/@samanthastrm/filtering-data
+
+11. Changing color for each line in vega-lite:
+https://talk.observablehq.com/t/changing-colour-of-marks-based-on-data-values-vega-lite/3174
