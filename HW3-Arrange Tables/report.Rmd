@@ -1,0 +1,134 @@
+---
+title: "CS625-HW3"
+author: "Anuradha Mantena"
+date: "10/6/2020"
+output: rmarkdown::github_document
+---
+
+### Data Source:
+
+In this project, two datasets were examined to perform the relation between the attributes. Both data sets contain a mix of categorical and numeric values. The first one is LabReport_data and it has around 7400 observations with 6 columns 
+Link to the dataset: https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDa/3u5k-c2gr 
+
+Another one is Mask Wearing Survey Data and it has around 3143 observations with 6 columns 
+Link to the dataset: https://github.com/nytimes/covid-19-data/tree/master/mask-use
+
+##### Part 1 - Using Application:
+
+###### Choose an application (Excel, Google Sheets, or Tableau) to create the charts.
+
+I have chosen Tableau Online to perform all the designs. I have created a new workbook and uploaded my CSV files into the data source by clicking data field on top and then by adding a new data source. Here is the link:
+
+https://prod-useast-a.online.tableau.com/#/site/oducs625/workbooks/242410/views
+
+
+###### Q1. [VDH] How does the percentage of positive PCR tests over time compare for Norfolk, Chesapeake, and Virginia Beach?
+
+##### Solution:
+
+To perform this task, we are considering the LabReport_data set from the data source. Firstly we have to drag the Health District column and put in the filters subsection. As mentioned in the question, we will only select Norfolk, Chesapeake, and Virginia Beach cities. Now we will drag the Lab Report Date and place it in columns.  After this, create a calculated field, add a name to it, and write the formula to find out the percentage of positive PCR tests.
+
+I have considered the formula ([Number of Positive PCR Testing Encounters]/[Number of PCR Testing Encounters])*100 to get the value.
+Place the newly created calculated field on the rows. Now, click on Marks and select lines. We are using Line charts because it compares the changes over the period.
+ 
+Below is the image that shows the percentage of positive PCR tests done over time.
+
+![myimage](report_files/figure-gfm/Q1.png)
+
+
+**Conclusion**: From the above figure, it is clear that the percentage of positive PCR tests were increasing during April to May months.
+
+
+##### Q2. [VDH] For each health district, what percentage of the total tests given were PCR tests?
+
+###### Solution:  
+
+For this task, we need to open another worksheet and create the chart. Drag the Health District column into rows and then create a calculated field with the formula (SUM([Number of PCR Testing Encounters])/SUM([Total Number of Testing Encounters]))*100. Here are we are going to find the percentage of PCR testing encounters with the Total Number of Testing Encounters. Place the created calculated field in the columns. 
+
+Now click on the marks and select "Bar". Bar graphs are used for comparisons here we can compare the districts on basis of percentage with the total positive PCR tests.
+
+Below is the image that gives the percentage of total tests given were are PCR for all health districts.
+
+![myimage](report_files/figure-gfm/Q2.png)
+
+
+
+
+**Conclusion**: From the above figure we could identify the highest health districts with a total percentage of PCR tests given is out of state having 98.67% and the Unknown district is 98.38%. Apart from those two, Portsmouth is 98.25%
+
+##### Q3.[VDH, NYT] Was there a correlation between the percentage positive PCR tests averaged over July 16-28 (two weeks after the mask survey) and the estimated share of residents that answered "Frequently" or "Always" to the question of mask usage?
+
+1. Show this for the following 15 health districts only: Norfolk, Virginia Beach, Chesapeake, Portsmouth, Hampton, Western Tidewater, Peninsula, Fairfax, Arlington, Prince William, Richmond, Henrico, Chesterfield, Roanoke, Central Shenandoah.
+
+2. For health districts that span multiple counties, pick the county with the highest population for the mask survey and name the county that you're considering.
+
+##### Solution: 
+
+I performed this task in two steps:
+
+###### Step 1: Finding Counties and Combining data
+
+I have started working on the **masks usage data** sheet first, as both "Frequently" and "always" columns represent the same meaning I have created a new column and add "Frequently" and "Always" columns by using the sum formula in the spreadsheet. Also, I have copied the countyFIP data from the **county-level FIPS codes** (see reference 1) into an excel sheet. After this, I have performed vlookup this countyFIP data with the **masks usage data** to get the county data. Below is the snapshot that is referring to my vlookup data in an excel sheet. 
+
+![myimage](report_files/figure-gfm/vlooup.png)
+Few entries like Western Tidewater, Central Shenandoah, and Peninsula are missing in this masks usage datasheet. I have taken the list of counties in those health districts from Virginia Health District (see the reference2) and based on the highest population referred US Census I chosen the most populous county for that health district region. 
+
+I have replaced those counties with the regional health district name in the sheet. 
+Suffolk city county is the most populous in the Western Tidewater region. Newport News city is the most populous county in Peninsula district. Rockingham County is the most populous region in the Central Shenandoah region. 
+
+###### Step 2: Working on Tableau
+
+Considering the above data I have created a new sheet and added all these columns to the sheet and uploaded it on tableau online data source. After this, I have filtered the given 15 health districts from the data source 
+**VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDa**. Then apply a filter for the column Lab Report Date here we have to filter July month dates 16-28. Once we are done filtering this consider another data source **combined data** by clicking at the data source field on top. After this, drag the sum of freq and always field i.e our estimated share into the columns and drag the percentage of Positive PCR tests done into the rows. I have considered the scatter plot here by choosing a circle in the marks field. A Scatter plot gives a better correlation. 
+
+![myimage](report_files/figure-gfm/Q3.png)
+
+**Conclusion**: From the above figure we can see the correlation between the percentage of positive PCR tests and with the people who regularly use masks. It is observed that the correlation lies below 0-10 which shows that the people wearing masks relatively decreases in the positive PCR tests.
+
+#### Part 2 - Using Application:
+
+###### Choose either R or Vega-Lite and re-create the charts you made in Part 1. Strive to have both sets of charts look as similar as possible.
+
+I have chosen Vega lite to re-create the charts that I made in the part1. Below is the link where I have recreated charts. Before we start vegalite we have to upload our files and import packages.
+
+https://observablehq.com/d/4daa013f96ab2b14
+
+###### Q1.How does the percentage of positive PCR tests over time compare for Norfolk, Chesapeake, and Virginia Beach?
+
+##### Solution: 
+
+I have re-created the Q1 in vegalite using vl.markLine(). The only difference I observed in this graph is the dates from LabReportDate[2020]. We could see the monthly wise variation in tableau whereas in vegalite the exact date is showing. I tried to change this Lab Report date to monthly in vegalite but I couldn't able to figure it out.
+
+![myimage](report_files/figure-gfm/Q1_Vegalite.png)
+
+
+###### Q2.For each health district, what percentage of the total tests given were PCR tests?
+
+##### Solution: 
+
+I have re-created Q2 using v.markBar(). We could find the highest percentage of total tests given were PCR tests for health districts. One thing I noticed is Tableau has the legend feature which gives the information with the health district name and the percentage when we hover the mouse at any district.
+
+
+![myimage](report_files/figure-gfm/Q2_Vegalite.png)
+
+##### Q3.[VDH, NYT] Was there a correlation between the percentage positive PCR tests averaged over July 16-28 (two weeks after the mask survey) and the estimated share of residents that answered "Frequently" or "Always" to the question of mask usage?
+
+##### Solution: 
+
+I have uploaded the combined datasheet which I have used for the Q3 in tableau. I used a markcircle to depict the figure. The graph looks pretty much similar in tableau and vegalite.
+
+![myimage](report_files/figure-gfm/Q3_Vegalite.png)
+
+
+
+##### References:
+
+Below are the few links that I have referred:
+
+1. County FIPS codes: https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013697
+
+2. County -> Virginia Department of Health - https://www.vdh.virginia.gov/local-health-districts/
+
+
+
+
